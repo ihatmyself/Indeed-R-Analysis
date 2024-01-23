@@ -1,0 +1,1523 @@
+job_title,company,job_location,post_date,salary,job_url,job_description
+Data Engineer I,Firstmark Credit Union,"San Antonio, TX 78232",Posted 13 days ago,Full-time,https://www.indeed.com/rc/clk?jk=4b8cee4b1b2a1b21&fccid=d3cb735057f462b9&vjs=3,"Job Summary:
+ The Data Engineer will primarily perform data engineering tasks, delivering efficient and reliable data pipelines and infrastructure to support the organization’s data needs. This role requires expertise in designing, building, and maintaining scalable data solutions, as well as knowledge of database administration principles. The ideal candidate will possess strong problem-solving skills and be able to collaborate effectively with cross-functional teams. With a focus on data integrity and performance optimization, the Data Engineer will play a crucial role in ensuring the organization’s data-driven initiatives are successful. They will also actively contribute to data governance initiatives, ensuring compliance with data standards, security measures, and privacy regulations. Additionally, they will stay updated with emerging technologies to drive continuous improvement in data engineering practices.
+ Major Responsibilities:
+
+
+
+Design, build, and maintain scalable and efficient data pipelines, ensuring the timely and accurate extraction, transformation, and loading (ETL) of data from various sources.
+Collaborate with data scientists and analysts to understand their data requirements and implement data models and structures that support efficient analysis and reporting.
+Perform data quality checks and implement data validation processes to ensure data accuracy and integrity.
+Support and optimize database performance by monitoring and tuning database queries, indexes, and overall system performance.
+Troubleshoot and resolve database and data pipeline issues, ensuring minimal downtime and disruptions to data availability.
+Implement and maintain database security measures, including user access controls and data encryption.
+Collaborate with cross-functional teams to understand business requirements and contribute to the design and implementation of data solutions.
+Analyze and validate data sharing requirements within the organization and with our outside partners.
+Analyze and interpret collected data; identifying trends; writing reports and recommendations for internal or external clients.
+Use statistical practices to analyze current and historical data to make predictions, identify risks, and opportunities enabling better decisions on planned/future events.
+Work with business leadership to understand data requirements; propose and develop solutions that enable effective decision-making and drive business objectives.
+Recognize potential issues and risks during the analytics project implementation and recommend mitigation strategies.
+Document best practices for data analysis, data engineering, and evangelize their usages.
+Coach and mentor project team members in carrying out analytics project implementation activities.
+Stay up to date with emerging trends and technologies in data engineering and database administration, recommending and implementing improvements as needed.
+
+Job Requirements and Qualifications:
+
+Bachelor's degree in computer science, engineering, or a related field.
+Minimum of 2 or more years experience.
+Strong proficiency in SQL script development, with experience in T-SQL (Microsoft SQL Server) being a plus.
+Knowledge of data engineering principles, including data modeling, ETL processes, and data integration techniques.
+Familiarity with database administration tasks, such as performance tuning, security management, and backup and recovery procedures.
+Experience building and optimizing data pipelines, architectures, and data sets.
+Experience with cloud platforms and technologies for data engineering, such as AWS, Azure, or Google Cloud. Azure knowledge is a plus.
+Proficiency in at least one programming language commonly used in data engineering, such as Python, Java, or Scala.
+Understanding of data governance principles and practices.
+Excellent problem-solving and analytical skills.
+Strong communication and collaboration abilities to work effectively with cross-functional teams.
+Attention to detail and a commitment to delivering high-quality data solutions.
+Minimum of 3-5 years of experience."
+Data Engineer,"AmeriVet Partners Management, Inc","San Antonio, TX 78217 (Airport area)",Posted 26 days ago,,https://www.indeed.com/rc/clk?jk=03fad7d2323b44d6&fccid=ebf406743ba918a7&vjs=3,"Description: 
+  Reporting to the IT Director of Data and Analytics, the Data Engineer is responsible for managing and maintaining the full data lifecycle, from data ingestion to data processing, storage, and analysis. Responsible for expanding and optimizing AmeriVet’s data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder and data manager/ orchestrator who enjoys optimizing data systems and building them from the ground up. The Data Engineer will ensure optimal data delivery architecture is consistent throughout ongoing projects. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+ ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+Manage the full data lifecycle, from data ingestion to data processing, sustainable database storage methods, and analysis
+Ensure data quality, accuracy, and consistency across all data sources and systems
+Establish best practices and standards for data engineering, including data modeling, schema design, and query optimization
+Assemble large, complex data sets that meet functional / non-functional business requirements
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, and re-designing infrastructure for greater scalability
+Define and apply appropriate data acquisition and consumption strategies for given technical scenarios
+Design and implement distributed data processing pipelines using tools and languages prevalent in the big data ecosystem
+Build utilities, user defined functions, libraries, and frameworks to better enable data flow patterns
+Implement complex automated routines using workflow orchestration tools
+Serve as the partner and technology leader for extracting data from the source systems, transform the data from source to the target formats, and load the data into the target systems
+Lead continuous technology improvements and identify innovative ways of provisioning data and key business insights to achieve desired business outcomes
+
+
+ If applicable, visa sponsorship could possibly be provided for this job opportunity to qualified candidates, ensuring compliance with relevant immigration laws and regulations.
+ This position is located in San Antonio, TX and will require the candidate to sit at our corporate office. Requirements: 
+ 
+Bachelor's or Master's degree in Computer Science, Information Systems, or a related field.
+8+ years of experience in data engineering, including ETL development, data modeling, and schema design
+4+ years of experience with Azure Data Lake, Azure Synapse Analytics, Apache Spark
+2+ years of experience in reporting tools such as PowerBI or Tableau
+Proficient with programming using Python, and also writing SQLs
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Experience with ingesting, categorizing, and analyzing data originating from multiple sources with varying structures and degree of completeness to provide a succinct, compelling story for management
+Ability to work in an agile, team-based environment and work collaboratively with operations teams and third-party vendors
+Excellent problem-solving skills and the ability to work in a fast-paced and dynamic environment.
+Solid understanding/experience with agile engineering and product development lifecycles and ability to manage agile engineering client engagements
+Analytical approach to problem-solving; ability to use technology to solve business problems
+Strong cross-functional team communication skills across the end-to-end client relationship
+
+
+PHYSICAL DEMANDS AND WORK ENVIRONMENT
+ The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the functions.
+ The physical activity of this position includes:
+ A. Climbing. Ascending or descending ladders, stairs, and the like, using feet and legs and/or hands and arms. Body agility is emphasized. This factor is important if the amount and kind of climbing required exceeds that required for ordinary locomotion.
+ B. Stooping. Bending body downward and forward by bending spine at the waist. This factor is important if it occurs to a considerable degree and requires full motion of the lower extremities and back muscles.
+ C. Kneeling. Bending legs at knee to come to a rest on knee or knees.
+ D. Crouching. Bending the body downward and forward by bending leg and spine.
+ E. Reaching. Extending hand(s) and arm(s) in any direction.
+ F. Standing. Particularly for sustained periods of time.
+ G. Walking. Moving about on foot to accomplish tasks, particularly for long distances or moving from one work site to another.
+ H. Pushing. Using upper extremities to press against something with steady force in order to thrust forward, downward or outward.
+ I. Pulling. Using upper extremities to exert force in order to draw, haul or tug objects in a sustained motion.
+ J. Lifting. Raising objects from a lower to a higher position or moving objects horizontally from position-to-position. This factor is important if it occurs to a considerable degree and requires substantial use of upper extremities and back muscles.
+ K. Fingering. Picking, pinching, typing or otherwise working, primarily with fingers rather than with the whole hand as in handling.
+ L. Grasping. Applying pressure to an object with the fingers and palm.
+ M. Feeling. Perceiving attributes of objects, such as size, shape, temperature or texture by touching with skin, particularly that of fingertips.
+ N. Talking. Expressing or exchanging ideas by means of the spoken word. Those activities in which they must convey detailed or important spoken instructions to other workers accurately, loudly, or quickly.
+ O. Hearing. Perceiving the nature of sounds at normal speaking levels with or without correction. Ability to receive detailed information through oral communication, and to make the discriminations in sound.
+ P. Repetitive motion. Substantial movements (motions) of the wrists, hands, and/or fingers.
+ The physical requirements of this position are:
+
+Light work. Exerting up to 20 pounds of force occasionally, and/or up to 10 pounds of force frequently, and/or a negligible amount of force constantly to move objects. If the use of arm and/or leg controls requires exertion of forces greater than that for sedentary work and the worker sits most of the time, the job is rated for light work.
+
+ The visual acuity requirements including color, depth perception and field vision are:
+
+The worker is required to have close visual acuity to perform an activity such as: preparing and analyzing data and figures; transcribing; viewing a computer terminal; extensive reading; visual inspection involving small defects, small parts, and/or operation of machines (including inspection); using measurement devices; and/or assembly or fabrication parts at distances close to the eyes.
+
+ The conditions the worker will be subject to in this position are:
+
+The worker is subject to environmental conditions. Protection from weather conditions but not necessarily from temperature changes.
+
+ Note
+ This job description in no way states or implies that these are the only duties to be performed by the employee(s) incumbent in this position. Employees will be required to follow any other job-related instructions and to perform any other job-related duties requested by any person authorized to give instructions or assignments. All duties and responsibilities are essential functions and requirements and are subject to possible modification to reasonably accommodate individuals with disabilities. To perform this job successfully, the incumbents will possess the skills, aptitudes, and abilities to perform each duty proficiently. Some requirements may exclude individuals who pose a direct threat or significant risk to the health or safety of themselves or others. The requirements listed in this document are the minimum levels of knowledge, skills, or abilities. This document does not create an employment contract, implied or otherwise, other than an “at will” relationship.
+ EEO Information
+ The company is an Equal Opportunity Employer, drug free workplace, and complies with ADA regulations as applicable.
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, and veteran status."
+Data Engineer (Immediate Opening),IDEA Public Schools,"San Antonio, TX 78216 (Airport area)",Posted 30+ days ago,Full-time,https://www.indeed.com/rc/clk?jk=3c8e504712b20741&fccid=4c58f1f52a144526&vjs=3,"Description 
+Role Mission: The Data Engineer will be responsible for improving IDEA's operational processes and supporting critical strategies by assisting in the new development and implementation related to our internal applications systems. The Engineer will deliver the testing, ongoing evaluation, and validation of organizational data structures and identify issues in current processes while providing proven strategies for ongoing database and data warehouse development relating to internal custom applications development and deployment. This position will provide recommendations and insight on IDEA's IT operations and strategy from an applications development standpoint. This job requires the ability and desire to work and communicate well in a dynamic team environment as well as dependability and self-sufficiency.
+ What You'll Do - Accountabilities:
+ 
+On-time Product Delivery: Drive to and maintain on-time development and delivery of high-quality features for custom applications and business intelligence tools as defined by monthly sprint plans as measured by: 
+
+% of Critical defects due to SQL code changes and ETL functioning should be limited to a max of 5% 
+% of spilled over development tasks should be limited to a max of 5% 
+Should acquire the complete ownership of at least 20% of the features developed 
+% of reopened defects should be limited to a max of 2% 
+
+
+Effective Requirements Analysis: New major product work and execution is detailed with full requirements analysis and effective preparation for sprint planning, with detailed task/effort estimates as measured by: 
+
+Difference between estimated effort and actual effort should be limited to a max of 15% and decrease gradually 
+Defects due a mis-match in understanding of the requirements should be limited to a max of 10% 
+
+
+Efficient Object-Oriented Analysis and Design: Thorough object-oriented analysis and design of features with the documentation of necessary design artifacts as measured by: 
+
+Refactoring time to enhance/improve SQL code changes and ETL development should be less than 15% of the original effort. 
+At least 20% of the code developed should be reusable 
+Reuse of code should be leveraged when possible. Duplication, if any, should be limited to a max of 5%. 
+
+
+Adherence to Effective Scrum Practices: Adhering to all of the Scrum processes, with active and punctual participation in Scrum meetings as measured by: 
+
+Absenteeism in scrum ceremonies including daily huddles, retrospectives, product reviews, and planning sessions should be limited to a max of 5% with prior intimation 
+All planned leaves (both short and long duration) should be intimated in advance and documented so that sprint commitments are not affected. Deviation should be limited to 5%. 
+Unplanned leaves (both short and long duration) should be intimated as soon as possible and documented so that sprint commitments are not affected. Deviation should be limited to 5%. 
+
+
+Continuous Improvement of Domain, Technical, and Behavioral Skills: Continuously enhancing the Product domain knowledge, technical, and behavioral competencies to grow to the next level as measured by: 
+
+Relevant trainings/actions need to be identified, planned and attended 3 times within the year (1 skill from each area - domain, technical, and behavioral) 
+Development and demonstration of these skills for the purpose of the facilitation of team training and/or mentoring should be developed for each team member (1 opportunity per year) 
+
+
+We look for Team and Family who embody the following values and characteristics: 
+
+Believes and is committed to our mission and being an agent of change: that all students are capable of getting to and through college 
+Has demonstrated effective outcomes and results, and wants to be held accountable for them 
+Has a propensity for action, willing to make mistakes by doing in order to learn and improve quickly 
+Works with urgency and purpose to drive student outcomes 
+Thrives in an entrepreneurial, high-growth environment; is comfortable with ambiguity and change 
+Seeks and responds well to feedback, which is shared often and freely across all levels of the organization 
+Works through silos and forges strong cross-departmental relationships in order to achieve outcomes 
+We believe in education as a profession and hold ourselves to high level of conduct, professionalism and behaviors as models for our colleagues and students 
+
+Note: At IDEA, the Data Engineer role is a mid to high level role with a focus on building upon the IDEA data warehouse. The IDEA data warehouse is the central data store for all analytics and reporting. As a result, the Engineer is responsible for data extraction, transformation, and loading of data into the data warehouse and is the primary keeper of this system. These processes require strong skills with a variety of specialized tools and techniques for data cleansing, preparation, modeling, and integration. This role is also required to have a strong background in analytics and server-side processing. 
+
+Supervisory Responsibilities:
+ This role leads and oversees the work of others in a project capacity as a project technical lead: 
+
+Planning and directing Data Integration/ETL Developer team member activities on projects 
+Assigning work 
+Overseeing proper maintenance and back-up of source code 
+Participation in evaluating performance (for Data Integration/ETL Developers) 
+Mediating conflict resolution 
+
+Qualifications:
+
+ Education: Bachelor's degree from four-year college or university in Information Technology, Computer Science, Computer Engineering, and Software Engineering
+ Experience: 6+ years related work experience and/or training; or equivalent combination of education and experience. 
+Certification/License:
+   
+ Microsoft Certified Solutions Associate (SQL 2016 BI Development),
+ Certified Associate in Project Management (CAPM) preferred
+
+
+ 
+What We Offer
+ Compensation: 
+
+Salaries for people entering this role typically fall between $66,626 and $80,618, commensurate with relevant experience and qualifications and in alignment with internal equity. This role is also eligible for a performance bonus based on individual and organizational performance and goal attainment.
+
+ 
+Other Benefits:
+ We offer a comprehensive benefits plan, covering the majority of the employee premium for the base medical plan and subsidizing the majority of costs for a spouse/domestic partner and children. Other benefits include dental and vision plans, disability, life insurance, parenting benefits, generous vacation time, com‐muter benefits, referral bonuses, professional development, and a 403(b) plan. We also offer an inclusive environment where staff are encouraged to bring their whole selves to work every day. IDEA may offer a relocation stipend to defray the cost of moving for this role, if applicable.
+ 
+
+To Apply:
+ Please submit your application online through Jobvite. It's in your best interest to apply as soon as possible. It is recommended that you include a cover letter in your application addressing why you are interested in IDEA and how your experience has prepared you for this position."
+Data Engineer 2 - Data & Analytics Engineering,CPS Energy,"San Antonio, TX 78205 (Downtown area)",Posted 9 days ago,Weekends as needed,https://www.indeed.com/rc/clk?jk=49f51f0851d978c1&fccid=40f0ac55371ca5f2&vjs=3,"We are engineers, high line workers, power plant managers, accountants, electricians, project coordinators, risk analysts, customer service operators, community representatives, safety and security specialists, communicators, human resources partners, information technology technicians and much, much more. We are 3,300 people committed to enhancing the lives of the communities we serve. Together, we are powering the growth and success of our community progress every day!
+
+
+
+ Position Summary
+
+
+ Provide the development and automation of computing processes on premise and in the cloud environment using cloud base architecture to detect, predict and respond to opportunities in business operations. Working with a variety of disparate datasets that encompass many disciplines and business units including weather, transmission and distribution grid infrastructure, power generation, gas delivery, commercial market operations, safety and security and customer engagement. Strive to transform and implement true business integration, leveraging top-notch data integration best practices. Merging and securing data in a way that reduces the cost to maintain and increases the utilization of enterprise-wide data as an asset. Developing business intelligence.
+
+ GRADE: 14 *
+
+Qualifications may warrant placement in a different job level 1-3
+
+
+ DEADLINE TO APPLY: Open Until Filled
+
+
+
+
+ Tasks and Responsibilities
+
+
+
+ Design, Develop, and unit test new or existing ETL/Data Integration solutions to meet business requirements.
+ Daily production support for Enterprise Data Warehouse including jobs in Informatica/Mulesoft and Oracle PL/SQL; and be flexible to manage high severity incidents/problem resolution.
+ Participate in troubleshooting and resolving data integration issues such as data quality.
+ Deliver increased productivity and effectiveness through rapid delivery of high-quality applications.
+ Provide work estimates and communicate status of assignments.
+ Assist in QA efforts on tasks by providing input for test cases and supporting test case execution.
+ Analyze transaction errors, troubleshoot issues in the software, develop bug-fixes, involved in performance tuning efforts.
+ Develop Informatica/Mulesoft Mappings and complex Oracle PL/SQL programs for the Data Warehouse.
+ Responsible for selecting and using DevOps tools for continuous integration, builds, and monitoring of solutions.
+ May provide input to area budget.
+ Makes some independent decisions and recommendations which affect the section, department and/or division.
+ Performs other duties as assigned.
+
+
+
+
+
+ Minimum Skills
+
+
+
+
+
+ Minimum Knowledge and Abilities
+
+
+
+      Experience in a data integration role.
+    
+
+      Experience using Apache Spark, Nifi and/or Kafka.
+    
+
+      Experience using Python.
+    
+
+      Experience integrating enterprise software using ETL modules.
+    
+
+      Knowledge of data architecture, structures and principles with the ability to critique data and system designs.
+    
+
+      Ability to design, create and/or modify data processes that meet key timelines while conforming to predefined specifications utilizing the Informatica and/or Mulesoft platform.
+    
+
+      Understanding of big data technologies and platforms (Hadoop, Spark, MapReduce, Hive, HBase, MongoDB).
+    
+
+      Ability to integrate data from Web services in XML, JSON, flat file format, SOAP.
+    
+
+      Knowledge of core concepts of RESTful API Modeling Language (RAML 1.0) and designing with MuleSoft solutions.
+    
+
+
+
+
+ Preferred Qualifications
+
+
+
+ Relevant Certifications
+ Experience in API Management
+ Proficiency with the following databases/technologies: Mulesoft Anypoint Studio, Informatica PowerCenter, Oracle RDMS, PL/SQL, MySQL
+ Knowledge of Test Driven Development (TDD)
+ Familiarity with Cloud base architecture
+ Experince with data analysis & model prototyping using Spark/Python/SQL and common data science tools & libraries (e.g. NumPy, Pandas, scikit-learn, TensorFlow)
+ Experience in a technology organization
+
+
+
+
+
+ Competencies
+
+
+
+      Demonstrating Initiative
+    
+
+      Communicates Effectively
+    
+
+      Using Computers and Technology
+    
+
+      Driving for Results
+    
+
+
+
+
+ Minimum Education
+
+
+
+      Bachelor’s degree in Computer Science, Engineering, or related field from an accredited university.
+    
+
+
+
+
+ Required Certifications
+
+
+
+
+
+ Working Environment
+
+
+
+      Indoor work, operating computer, manual dexterity, talking, hearing, repetitive motion. Use of personal computing equipment, telephone, multi- functioning printer and calculator.
+    
+
+      Ability to travel to and from meetings, training sessions or other business related events. Ability to perform after- hours and weekend work as required.
+    
+
+
+
+
+ Physical Demands
+
+
+
+      Exerting up to 10 pounds of force occasionally, and/or a negligible amount of force frequently or constantly to lift, carry, push, pull or otherwise move objects, including the human body.
+    
+
+      Sedentary work involves sitting most of the time. Jobs are sedentary if walking and standing are required only occasionally, and all other sedentary criteria are met.
+    
+
+
+
+ CPS Energy does not discriminate against applicants or employees. CPS Energy is committed to providing equal opportunity in all of its employment practices, including selection, hiring, promotion, transfers and compensation, to all qualified applicants and employees without regard to race, religion, color, sex, sexual orientation, gender identity, national origin, citizenship status, veteran status, pregnancy, age, disability, genetic information or any other protected status. CPS Energy will comply with all laws and regulations."
+Data Engineer,Victory Capital Management,"San Antonio, TX 78256 (Friends Of Friedrich Wilderness Park area)",Posted 30+ days ago,Full-time,https://www.indeed.com/rc/clk?jk=a3ae743cf97a4f0e&fccid=e125d6373ded89d0&vjs=3,"Job Details
+Description
+Data EngineerOrganization: Data and AnalyticsVictory Capital | San Antonio, TXAbout Victory Capital:Victory Capital is a diversified global asset management firm. We operate a next-generation business model combining boutique investment qualities with the benefits of a fully integrated, centralized operating and distribution platform.Victory Capital provides specialized investment strategies to institutions, intermediaries, retirement platforms and individual investors. With 12 autonomous Investment Franchises and a Solutions Platform, Victory Capital offers a wide array of investment products, including mutual funds, ETFs, separately managed accounts, alternative investments, third-party ETF model strategies, collective investment trusts, private funds, and a 529 Education Savings Plan.General Summary and Purpose:We are looking for a Data Engineer to support the scale up of our Data and Analytics team. We are focused on being an end-to-end data-driven organization and that starts with building the data infrastructure. The Data Engineer will play an important role in this development and will build and increase the infrastructure and architecture of data storage and pipelines, and optimizing data collection, flow, and delivery across the firm.You will report to the Data Engineering and Data Operations Manager.You Will:
+
+Build the databases and infrastructure required for extraction, transformation, and loading of data from several data sources
+Develop and test code and programs for processes within, to, from and between databases and systems
+Implement internal process improvements: automating manual processes, optimizing data delivery, re-designing database infrastructure for greater scalability
+Maintain a hierarchical structure for code between database development environments and database management systems
+Communicate complex solutions and ideas to a variety of team members (other team members, IT leadership, and business leaders) in easily understandable language
+Work with IT and our teams to improve data models that feed business intelligence tools, increasing data accessibility and promoting data-driven decision-making across the organization
+Monitor and enhance database and process performance, reliability and efficiency through hardware or software enhancements
+
+You Have:
+
+Bachelor's degree in Computer Science, Information Technology, Informatics, Engineering or related field with the experience described below in business intelligence, database administration management or ETL development
+3+ years of experience with structured or unstructured data, streaming and batch data processing, ETL, data ingestion (via databases, files, APIs, etc.) and data wrangling
+3+ years of experience writing efficient and complex SQL, Python or PySpark for ETL and streaming using AWS Glue or related systems
+3+ years of experience deploying big data jobs and completing ETL jobs in the AWS ecosystem using Glue, Lambda, Airflow, EMR, Athena and related tools
+3+ years of experience in designing and implementing database schemas, tables, indexes and DevOps processes based on application requirements and performance considerations in databases including Amazon DynamoDB, Redshift, Microsoft SQL Server, Oracle SQL Developer, Eagle Data Management
+3+ years of experience with Informatica, Tableau, PowerBI, SSRS, Qlik, MicroStrategy, Oracle Reports, Crystal Reports or other visualization tools
+Experience with Workload Automation Tools like ActiveBatch, JAMS, AutoSys or other related tools
+Experience with data management, data warehousing, data quality, data mapping, data dictionaries, data governance, security and version control
+Experience in the Financial Services Industry and with financial software like FactSet, Bloomberg, MSCI or other related software
+Complete job-related assessment may be required
+
+Our Benefits:Victory Capital Management offers excellent Medical, Dental, Vision plans, Flexible PTO, Family Medical and Disability Leaves, Education Tuition Reimbursement, and a 401k plan with a generous employer match.We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.
+Job Type: Full-time"
+Data Engineer Senior,USAA,"Hybrid remote in San Antonio, TX 78288",Posted 1 day ago,,https://www.indeed.com/rc/clk?jk=dd39b2e8999e43d0&fccid=3a1edc2d763c4288&vjs=3,"Why USAA? Let’s do something that really matters.
+ 
+ At USAA, we have an important mission: facilitating the financial security of millions of U.S. military members and their families. Not all of our employees served in our nation’s military, but we all share in the mission to give back to those who did. We’re working as one to build a great experience and make a real impact for our members.
+ 
+ We believe in our core values of honesty, integrity, loyalty, and service. They’re what guides everything we do – from how we treat our members to how we treat each other. Come be a part of what makes us so special!
+ 
+ The Opportunity
+
+ We are seeking a dedicated Data Engineer Senior for the ECIO Delta Team within the Strategy Planning and Risk Group. The candidate selected will provide internal specialized consultant advisory services to improve performance, implement solutions, and engage organizational resolution towards a specific business need or opportunity. Serving in a consultant advisory capacity; you will engage with multiple functional areas or across the Enterprise to provide the business and our key stakeholders a clear, unbiased real-time result that drives value and builds organizational efficiency. Team focus will be geared towards problem solving across Enterprise IT, advancing foundational technology principles rooted within the USAA Technology Strategy and driving organizational optimization.
+
+ This position is a hybrid work type and is based out of Plano, TX or San Antonio, TX . Hybrid roles help employees gain the best of both worlds – collaborating in-person in the office and working from home when needed to achieve focused results.
+
+ Data Engineers (DEs) are engaged in all phases of the data management lifecycle. This includes gathering and analyzing requirements, collecting, processing, storing, securing, and archiving data. Develop and maintain technical systems for data reporting and technical solutions utilizing emerging technologies. Partner with the business to ensure data management solutions aligned to business objectives.
+
+ What you'll do:
+
+
+ Leads and/or engineers the full cycle of data solutions from analysis, solution design, data pipeline engineering, testing, deployment, scheduling, and production support.
+ Designs and implements highly-complex technical solutions for data engineering and analytic systems using new methodologies and emerging technologies.
+ Designs, builds, manages and optimizes data pipelines for data structures encompassing data transformation, data models, schemas, metadata, data quality, and workload management.
+ Leads design reviews for the team and provides recommendations using innovative architectural concepts and principals.
+ Breakdowns business features into technical stories and approaches. Presents to leadership and influences on technical solutions.
+ Creates proof of concepts and prototypes on highly complex solutions and presents to leadership to deliver on vision for solution.
+ Collaborates with cross-functional partners and stakeholders to lead technical solutions.
+ Implements efficient defect management, root cause analysis, and resolution processes.
+ Helps develop, maintain, and enforce the company’s data development tools and standards. Conduct code reviews on a regular basis to improve quality and ensure compliance
+ Creates the development of data pipelines, extracting data from our various applications (internal & external sources) into the Data Platform.
+ Assists in setting technical direction for the team and serves a mentor to team members.
+ Ensures risks associated with business activities are effectively identified, measured, monitored, and controlled in accordance with risk and compliance policies and procedures.
+
+
+ What you have:
+
+
+ Bachelor’s Degree or 4 additional years of experience beyond the minimum requirement can be used in lieu of a degree.
+ 6 years of data engineering, data analysis or software development experience implementing data solutions with at least 2 years of data engineering or data management experience.
+ Proven experience with end to end delivering of data solutions that includes building, managing, and optimizing data pipelines across cloud environments; curating and modeling the data for various types of consumers/products and their pattern of usage to include data marts, data lake, and operational analytic applications.
+ Experience completing multiple projects leveraging the agile methodology in delivering data.
+ Extensive knowledge and experience in SQL and Relational Databases.
+ Demonstrated experience working with cloud technologies and tools.
+
+
+ What sets you apart:
+
+
+ Experience designing, implementing, and monitoring modern enterprise data solutions/platforms in the cloud (AWS preferred)
+ Knowledge to model and design modern data structures, SQL/NoSQL databases, Data Lakes, Cloud Data Warehouses (Snowflake preferred)
+ Understanding of distributed systems and processing(Spark and Kafka preferred)Experience with batch and streaming data movement
+ Comprehensive knowledge of data management / data governance principles/ data controls / data security
+
+
+ The above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job.
+
+ What we offer:
+
+ Compensation: USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the salary range based on your experience and market data of the position. The actual salary for this role may vary by location. The salary range for this position is: $104,660 - $199,970.
+ Employees may be eligible for pay incentives based on overall corporate and individual performance and at the discretion of the USAA Board of Directors.
+
+ Benefits: At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals.
+ For more details on our outstanding benefits, please visit our benefits page on USAAjobs.com.
+
+ Relocation assistance is not available for this position.
+
+ USAA is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran."
+Senior Data Engineer,"iHeartMedia, Inc.","San Antonio, TX 78258",Posted 28 days ago,Full-time,https://www.indeed.com/rc/clk?jk=74af2314e78c350b&fccid=5b2f9eaa91cb3370&vjs=3,"iHeartMedia 
+
+ Current employees and contingent workers click here to apply and search by the Job Posting Title. 
+
+ The audio revolution is here – and iHeart is leading it! From broadcast radio to digital streaming radio to podcasting, audio continues to grow – and iHeart, which reaches 90% of Americans every month, is the #1 audio company in America across every one of those platforms. We’re the home of many of the country’s most popular and trusted on-air personalities and podcast influencers; we build important connections with hundreds of communities across America; we create and produce some of the most popular and well-known branded live music events in America; and we have the only complete audio ad technology stack in the industry for all forms of audio, from on demand to broadcast radio, digital streaming radio and podcasting. Only one company in America has the #1 position in everything audio: iHeartMedia. 
+
+ If you’re excited about this role but don’t feel your experience aligns perfectly with the job description, we encourage you to apply anyway. At iHeartMedia we are dedicated to building a diverse, inclusive, and authentic workplace and are looking for teammates passionate about what we do! 
+
+
+What We Need:
+ iHeartMedia Management Services, Inc. seeks candidates for the position of Senior Data Engineer responsible for developing, expanding, testing and/or optimizing the infrastructure and architecture of existing and future data pipelines, as well as optimizing data collection, flow, and delivery for cross-functional teams including software engineers and business partners. 
+
+
+What You'll Do:
+ Responsible for developing, expanding, testing and/or optimizing the infrastructure and architecture of existing and future data pipelines, as well as optimizing data collection, flow, and delivery for cross-functional teams including software engineers and business partners. 
+
+
+What You'll Need:
+ Relevant work experience required. 
+
+
+What You'll Bring:
+ Respect for others and a strong belief that others should do this in return 
+
+ Expertise with various technical disciplines and applications 
+
+ Close attention to detail and quality orientation 
+
+ Ability to multitask on a variety of critical projects 
+
+ Ability to work independently, while also collaborating with others 
+
+ Strong communication skills, particularly when explaining complex technical information 
+
+ Ability to provide solutions to problems in situations that are atypical/infrequent 
+
+ Analytical thinking and the ability to identify patterns 
+
+ Efficiency with own work and impact of team results 
+
+ Informal leadership capabilities with an interest in mentoring less experienced team members 
+
+
+Location:
+
+San Antonio, TX: 20880 Stone Oak Parkway, 78258 
+
+
+Position Type:
+ Regular 
+
+
+Time Type:
+ Full time 
+
+
+Pay Type:
+ Salaried 
+
+
+Benefits:
+ iHeartMedia’s benefits offering is flexible and offers a variety of choices to meet the diverse needs of our changing workforce, including the following: 
+
+ Employer sponsored medical, dental and vision with a variety of coverage options 
+
+ Company provided and supplemental life insurance 
+
+ Paid vacation and sick time 
+
+ Paid company holidays, including a floating holiday that enable our employees to celebrate the holiday of their choosing 
+
+ A Spirit day to encourage and allow our employees to more easily volunteer in their community 
+
+ A 401K plan 
+
+ Employee Assistance Program (EAP) at no cost – services include telephonic counseling sessions, consultation on legal and financial matters, emotional well-being, family and caregiving 
+
+ A range of additional voluntary programs, such as spending accounts, student loan refinancing, accident insurance and more! 
+
+ The Company is an equal opportunity employer and will not tolerate discrimination in employment on the basis of race, color, age, sex, sexual orientation, gender identity or expression, religion, disability, ethnicity, national origin, marital status, protected veteran status, genetic information, or any other legally protected classification or status. 
+
+ Our organization participates in E-Verify. Click here to learn about E-Verify."
+"Senior Data Engineer, Infrastructure-Dallas, Austin, or San Antonio, TX",H-E-B,"San Antonio, TX 78204 (Lone Star area)",Posted 30+ days ago,Full-time,https://www.indeed.com/rc/clk?jk=9a893c50cd3457b7&fccid=c629e32155ebd42c&vjs=3,"Overview: 
+ 
+ H-E-B is one of the largest, independently owned food retailers in the nation operating over 420+ stores throughout Texas and Mexico, with annual sales generating over $34 billion. Described by industry experts as a daring innovator and smart competitor, 
+  H-E-B has led the way with creative new concepts, outstanding service and a commitment to diversity in our workforce, workplace and marketplace. 
+  H-E-B offers a wealth of career opportunities to our 145,000+ Partners (employees), competitive compensation and benefits program and comprehensive training that lead to successful careers.
+  Responsibilities: 
+ 
+   Since H-E-B Digital Technology's inception, we've been investing heavily in our customers' digital experience, reinventing how they find inspiration from food, how they make food decisions, and how they ultimately get food into their homes. This is an exciting time to join H-E-B Digital-we're using the best available technologies to deliver modern, engaging, reliable, and scalable experiences to meet the needs of our growing audience. If you enjoy taking on new challenges, working in a rapidly changing environment, learning new skills, and applying it all to solve large and impactful business problems, we want you as part of our team.
+  
+ Our Partners thrive The H-E-B Way. In the 
+  Senior Data Engineer, Infrastructure job, that means you have a...
+   HEART FOR PEOPLE... you can organize multiple engineers, negotiate solutions, and provide upward communication
+   HEAD FOR BUSINESS... you consistently demonstrate and uphold the standards of coding, infrastructure, and process
+   PASSION FOR RESULTS... you're capable of high-velocity contributions in multiple technical domains
+ 
+
+
+ What you will do:
+
+
+
+
+     Design and deploy batch and streaming data pipeline infrastructure using IaC and CI/CD
+   
+
+
+     Implement features to ensure data platform performance, reliability, and security
+   
+
+
+     Develop solutions to improve monitoring and observability for data pipelines and platform infrastructure
+   
+
+
+     Build data platform components using hybrid cloud services (AWS, GCP, and Azure)
+   
+
+
+     Use configuration management tools to provision system images and install and configure Linux application servers
+   
+
+
+     Help contain costs by delivering solutions to monitor data platform utilization and expenditure
+   
+
+
+
+ Project you will impact:
+
+
+
+
+     Build a world class data platform that can handle petabytes of data
+   
+
+
+     Improve the data quality and consumer experience for 100K+ enterprise data consumers
+   
+
+
+
+ Who you are:
+
+
+
+
+     Hands-on experience in DevOps for cloud infrastructure and data pipelines
+   
+
+
+     Solid background in Linux, networking, SSL/TLS cert management, secrets management, IAM and security best practices
+   
+
+
+     Experienced programmer in one or more languages such as Bash/Shell, Python, Java, Go, Ruby
+   
+
+
+     Understanding of Big Data and Hybrid Cloud infrastructure. Experienced in technologies such as Kafka, Kubernetes, Spark, Databricks, AWS EMR, S3, data warehouses (Snowflake, Teradata)
+   
+
+
+     Significant experience with one or more cloud infrastructure providers (AWS, GCP, Azure)
+   
+
+
+     Experienced in cloud administration and Infrastructure as Code (Terraform, Cloud Formation, AWS CDK, Pulumi)
+   
+
+
+     Comfortable with configuration management tools (Ansible, Puppet, Chef, Salt)
+   
+
+
+     Have worked with enterprise monitoring, APM, and log analysis tools like Datadog, Splunk, ELK Stack, New Relic
+   
+
+
+     Experienced with CI/CD tools such as GitLab CI/CD and Jenkins
+   
+
+
+     Up to date on the latest technology developments. Should be able to evaluate and propose new tooling/solutions for data platform
+   
+
+
+     Excellent written, oral communication and presentation skills
+   
+
+
+
+ Bonus:
+
+
+
+
+     DevOps certifications
+   
+
+
+     Cloud certifications
+   
+
+
+   DATA3232"
+Federal - Cloud Data Engineer,Accenture,"San Antonio, TX",Posted 30+ days ago,Full-time,https://www.indeed.com/rc/clk?jk=1df189bce7f85e6e&fccid=a4e4e2eaf26690c9&vjs=3,"We are:
+ Accenture Federal Services, helping our federal clients tackle their toughest challenges while unleashing their fullest potential…and then some. What makes our approach so unique? Operating from the nation’s capital, we bring together commercial innovation and leading-edge technologies to deliver an integrated and interactive experience that far exceeds expectations. How? Our passion meets purpose! Through our diverse culture and inclusive thinking, we embrace our employees' ideas taking them from concept to practical solutions. Not to mention, we sleep well at night knowing our work directly impacts and improves the way the world works. We keep our tech smarts sharp by providing abundant training and certification opportunities. Are you ready to learn and grow in a career, while making a difference?
+
+ You are:
+ A Data Engineering pro—someone who thrives in a team setting where you can use your creative and analytical prowess to obliterate problems. You’re passionate about digital technology, and you take pride in making a tangible difference. Complex issues don’t faze you thanks to your razor-sharp critical thinking skills. Working in an information systems environment makes you more than happy. As part of our AI & Technology group, you will lead cloud technology innovation for our clients through robust delivery of world-class data platforms. There will never be a typical day and that’s why people love it here. The opportunities to make a difference within exciting client initiatives are unlimited in the ever-changing cloud data landscape.
+
+ The work:
+ Develop and drive automated solutions. You help build the infrastructure to answer questions with data, using software engineering best practices, data management fundamentals, data storage principles, and recent advances in distributed systems. 
+Solve challenging data integration problems utilizing optimal ETL patterns, frameworks, query techniques, and sourcing from structured and unstructured data sources.
+ Ensure best practices by checking code for accuracy, testability, efficiency, and style guidelines
+ Come grow your career in Technology at Accenture!
+
+
+
+
+
+   Job Qualifications
+  
+
+
+
+
+
+ Job Qualifications:
+
+ Experience with SQL, data modeling, and building ETL pipelines
+ Knowledge of data management fundamentals and data storage principles
+ Experience in coding and automating processes
+ Cloud Data Services experience through certification, education, or hands-on experience
+ US Citizenship required No Dual Citizens 
+
+Bonus Points:
+
+ Data Warehousing
+ Object-oriented languages,
+ Schema design
+
+
+
+ Compensation for roles at Accenture Federal Services varies depending on a wide array of factors including but not limited to the specific office location, role, skill set and level of experience. As required by local law, Accenture Federal Services provides a reasonable range of compensation for roles that may be hired in California, Colorado, New York City or Washington as set forth below and information on benefits offered is here.
+
+
+
+ Role Location: Range of Starting Pay for role
+
+
+ California: $73,900- $198,800
+
+
+ Colorado: $73,900- $171,700
+
+
+ New York City: $85,500- $198,800
+
+
+ Washington: $78,600- $182,800
+
+
+ Important information
+
+ An active security clearance or the ability to obtain one may be required for this role.
+
+
+
+
+
+
+ What We Believe
+
+ We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+
+ Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities. Read more here
+
+ Equal Employment Opportunity Statement
+ Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.
+ All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+ Accenture is committed to providing veteran employment opportunities to our service men and women.
+ For details, view a copy of the Accenture Equal Opportunity and Affirmative Action Policy Statement.
+ Requesting An Accommodation
+ Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+ If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 1 (877) 889-9009, send us an email or speak with your recruiter.
+ Other Employment Statements
+ Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+ Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+ Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+ The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information."
+(Hybrid) Senior Enterprise Data Engineer - San Antonio Texas,PenFed Credit Union,"San Antonio, TX 78259 (Encino Park area)",Posted 30+ days ago,Full-time,https://www.indeed.com/rc/clk?jk=594a5fdb9f213e89&fccid=90023db4608f1f3b&vjs=3,"Overview
+
+ Are you looking to take your career from good to great? As an employee of PenFed, every day is an opportunity to thrive, and be part of a team working to ensure our organization is providing world class service to our members, employees, and our communities. We exist to help our members realize their full potential, educate and encourage their dreams, and make every effort to follow our mission and help our members ""do better."" Joining PenFed is more than being an employee; it's about being a part of the PenFed family.
+ 
+ PenFed is hiring a (Hybrid) Senior Enterprise Data Engineer at one of our following locations: Tysons, Virginia; or San Antonio, Texas. The primary purpose of this role is to help develop and deploy advanced Analytics and AI based solutions. The primary responsibility will be to develop efficient and scalable data pipelines, ensure seamless flow of data across various sources, storage systems and analytical tools.
+ 
+
+Responsibilities
+
+ Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. This is not intended to be an all-inclusive list of job duties and the position will perform other duties as assigned.
+ 
+
+
+
+Design and Develop scalable data pipelines across Transactional and Analytics platforms established in the Hybrid (on-premise & cloud) environment.
+ Partner with other competency leads/developers, Data scientists, Data Analysts, Data stewards and support project planning, technical design, development, and solution deployment functions.
+ Partner with the Enterprise Architecture functions to adopt established technology standards integration patterns.
+ Architect optimal design of DataLake/ Datawarehouse environments, analyzing complex distributed production deployments, and making recommendations to optimize performance.
+ Supports Analytics by providing right data with right quality at the right time by leveraging the PenFed Next generation Data & Analytics platforms.
+ Ensure Data Architecture and Data governance principles well adopted in the developed solutions.
+ Develop innovative solutions to complex business and technology problems. Ability to think strategically about business, product, and technical challenges in an enterprise environment.
+ Lead, mentor, and develop development resources and provide project related directions
+ Acting in a technical SME role, support development, QA, and production support teams in SDLC and operational activities
+ Identify opportunities in business processes, system capabilities, and delivery methodologies for continuous improvement, as applicable
+ Collaborate with cross-functional teams to understand data requirements and translate them into scalable performant technical solutions
+ Implement data integration and ETL and ELT processes to ensure data quality, accuracy, and integrity of data
+
+
+Qualifications
+
+ Equivalent combination of education and experience is considered.
+ 
+
+
+
+Bachelor's degree in Computer Science, Information Systems or related field; Masters' degree preferred.
+ Minimum of Ten (10) years' experience in the fields of data warehousing, ETL and application development.
+ Minimum of 5+ years of work experience on the Hadoop based Data Lake solutions.
+ Minimum of 3+ years of experience on cloud-native and cloud-agnostic Data Lake/Data warehousing solutions preferably cloud data platform, Snowflake and AWS
+ Strong experience in design and development of Snowflake data pipelines using Snowpark, Streamlit and SwowCLI hosted on AWS cloud.
+ Hands on experience with AWS services like EC2, S3, Lambda, Step functions, Glue, Kafka and Airflow.
+ 1+ years of experience on Data flow tools such as Apache Airflow.
+ Data Engineer experience with strong programming background using SQL, Python, Java and Linux scripting (BASH).
+ Prior experience leading ETL work, Data warehouse/Data Lake development a plus.
+ Ability to work as part of a team, self-motivation, adaptability and positive attitude.
+ Must have strong communication skills.
+
+ Supervisory Responsibility
+
+
+ This position will not supervise staff.
+
+ Licenses and Certifications
+
+
+ AWS Solution Architect Associate/ Big Data Specialty certification is preferred.
+ Snowflake certification is preferred.
+
+ Work Environment
+
+ While performing the duties of this job, the employee is regularly exposed to an indoor office setting with moderate noise.
+ 
+ *Most roles require working in an office setting with moderate noise and the ability to lift 25 pounds.* 
+ 
+
+Travel
+
+ Ability to travel to various worksites and be on-call may be required.
+ 
+
+About Us
+
+ Established in 1935, PenFed today is one of the country's strongest and most stable financial institutions with over 2.8 million members and over $36 billion in assets. We serve members in all 50 states and the District of Columbia, as well as in Guam, Puerto Rico and Okinawa. We are federally insured by NCUA and we are an Equal Housing Lender. We are available to members worldwide, via the web, seven days a week, twenty-four hours a day.
+ 
+ We provide our employees with a lucrative benefits package including robust medical, dental and vision plan options, plenty of paid time off, 401k with employer match, on-site fitness facilities at our larger locations, and more.
+ 
+
+Equal Employment Opportunity
+
+ PenFed management will maintain and observe personnel policies which will not discriminate or permit harassment or retaliation against a person because of race, color, creed, age, sex, gender, gender identity, gender expression, religion, national origin, ancestry, marital status, military or veteran status or obligation, the presence of a physical and/or mental disability or medical condition, genetic information, sexual orientation, and all statuses protected by applicable state or local law in all recruiting, hiring, training, compensation, overtime, position classifications, work assignments, facilities, promotions, transfers, employee treatment, and in all other terms and conditions of employment. PenFed will also prohibit retaliation against individuals for raising a complaint of discrimination or harassment or participating in an investigation of same.
+ 
+ PenFed will also reasonably accommodate qualified individuals with a disability so that they can apply for a job or perform the essential functions of a job unless doing so causes a direct threat to these individuals or others in the workplace and the threat cannot be eliminated by reasonable accommodation or if the accommodation creates an undue hardship to PenFed. Contact human resources (HR) with any questions or requests for accommodation at 240-224-4256."
+ENGINEER - RESEARCH ENGINEER - CONTROLS & DATA ACQUISITION,Southwest Research Institute,"San Antonio, TX 78238",Posted 5 days ago,,https://www.indeed.com/rc/clk?jk=e792d0bc06aa5a16&fccid=0d9a7400c0a8fdec&vjs=3,"Who We Are: 
+The Propulsion & Energy Machinery Section performs engineering R&D in the fields of industrial heat and power, liquid propulsion, gas turbine combustion, and air-breathing propulsion. Our technologies are powering a cleaner future and advancing state-of-the-art propulsion for air and space flight.
+Objectives of this Role: 
+
+Assist engineers in developing and operating custom data acquisition and control systems used for a variety tests.
+ Typical application areas include: supercritical CO2 oxy-fuel combustion systems, gas turbine combustion systems, launch vehicle components.
+ Create custom graphical user interfaces using NI LabView to control, display, and manipulate test parameters and measured data.
+ Identify and design instrumentation schemes in support of defined test goals. Procure, calibrate, install, and commission instruments and other hardware for experiments of various scales.
+ Support test campaigns by trouble-shooting data acquisition and control system hardware/software issues.
+ Analyze collected data in excel, MATLAB, or equivalent post processing tools and report data to project teams and clients.
+
+Daily and Monthly Responsibilities: 
+
+Design, procure, and assemble data acquisition systems including instrumentation, DAQ modules, hardware, and wiring.
+ Use NI Labview to develop acquisition and control modules and graphical user interfaces to assist a range of test campaigns.
+ Program various functions and sub-VIs to monitor flow, temperature, vibration, pressure, density, etc. using various instruments.
+ Understand various electrical instruments including pressure transducers, eddy current probes, thermocouples, and associated DATA acquisition systems.
+
+Requirements: 
+
+Requires a Bachelors, Masters or a PhD in Mechanical Engineering, Aerospace Engineering, or related engineering degree
+ 1-2 years: BS with experience in Data Acquisition, LabVIEW, PLC's, Instrumentation and sensors
+ 0-2 years: Master's or PhD with academic experience in Data Acquisition, LabVIEW, PLC's, Instrumentation and sensors
+ A valid/clear driver's license is required
+
+
+Special Requirements: 
+Must be a U.S. person (i.e., U.S. citizen, non-U.S. citizen national, lawful permanent resident, asylee, or refugee) due to ITAR work in section."
+Cyber Data Engineer,BRS,"San Antonio, TX",Posted 30+ days ago,Full-time,https://www.indeed.com/rc/clk?jk=17cfe23d8200d3ff&fccid=e2c1d9254247b2b7&vjs=3,"STS Systems Support, LLC (SSS) is seeking a Cyber Data Engineer 
+
+
+Requirements:
+
+
+DoDD 8570.01‐M/8140.01 I AT Level III CND
+Active TS/SCI
+More than 3 years of relevant work experience. BA/BS or MA/MS
+Proficient w/ Splunk Processing Language (SPL), ELK Lucene Query Syntax or other search/analytics tool.
+Proficient with programming/scripting fundamentals – including regex, C++, Python, RHEL, Unix Scripting, and Windows PowerShell is required.
+Linux+/Red Hat; RHEL 7.
+More than three (3) years of relevant work experience, including experience in responding to security problems in target‐rich environments, looking at security alerts, frontline analysis, and response.
+Understanding of SIEM ""Search"" Language & Lucene Query Syntax. Understanding of SIEM Dashboard, Reports, Lookup Tables, and Summary Indexes.
+Knowledge of knowing how to customize Dashboards via the XML source.
+Experience with SIEM Apps and ELK.
+Experience with Python Scripting. Programming experience in Python, C/C++, Java, or Go.
+Demonstrated expertise with malware analysis, including investigations of botnet and root‐kit behavior.
+Familiarity with information security concepts (OWASP Top 10, CVEs, IoCs, TTPs, Cryptography). Network Security Devices (IDS/IPS, NGFW, WAF, NGAV). OSSEC, Snort, Suricata Experience.
+Experience with at least one SIEM i.e Alienvault, Logrhythm, Splunk, Qradar , ELK and Firewalls such as Fortinet, Sonicwall, and Palo Alto.
+Scanning technologies, Log collection and analysis tools (SIEM).
+Experience with Scripting/Programming Languages (BASH, Python, Java, etc).
+Extensive knowledge of MITRE ATT&CK framework, and its uses within the cybersecurity community (e.g., Open Source projects).
+
+Duties:
+
+
+Write and develop scripts to automate the system installation of required patches and configurations to remediated identified system vulnerabilities.
+Perform coding and development as required to augment default SIEM functionality and facilitate the intercommunications of various security controls. (CDRL A007)
+Develops basic new cybersecurity capabilities. (CDRL A007)
+Develop new and maintain existing Splunk, ELK or other search/analytics tool’s knowledge objects (Saved searches, reports, dashboards, data models, event types, field aliases, field extractions, macros, lookups, tags) to alert on potentially malicious activity or fulfill compliance/policy requirements. (CDRL A007)
+Ensure critical data feeds and hosts are sending data.
+Develop, debug and maintain scripting languages.
+Create, install and test vulnerability fixes to Windows and Unix/Linux platforms.
+Assist/lead in conducting cybersecurity audits to ensure appropriate implementation and compliance of the security posture.
+Perform systems security engineering and test efforts associated with implementing security controls on networking devices, databases, operating systems, hardware, and software components.
+Develop vulnerability reports and investigation impact, resolution and verification of security vulnerabilities and patches; as well as, performing deep‐dive and impact analysis into failed patch deployments. (CDRL A008)
+Develop and provide regular reports on patch management program and overall status of patch compliance. (CDRL A008)
+Perform and provide vulnerability assessment results and recommendations to the ESM Lead, and DO as necessary.
+Assess known systems vulnerabilities and verify system hardening and patching activities to ensure compliance with the most current applicable Security Technical Implementation Guides (STIGs)/Security Requirements Guides (SRGs) and related checklists with no more than a 5% error rate.
+Document, implement and prioritize patching requirements across the AFIN/AFNet enterprise. (CDRL A008)
+Provide OJT to other contractor employees, military, and/or civilian personnel, and ensure continuity folders/working aids are updated at least once per quarter in order to ensure efficient transition when personnel rotate.
+Maintain currency on latest industry trends and provide operational reports/assessments for development of tactics, techniques, and procedures. (CDRL A002)
+Create, document, and report metrics for analysis to improve weapon system processes and mission execution. (CDRL A009).
+Support operational leaderships tasking as it relates to Systems Security Engineer functions and responsibilities"
+Data and Analytics Engineer - Senior Associate,PRICE WATERHOUSE COOPERS,"San Antonio, TX 78216 (North Central area)",Posted 15 days ago,,https://www.indeed.com/rc/clk?jk=2d0508330ff22012&fccid=5e964c4afc56b180&vjs=3,"A career in our Managed Services team will provide you an opportunity to collaborate with a wide array of teams to help our clients implement and operate new capabilities, achieve operational efficiencies, and harness the power of technology. Our Managed Data, Analytics & Insights team will provide you with the opportunity to help organizations harness the power of their enterprise data/analytics solutions by optimizing the technology while driving innovation to increase business outcomes and through data insights. We assist our clients in capitalizing on technology improvements, implementing new capabilities and achieving operational insights by managing, maintaining and evolving their analytics platforms and ecosystems. We help our clients maximize the value of their investment focusing on continuous improvement of their analytics solutions such as Microsoft, Amazon Web Services and Google Cloud.
+  To really stand out and make us fit for the future in a constantly changing world, each and every one of us at PwC needs to be a purpose-led and values-driven leader at every level. To help us achieve this we have the PwC Professional; our global leadership development framework. It gives us a single set of expectations across our lines, geographies and career paths, and provides transparency on the skills we need as individuals to be successful and progress in our careers, now and in the future.
+
+ As a Senior Associate, you'll work as part of a team of problem solvers, helping to solve complex business issues from strategy to execution. PwC Professional skills and responsibilities for this management level include but are not limited to:
+
+
+ Use feedback and reflection to develop self awareness, personal strengths and address development areas.
+ Delegate to others to provide stretch opportunities, coaching them to deliver results.
+ Demonstrate critical thinking and the ability to bring order to unstructured problems.
+ Use a broad range of tools and techniques to extract insights from current industry or sector trends.
+ Review your work and that of others for quality, accuracy and relevance.
+ Know how and when to use tools available for a given situation and can explain the reasons for this choice.
+ Seek and embrace opportunities which give exposure to different situations, environments and perspectives.
+ Use straightforward communication, in a structured way, when influencing and connecting with others.
+ Able to read situations and modify behavior to build quality relationships.
+ Uphold the firm's code of ethics and business conduct.
+
+
+ Additional Responsibilities: 
+Our Data and Analytics Managed services team is focused to build, enhance, and scale the modern, connected data ecosystem that accelerates the use of data, analytics, and advanced AI. We are in search of passionate, motivated, and creative Senior Associates in role of Data Technology Engineer, Data Governance SME to join our Managed services team. The senior associate will be responsible for designing and implementing innovative solutions to build and manage the advanced Data ecosystem.
+
+ Basic Qualifications:   Minimum Degree Required:  Bachelor Degree  Minimum Years of Experience:  10 year(s)   Preferred Qualifications:   Preferred Fields of Study:  Computer and Information Science, Information Technology  Certification(s) Preferred: 
+Certification in any industry leading tools or technology for Data and Analytics
+ Preferred Knowledge/Skills: 
+Demonstrates thorough abilities and/or a proven record of success as a team leader by:
+
+ Demonstrating minimum 5 years’ experience of leading data architecture and design implementations and discussions;
+ Demonstrating minimum 3 years hand on experience building advanced Data warehousing solutions on leading cloud platforms;
+ Demonstrating minimum 3 years’ hands on Experience of delivering Managed Data and Analytics programs (Managed services and Managed assets);
+ Designing, implementation and maintaining data technology solutions that meet business requirements;
+ Developing scalable, repeatable, and secure data structures and pipelines to ingest, store, collect, standardize, and integrate data that for downstream consumption like Business Intelligence systems, Analytics modelling, Data scientists etc.;
+ Building efficient, ETL/ELT processes using industry leading tools like Informatica, Talend, Spark etc.
+ Building and maintaining Data Governance solutions (Data Quality, Metadata management, Lineage, Master Data Management and Data security) using industry leading tools;
+ Demonstrating experience with Data analytics tools like Informatica, Collibra, Hadoop, Spark, Snowflake etc.;
+ Understanding of data consumption patterns and BI tools like tableau, Qlik sense, PowerBI etc.;
+ Demonstrating experience of ITIL processes like Incident management, Problem Management, Knowledge management, Release management, Data DevOps etc.;
+ Demonstrating communication, problem solving, quantitative and analytical abilities;
+ Working with a managed services organization with a passion for building new service offerings in the Data and Analytics space and demonstrate proven experience in following key areas/activities;
+ Designing, implementing, and maintaining data technology solutions that meet business requirements;
+ Implementing Data processing functions like Data Cleansing, profiling, wrangling standardization and make data available to be ingested the Data ecosystem using advanced concepts like Data lakes, Data fabric, Data Vault, Data Mesh etc.;
+ Driving large transformation initiatives like Cloud migration etc.;
+ Working closely with cross functional teams to develop and maintain scalable, robust, and efficient data architectures to support business Intelligence, analytics, and reporting needs;
+ Evaluating and selecting best fit tools and technologies by conducting PoCs and Pilot solutions;
+ Conducting performance tuning, troubleshooting and optimization of Data solutions to improve system performance and stability; and,
+ Providing guidance and mentorship to junior associates and engineers in the team.
+
+ Learn more about how we work: https://pwc.to/how-we-work
+ 
+ PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.
+ 
+ All qualified applicants will receive consideration for employment at PwC without regard to race; creed; color; religion; national origin; sex; age; disability; sexual orientation; gender identity or expression; genetic predisposition or carrier status; veteran, marital, or citizenship status; or any other status protected by law. PwC is proud to be an affirmative action and equal opportunity employer.
+ 
+ For positions based in San Francisco, consideration of qualified candidates with arrest and conviction records will be in a manner consistent with the San Francisco Fair Chance Ordinance.
+ 
+ For positions in Albany (NY), California, Colorado, Nevada, New York City, Washington State, or Westchester County (NY), please visit the following link for pay range information: https://pwc.to/payrange-v1-mgdsrvcsseniorassociate"
+LEAD ENGINEER - PRINCIPAL ANALYST - PRINCIPAL ENGINEER - DATA ENGINEER,Southwest Research Institute,"San Antonio, TX 78238",Posted 30+ days ago,,https://www.indeed.com/rc/clk?jk=35ed552b0f2fe0ab&fccid=0d9a7400c0a8fdec&vjs=3,"Who We Are: 
+SwRI's Defense & Intelligence Solutions / Radio Systems Department, offers some of the most dynamic and interesting environments for combining computer engineering with data engineering focused on challenging data analytics, Artificial Intelligence (AI) and signal processing problems.
+Objectives of this Role: 
+
+Lead research engineers with data engineering, data analytics, AI & ML model development, AI/ML systems architectures with embedded AI/ML functions, prototyping, testing, and documentation.
+ Work with engineering staff to analyze, design, develop, test, document, and field automated analysis, and reporting capabilities for applications such as integrated AI / ML model integration into information exploitation systems.
+ Lead and perform research and development using knowledge and data engineering and data analytics to apply new technologies, skills, techniques, and advancement of AI/ML in new areas and new technologies.
+ Opportunity to work with world-class engineers in knowledge and information exploitation, spectrum exploitation, and data engineering projects on challenging engineering problems producing insightful results for a diverse set of clients.
+ Interface with clients and analysts to define AI/ML needs and requirements, and systems architectures that integrate AI/ML into larger systems; and work within the RSD Department and other Division to help expand AI/ML development capabilities.
+
+Daily and Monthly Responsibilities: 
+
+Develop processes, methods, standards and procedures and perform data analytics of small and large volumes of highly interesting technical data.
+ Identify and discover data analytics and AI/ML requirements, design architectures for the deployment of AI/ML in research-oriented and production systems; design knowledge maintenance and management capabilities for these systems.
+ Lead data analysts and engineers in the design, development and performance accuracy tuning of AI algorithms and ML models.
+ Lead continuous development/integration to include verification, validation and documentation in DEVOPS environments.
+ Lead senior engineers and data analysts with identifying metrics for benchmarking and optimization, prototype experimentation, testing, and troubleshooting, and integration into larger information systems hosting the AI/ML components.
+ Interface with clients and clients' data analysts to define AI/ML needs and requirements; and work within the RSD Department and D&IS Division to help expand AI/ML development capabilities as institutional knowledge and skills.
+
+Requirements: 
+
+Requires a Bachelors in Machine Learning, AI, Data Science, Computer Engineering, or Data Engineering
+ Background in military intelligence or electronic warfare is a plus, but not required
+ 8 years: Data Engineering, to include data analytics, AI & ML model development using a variety of AI and neural network techniques and approaches
+ Python, TensorFlow, Keras, pytorch, and/or other development and data analysis tools
+ C++ and Java are desired
+ Knowledge of MATLAB for data engineering desired but not required
+ Design and planning of data architectures leading to AI and ML integration into large application systems
+ AWS AI and ML development desired, but not required
+ Knowledge of the Intelligent Community Classified Cloud a plus, but not required
+ A valid/clear driver's license is required
+
+
+Special Requirements: 
+Applicant selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information. Applicant must be a U.S. citizen."
+LEAD ENGINEER - LEAD ANALYST - PRINCIPAL ENGINEER - SYSTEMS ENGINEER - DATA SCIENCE/ANALYTICS/ENGINEER,Southwest Research Institute,"San Antonio, TX 78238",Posted 30+ days ago,8 hour shift,https://www.indeed.com/rc/clk?jk=0953e174f16efca6&fccid=0d9a7400c0a8fdec&vjs=3,"Who We Are: 
+Join Our Team! The Tactical Aerospace Department is a premier supplier for aerospace quality technology insertion on new and legacy DoD systems. This includes avionics, ground systems, and cutting edge third generation AI/ML.
+Objectives of this Role: 
+
+Responsible to develop System Architectures for Data Science/Analytics to help design data pipelines that utilizes second/third generation AI/ML.
+ Will also develop Avionics System Architectures and lead Systems engineering tasks for complex avionics/aerospace systems.
+ Work collaboratively across a multi-disciplinary engineering teams to establish hardware, firmware, and AI/ML requirements for complex flight worthy avionics hardware.
+ Interact directly with clients and company staff to establish system requirements and architectures to meet client expectations.
+ Provide technical project leadership for the Tactical Aerospace Department.
+ Utilize Model Based Systems Engineering (MBSE) processes to support system designs/architectures.
+ Support department management in specific marketing activities, proposal development of embedded avionics programs, and in the development of product/technical roadmaps.
+
+Daily and Monthly Responsibilities: 
+
+Perform as a System Engineer over embedded avionics programs.
+ Lead a multi-disciplinary team to develop, integrate, and test complex avionics. This includes electrical, mechanical, firmware, data pipelines, data science, and AI/ML.
+ Lead the team using schedules and earned value.
+ Meet with internal and external customers to establish system technical requirements and facilitate development of specification documents and system architectures.
+ Lead trade analyses within and across the relevant domains.
+ Work with stakeholders to allocate functions to components/systems and develop those allocations into requirements for the engineers, designers, and managers to design, develop, integrate and test
+
+Requirements: 
+
+Requires a Bachelors in Electrical Engineering, Data Engineering, Data Science, Data Analytics or equivalent.
+ Shift work required.
+ 8+ years: Bachelor’s of Science degree from an accredited college in a related discipline with 8+ years of experience.
+ Broad, basic understanding of engineering activities/disciplines in avionics development (e.g. Systems, Hardware Development, Software, Firmware, Integration, Testing, Bid and Proposal efforts, CONOPS, Certification, System Safety, FMEA, Lab activities, etc).
+ Experience developing Architectures and basic/Intermediate experience using Enterprise Modeling Tools to model complex systems using SysML.
+ Prefer some experience implementing cyber requirements, implementing RTOS’s, and developing technical roadmaps.
+ Experience developing, deriving, and allocating tiered Systems Engineering requirements in Avionics applications including data pipelines and tiered Data Science applications.
+ A valid/clear driver's license is required.
+
+
+Special Requirements: 
+Applicant selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information. Applicant must be a U.S. citizen."
+Data Engineer 2,HOLT CAT,"San Antonio, TX 78222 (Pecan Valley area)",EmployerActive 7 days ago,Full-time,https://www.indeed.com/rc/clk?jk=aa9c538ee4f3ecbe&fccid=5eae20b5f364f55e&vjs=3,"As a Data Engineer 2 on our Enterprise Solution Delivery team, you will have a chance to design intelligent, automated data systems using advanced data engineering knowledge in the data warehousing space to redefine best practices with a cloud-based approach to scalability and automation. In partnership with other developers and business analysts, you will work backwards from our business questions to build reliable and scalable data solutions to meet the business needs. You will maintain and support new and existing data pipelines. By scaling up our data ecosystem around cloud-based CRM, ERP, and data platforms, we will improve speed, lower the total cost of ownership, and provide a unified view of entities.
+ You will be an integral part of the development team, sometimes investigating new requirements and design and at times refactoring existing functionality for performance and maintainability, but always working on ways to make us more efficient and provide better solutions (data pipelines) to our end customers. The candidate will perform hands-on activities including design, documentation, development, and test of new functionality. Candidate must be flexible and willing to switch tasks based on team’s needs.
+ The incumbent in this position is expected to model the following practices daily: 1) Demonstrate alignment with the company's mission and core business values; 2) Collaborate with key internal/external resources; 3) Participate in ongoing self- development.
+
+
+ Essential Functions:
+
+Develop, evaluate, and influence effective and consistent productivity and teamwork to ensure the delivery of Legendary Customer Service (LCS)
+Model, promote, reinforce, and reward the consistent use of HOLT’s Values Based Leadership (VBL) tools, models, and processes to ensure alignment with our Vision, Values, and Mission
+Design, develop, implement, test, document, and operate mid-scale, high- volume, high-performance data structures for business intelligence analytics
+Create and propose technical design documentation, which includes current and future ETL functionality, database objects affected, specifications, and flows and diagrams to detail the proposed implementation.
+Implement data structures using best practices in data modeling to support on- line reporting, analysis, business intelligence and building a logical abstraction layer against large, multi-dimensional datasets and multiple sources.
+Understand existing databases and warehouse structures to best determine how to consolidate and aggregate data in an efficient and scalable way.
+Design and code all aspects of data solutions using cloud-based tools to build out a data warehouse.
+Design ETL/ELT processes and data pipelines to bring data from various sources into a central data repository.
+Work closely with Integration developers, ETL developers, application teams, and vendors to develop optimal solutions.
+Analyze new/disparate data sources for integration with existing datasets to tell a comprehensive data story.
+Improve business process agility and outcomes, drive innovation, and reduce time to market for our innovative IT solutions.
+Works safely always and adheres to all applicable safety policies; complies with all company policies, procedures, and standards.
+Performs other duties as assigned.
+
+
+
+ Knowledge, Skills, and Abilities:
+
+Capable of speaking articulately to a breadth of topics such as RDBMS, NoSQL, Azure data store technologies, ETL, data warehousing, data modeling, role- based access, etc.
+Background in supporting business intelligence teams by providing subject matter expertise and guidance in modern data engineering.
+Advanced SQL and query performance tuning skills
+Experience with MPP (massively parallel processing) data
+Experience building/operating highly available, distributed systems of data extraction, ingestion, and processing of large data sets.
+Ability to work with ambiguous requirements and drive clarity by collaborating with business groups.
+Drive and desire to learn and grow both technical and functional skill sets, High energy, stamina, enthusiasm, organization, and curiosity.
+Innovative thinker who is positive, proactive, and readily embraces change.
+Detail-oriented individual with the ability to rapidly learn and take advantage of new concepts, tools, and technologies; Ability to quickly ramp up new projects, understanding the business needs and support engagements.
+Ability to manage workload, multiple priorities, excellent problem solving, and troubleshooting skills.
+Mentoring Associate developers as needed.
+Experience working in a matrix environment and foster motivation within the project team to meet tight deadlines.
+
+
+
+ Education and Experience:
+
+High School diploma or equivalent is required, Bachelor's degree in information technology, or related field preferred.
+5+ years of experience designing, developing, and deploying data solutions using ETL/ELT/DWH/BI technologies required.
+2+ years of coding experience with modern programming or scripting languages (Python, C# etc.) required.
+Experience in Informatica IICS and Snowflake required.
+Experience in developing/operating large-scale ETL/ELT processes with on-prem and cloud platforms; database technologies; data modeling required
+Experience developing/operating highly available, distributed systems of data extraction, ingestion, and processing of large data sets from multiple systems required.
+Experience operating a very large data environment that may include data lake, and/or data warehouse etc. required.
+Experience developing and implementing data models for data warehouse or related data processes for heavy equipment rental and dealership operations required.
+Basic programming skills such as JavaScript and PowerShell scripting. Experience with source control and build technologies (e.g., Azure DevOps, GIT) required.
+Data Engineering related certifications preferred.
+Experience working in an Agile environment required.
+
+
+
+ Travel:
+
+Up to 20% with occasionally overnight stay may be expected.
+Valid driver’s license.
+
+
+
+ Work Environment:
+
+Works primarily in a professional office environment.
+This role constantly uses standard office equipment such as computers, phones, photocopiers, filing cabinets, and fax machines.
+Frequently works at fast pace with unscheduled interruptions.
+
+
+
+ Physical Requirements:
+
+This position involves extended periods in a stationary position; additionally, occasional movement inside the office to access office machinery, and file cabinets.
+
+
+
+ Disclaimer:
+ Please note that the above statements are intended to describe the general nature and level of work being performed by employees assigned to this classification. They are not to be interpreted as an exhaustive list of all responsibilities, duties, and skills required of the incumbents so classified. All incumbents may be required to perform duties outside of their normal responsibilities, as needed.
+
+ Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+ The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)"
+Data Integration Engineer 2-MuleSoft,HOLT CAT,"San Antonio, TX 78222 (Pecan Valley area)",Posted 30+ days ago,Full-time,https://www.indeed.com/rc/clk?jk=f544c6890f8db881&fccid=5eae20b5f364f55e&vjs=3,"As a Data Integration Engineer 2 you will be part of a team responsible for delivering cloud data management solutions to the enterprise. The Integration Engineer is a key member of the Data Solution delivery team with primary responsibility for business process and integration design and development. They will be a trusted advisor to enterprise technology teams and bring a passion for solving complex business problems by designing and building reusable enterprise application integrations.
+ The Data Integration Engineer will support salesforce developers, d365 developers, business analysts, and data engineers on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. They will work with stakeholders to define the technical requirements, design the solution framework, and build integrations and other required automations. It also requires that they partner with both onshore and offshore project teams in agile, scrum, or waterfall solution design and execution. They must be self-directed and comfortable supporting the integration needs of multiple teams, systems, and products. The right candidate will be excited by the prospect of optimizing or even re-designing our client’s data architecture to support our next generation of products and transformation initiatives.
+ The incumbent in this position is expected to model the following practices daily: 1) Demonstrate alignment with the company's mission and core business values; 2) Collaborate with key internal/external resources; Participate in ongoing self-development.
+ Essential Functions:
+
+Models, promotes, reinforces, and rewards the consistent use of HOLT’s Values Based Leadership (VBL) tools, models, and processes to ensure alignment with our Vision, Values, and Mission
+Develops, evaluates, and influences effective and consistent productivity and teamwork to ensure the delivery of Legendary Customer Service (LCS)
+Primary responsibilities are focused on the Analysis, Design, Development, and Testing of solutions utilizing MuleSoft
+Conducts API modeling and validation with clients using RAML and mocking MuleSoft API implementation
+Critically evaluates information gathered from multiple sources, identifies symptoms and root causes, and recommends alternative solutions with cost, resource, and time estimates for implementation
+Ensures adherence to enterprise standards in project execution methodology, technical delivery, and standards compliance; collaborates on project estimation and quoting to ensure successful delivery
+Works collaboratively with stakeholders to identify and define the business requirements; analyzes and translates business requirements using frameworks into components of a modernized solution and an integration architecture to automate business process
+Defines integration points, data flow, and integration strategy and develop functional and technical specifications to support cross-functional, multi-system solutions to meet the current and future needs of the client organization
+Designs and helps build real-time and asynchronous enterprise automation solutions that increase business value using the industry's best integration tools/platforms
+Develops efficient, well-structured, reusable, and scalable automation processes and integrations; authors and maintains solution design documentation
+Builds test plans/scripts to validate the business application integration needs and sanity test integration solutions
+Becomes a strategic partner to client’s technical leaders by analyzing, designing, and building new logic and flows in our internal business systems which is the engine that powers essential business functions
+Leads change impact analysis for change requests by summarizing impacted processes, interfaces, and processes in the company ecosystem
+Works with internal teams to ensure proper monitoring, error handling, and reporting is in place before the integration goes live
+Identifies and communicates risks associated with integration solutions and process automation candidates
+Develops a deep knowledge of the business and build positive relationship development, both horizontally and vertically
+
+Education and Experience:
+
+Bachelor’s degree in Information Technology, or related field preferred
+2 years of demonstrated hands-on experience with MuleSoft required. 4+ years' MuleSoft experience preferred.
+Strong working experience with SQL and relational databases such as Oracle, MS SQL Server, and NoSQL databases
+Established enterprise integration infrastructure, supporting ESB, messaging, and SLA monitoring tools and support on-call duties
+Experience with messaging infrastructure, preferably Azure Service Bus, and with Storage like Azure Blobs or Data Lake
+Experience with ETL and Web Services-based integrations with expert-level knowledge of developing APIs using SOAP and REST architecture styles and data interchange formats like XML, JSON, etc.
+Basic programming skills such as JavaScript and shell Experience with source control and build technologies (e.g., Azure DevOps, GIT)
+Active MuleSoft certification preferred
+Experience working in an Agile environment (Preferred)
+
+Knowledge, Skills, and Abilities:
+
+Solid hands-on experience in architecting and developing with SOAP and REST web services, using ESB tools to deliver fast, reliable, and scalable integrations
+Designing Mule applications (API First approach, Application Networks, RAML modeling and mocking, Exception Handling, Logging, Cloudhub deployment)
+Knowledge of Mule 4 API Development using JSON, XML, Exception Handling, and Logging)
+Programming with Java, C++, Python, JavaScript, or similar languages Understanding and experience with security implementations (SSL/mutual SSL, SAML, OAuth)
+Experience integrating with Cloud/SaaS applications, APIs, SDK of packaged applications, and legacy applications
+Experience writing unit and integration tests with testing frameworks like JUnit, JMeter, Munit, or similar Experience working with API testing Tools like SOAPUI, postman, etc.
+Well-versed with agile methodologies and source control tools (Azure DevOps, GitHub). Good knowledge of DevOps stack (CI & CD) and other releases management and build tools such as Azure DevOps, Jenkins, and Maven
+Familiarity with monitoring related tools and frameworks like Splunk, New Relic, or Azure Application Insights
+Ability to work with ambiguous requirements and drive clarity by collaborating with business groups
+Drive and desire to learn and grow technical, functional, and soft skill sets, high energy, stamina, enthusiasm, organization, and curiosity
+Be comfortable working in a matrix environment and foster motivation within the project team to meet tight deadlines
+Detail-oriented individual with the ability to rapidly learn and take advantage of new concepts, tools, and technologies; ability to quickly ramp up enterprise business needs and support engagements
+
+Effective Communication: 
+
+Eager and proactive communicator with the ability to present complex concepts into simplified solutions in a straightforward and understandable manner to multiple stakeholders in various mediums (verbal, written, and presentation)
+Experience in building strong customer relationships; working with and advising partners
+Self-motivated, ability to develop successful relationships with and influence stakeholders; ability to monitor and communicate key issues to senior leadership
+
+Supervisory Responsibilities:
+ None
+ Travel:
+
+Up to 15% with an occasional overnight stay
+
+
+
+ Disclaimer:
+ Please note that the above statements are intended to describe the general nature and level of work being performed by employees assigned to this classification. They are not to be interpreted as an exhaustive list of all responsibilities, duties, and skills required of the incumbents so classified. All incumbents may be required to perform duties outside of their normal responsibilities, as needed.
+
+ Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+ The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)"
+Data Engineer II,"Alterman Management Group, Inc","San Antonio, TX 78247",EmployerActive 9 days ago,Full-time,https://www.indeed.com/rc/clk?jk=640ec92a74f45269&fccid=3a0cffcb1378883f&vjs=3,"Position Overview:
+ Alterman, Inc. is currently seeking an experienced Data Engineer II to join our Data and Analytics team. The Data Engineer II role is a key technical resource for Alterman’s data pipelines and will help contextualize and provide easy access to data for the entire organization. As a Data Engineer, you will play a key role in growing and transforming our analytics landscape.
+ In addition to your strong analytical mind, you will bring your inquisitive attitude and your ability to translate the stories found in data. You will leverage your abilities to design, build, and deploy data solutions that capture, explore, transform, and utilize data to support and drive business initiatives.
+ Job Duties and Responsibilities:
+
+Construct new data pipelines and optimize existing ones to ensure resiliency and scalability.
+Maintain stored procedures and organize schedules to prevent concurrency overlap.
+Create ETL jobs from various sources and manage internal and third-party schedules.
+Combine, cleanse, and organize data for use in analytics software and system integration.
+Use available tools together with custom scripting to make data accessible from other sources and optimize the organization’s developing data ecosystem.
+Create reports for analysts to model and distribute.
+Developing various types of data loads (e.g., incremental, history/full, survivorship rules).
+Implementing change data capture (CDC).
+Test and implement new analytic tools and/or plugins, maintaining analytic tool registrations.
+Testing and debugging ETL functions.
+
+Qualifications:
+
+5-7 years of related experience engineering and operationalizing data pipelines with large and complex datasets.
+5-7 years of related experience with Data Modeling, ETL, and Data Warehousing.
+Extensive experience working with various data sources (e.g., SQL, flat files - csv, delimited, Web API, XML).
+Proven experience in a data integration role.
+Takes initiative to learn corporate processes, standards, and technologies.
+Strong knowledge of:
+
+Database storage concepts; Data Lake, Relational Databases, NoSQL, Graph, Data Warehousing.
+Development security standards and protocols.
+Application administration lifecycle management.
+Software development life cycle management (SDLC).
+Programming, scripting, and query languages such as Python, PHP, JavaScript, SQL, and Power Query.
+API Management and API Management platforms.
+Emerging trends and industry practices.
+Personal customer service skills are strongly desired, such as:
+
+
+
+
+
+
+
+Ability to communicate effectively with non-technical users;
+Ability to work independently with limited supervision;
+Ability to properly prioritize when faced with multiple projects and timelines;
+Ability to write business documentation professionally and effectively;
+Ability to cross-train with other system owners and administrators to ensure adequate coverage across platforms; and
+Strong focus on continuous improvement of self, team, and process.
+
+
+
+
+
+
+Experience Required
+ 
+ Extensive experience working with various data sources ((e.g., SQL, flat files - csv, delimited, Web API, XML).
+ 5 - 7 years: Experience with Data Modeling, ETL, and Data Warehousing.
+ 5 - 7 years: Experience engineering and operationalizing data pipelines with large and complex datasets."
+Data Engineer,Definitive Logic,"Hybrid remote in San Antonio, TX",Posted 30+ days ago,,https://www.indeed.com/rc/clk?jk=eae1f8c068a01d5e&fccid=cfd755c2288fe4b6&vjs=3,"Definitive Logic is seeking a senior-level Data Engineer to join our San Antonio team. This position is contingent upon award.
+ 
+
+
+
+   Roles and Responsibilities include but are not limited to the following:
+ 
+
+
+
+Researches and integrates design strategies, product specifications, development schedules, and user expectations into product capabilities for a Salesforce implementation.
+Develops technical designs and specifications for complex data pipelines/data flows for customer/customers.
+Uses ETL tools or languages to build, test, and maintain product modules, components, and subsystems from legacy systems.
+Identifies data quality issues and potential remediations for consideration by PM and/or customer stakeholders
+Identifies data gaps and potential remediation or integration activity for consideration by PM and/or customer
+Understands DoD data standards and management requirements
+Leads and influences team on project deliverables
+Drives quality assurance program for project deliverables
+Creates quality deliverables for customers
+Drives full life-cycle of services/solution delivery for project(s)
+Provides technical leadership to lower-level engineer
+
+Required Qualifications
+
+ 5+ years of Relevant Experience
+ Experience with Air Force or Recruiting Data Requirements
+ Bachelor’s Degree, preferably in Engineering, Mathematics, or Business
+ Must be able to achieve a public trust
+
+ Preferred Qualifcations
+
+ Experience engineering Disparate Data Sets from multiple systems
+ Air Force Systems Experience and/or CRM recruiting experience
+ Experience with moving data into Salesforce Platforms
+ SAFE/Agile certification
+ Security+ certification
+
+
+ About Definitive Logic
+
+
+
+
+   Definitive Logic (DL) is a management and technology consulting firm known for delivering outcomes and ROI for agencies’ most complex business challenges. DL delivers performance-based and outcome-driven technology consulting solutions that directly support the strategic intent of our Defense, Homeland Security, Emergency Management, Federal Civilian and Commercial clients. We’re the preferred technology integration partner for Federal agencies to apply the best of data science, app dev, DevSecOps, cyber and cloud solutions to improve decision support, empower front-line employees and enhance back-office operations. We serve as trusted advisors providing objective, fact-based, vendor & technology-neutral consulting services.
+ 
+
+
+
+   Definitive Logic is ultimately a team of problem solvers — thought leaders, domain experts, coders, data enthusiasts, and technophiles. Our exciting projects and learning and sharing culture have consistently resulted in validation as a Great Place to Work: 2023 Washington Post Top Workplaces (8-time winner) \u007C 2023 Virginia Best Places to Work (10 years running, #1 midsize in 2019).
+ 
+
+
+ Definitive Logic is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class.
+ 
+
+
+ If you are a qualified individual with a disability or a disabled veteran, you have the right to request a reasonable accommodation if you are unable, or limited in your ability, to use or access our Careers page: https://www.definitivelogic.com/careers/open-opportunities/ as a result of your disability. You can request a reasonable accommodation by sending an e-mail to Recruiting@DefinitiveLogic.com or via phone: 703-955-4186. In order to quickly respond to your request, please use the words ""Accommodation Request"" as your e-mail subject line.
+ 
+
+
+ DL Benefits
+
+
+ Health
+
+
+ Dental
+
+
+ Vision
+
+
+ Life/AD&D: Company paid 
+ 
+
+STD/LTD:Company paid
+ 
+
+ Supplemental Plans: TriCare Supplement, Pet Insurance through Nationwide, Legal Resources and hospital/accidental indemnity plans and Wellness initiatives.
+ 
+
+
+
+ Compensation Benefits:
+
+
+ Competitive Base Salary
+
+
+ Annual performance based bonus
+
+
+ 401(k) & Roth option: You are fully (100%) vested on day 1 and DL matches up to 5%
+
+
+ Spot Bonuses 
+
+
+Referral Bonuses
+
+
+
+
+ Additional Benefits:
+
+
+ Flexible Time Off (FTO): Under our FTO plan, there is no cap in the amount of leave you choose to take, with proper coordination and prior approval.
+ 
+
+ Volunteer Hours: DL allocates up to 8 hours for you to use every year to volunteer for a 501c3 organization of your choice and DL will donate to that charity based on how many hours you volunteer.
+ 
+
+ Cell Phone Reimbursement: $80/month
+ 
+
+ Location Specific Metro/Parking 
+
+
+Tuition Reimbursement 
+
+
+Training & Certifications"
+Senior Data Engineer,GlobalLogic,"San Antonio, TX 78201 (Prospect Hill area)",EmployerActive 13 days ago,"$120,000 - $140,000 a year",https://www.indeed.com/company/GlobalLogic/jobs/Data-Engineer-0baeb0b8da9ccb09?fccid=2fc4897d673d53b9&vjs=3,"Senior Data Engineer
+San Antonio, TX
+Fulltime
+Skills:
+Experience with big data tools: Hadoop, Spark, Kafka, etc.Experience with relational SQL databases, including Postgres .Experience with data pipeline and workflow management tools: Airflow.Experience with AWS cloud services: Lambda, Glue, EC2, SNS, RDS, etc.Experience with languages: Python, PySpakr, Scala, etc.
+Job Type: Full-time
+Salary: $120,000.00 - $140,000.00 per year
+Experience level:
+
+10 years
+11+ years
+7 years
+8 years
+9 years
+
+Schedule:
+
+8 hour shift
+
+Experience:
+
+Hadoop: 5 years (Required)
+Spark: 4 years (Required)
+Python: 4 years (Required)
+AWS: 4 years (Required)
+
+Work Location: In person"
+Sr. Data Engineer,Experfy Inc,"San Antonio, TX",Posted 30+ days ago,Contract,https://www.indeed.com/rc/clk?jk=65f2a24738c1f31c&fccid=19327ae379f6e1a2&vjs=3,"A Sr. Data Engineer is proficient in the development of all aspects of data processing including data warehouse architecture/modeling and ETL processing. The position focuses research on development and delivery of analytical solutions using various tools including Confluent Kafka, Kinesis, Glue, Lambda, Snowflake and SQL Server. A Sr. Data Engineer must be able to work autonomously with little guidance or instruction to deliver business value.
+ Responsibilities
+ Position Responsibilities
+
+Partner with business stakeholders to gather requirements and translate them into technical specifications and process documentation for IT counterparts (on-prem and offshore)
+Highly proficient in the architecture and development of an event driven data warehouse; streaming, batch, data modeling, and storage
+Advanced database knowledge; creating/optimizing SQL queries, stored procedures, functions, partitioning data, indexing, and reading execution plans
+Skilled experience in writing and troubleshooting Python/PySpark scripts to generate extracts, cleanse, conform and deliver data for consumption
+Expert level of understanding and implementing ETL architecture; data profiling, process flow, metric logging and error handling
+Support continuous improvement by investigating and presenting alternatives to processes and technologies to an architectural review board
+Develop and ensure adherence to published system architectural decisions and development standards
+Multi-task across several ongoing projects and daily duties of varying priorities as required
+Interact with global technical teams to communicate business requirements and collaboratively build data solutions
+
+ Requirements
+ Requirements
+
+8+ years of development experience
+Expert level in data warehouse design/architecture, dimensional data modeling and ETL process development
+Advanced level development in SQL/NoSQL scripting and complex stored procedures (Snowflake, SQL Server, DynomoDB, NEO4J a plus)
+Extremely proficient in Python, PySpark, and Java
+AWS Expertise – Kinesis, Glue (Spark), EMR, S3, Lambda, and Athena
+Streaming Services – Confluent Kafka and Kinesis (or equivalent)
+Hands on experience in designing and developing applications using Java Spring Framework (Spring Boot, Spring Cloud, Spring Data etc)"
+Lead Data Integration Engineer- EIT,"Epiphany Ind Technologies, LLC","San Antonio, TX 78223",EmployerActive 6 days ago,Full-time,https://www.indeed.com/rc/clk?jk=9d4c9dc97ca62bad&fccid=dd616958bd9ddc12&vjs=3,"As the Lead Data Integration Engineer you will be part of a team responsible for delivering cloud data management solutions to our customers.
+ Integration engineers are an integral part of the Data Solutions team and primarily responsible for implementing solutions that integrate applications across an enterprise. They are the trusted advisor to client’s technology teams and bring passion for solving complex business problems by designing and building reusable integrations.
+ The Lead Data Integration Engineer will support solution architects, business analysts and data engineers on system implementations and ensure optimal data delivery. They will work with stakeholders to define non-functional requirements and partner with solution architects to develop the solution architecture. This role will lead a team of onshore and offshore/nearshore engineers responsible for building integrations and other required automation. They must be self-directed and comfortable supporting the integration needs of multiple teams, systems, and products. The right candidate will be excited by the prospect of designing, optimizing or even re-designing our client’s data architecture to support next generation of products and transformation initiatives.
+ The incumbent in this position is expected to model the following practices daily: 1) Demonstrate alignment with the company's mission and core business values; 2) Collaborate with key internal/external resources; 3) Participate in ongoing self- development.
+
+
+ Essential Functions:
+
+Develops, evaluates, and influences effective and consistent productivity and teamwork to ensure the delivery of Legendary Customer Service (LCS)
+Models, promotes, reinforces, and rewards the consistent use of HOLT’s Values Based Leadership (VBL) tools, models, and processes to ensure alignment with our Vision, Values, and Mission
+Defines systems integrations, design patterns and development standards to support cross-functional, multi-system solutions that are scalable and flexible to meet current and future needs of the organization
+Analyzes and translates business requirements using frameworks into components of a modernized solution
+Architects, designs, develops, and implements small to large scale integration solutions in MuleSoft platform based on functional and technical requirements
+Creates architectural deliverables that clearly communicate design and solution
+Designs and develops automated solutions in accordance with MuleSoft and enterprise leading practices and design principles
+Participates in design reviews to ensure they meet automation policies and design principles
+Authors and maintains solution design documentation
+Develops efficient, well-structured, reusable, and scalable automation processes and integrations
+Performs thorough code-reviews based on high engineering standards and writes unit and integration tests based on chosen DevOps frameworks
+Analyzes and resolves automation software issues whenever required
+Identifies and communicates risks associated with integration solutions and process automation candidates
+Provides guidance to junior resources on best practices and development techniques for automated processes
+Leads one or more team members consisting of cross functional, global, and virtual groups; may need to supervise staff and assign responsibility to other team members.
+Develop and maintain relationships with key client leadership
+Works with Business Development Manager (BDM) (Salesperson) to identify new opportunities
+Engages in multiple short-term strategic consulting engagements and develop new opportunities
+Manages the development of case studies and project summaries of each project delivered related to the service offering(s)
+Acts as trusted advisor and expert on MuleSoft platform promoting security and performance
+Works safely always and adheres to all applicable safety policies; complies with all company policies, procedures, and standards
+Performs other duties as assigned
+
+
+
+ Knowledge, Skills, and Abilities:
+
+Experience creating and maintaining domain diagrams, architecture frameworks, design patterns and standards to support various work streams
+Strong experience in the Application Integration Architecture, API and Microservices architecture, Solution Design, Development using SOA/EAI solutions, API Led Architectures, creation of API design specifications, and RAML creation
+Experience integrating with Cloud/SaaS applications, APIs, SDK of packaged applications and legacy Ideally have Salesforce, MS Dynamics, and Data warehouse integration experience
+Hands on experience on MuleSoft's CloudHub, DataWeave, Anypoint MQ and deploying/managing Mule flows to CloudHub
+Experience setting up and configuring on-premise/cloud-based infrastructures
+Experience in implementing security aspects including API security, authentication, authorization, message & transport level security
+Experience in API Management tools using MuleSoft API Manager or others
+Well versed in configuring VPC and dedicated load balancer on Anypoint platform
+Good knowledge on DevOps stack (CI & CD) and other dependency management and build tools
+Experience working with API testing Tools like SOAPUI, postman
+Experience with High-Availability, Fault-Tolerance, Performance Testing and Tuning parameters
+Well versed with agile methodologies and source control (Bitbucket, GitHub, ADO)
+A desire to work as part of a growing, fast-paced, and highly flexible team
+Be comfortable working in a matrix environment and foster motivation within the project team to meet tight deadlines
+Possess the ability to manage workload, manage multiple priorities, and manage conflicts with customers/employees/managers, as applicable
+Excellent problem solving and project management skills; experienced in both Agile and waterfall methodologies
+
+
+
+ Education and Experience:
+
+High School diploma or equivalent required; Bachelor’s degree in Information Technology, or related field preferred
+8+ years of experience in delivering enterprise complex systems integrations and intelligent automations required
+6+ years of demonstrated hands-on experience with ESB platforms such as Talend, Workato, Boomi, MuleSoft, Informatica or similar products required
+Strong working experience with SQL/PLSQL and relational databases such as Oracle, MS SQL Server, and NoSQL databases required
+Established enterprise integration infrastructure, supporting ESB, messaging and SLA monitoring tools required
+Experience with messaging infrastructure, preferably Azure Service Bus and with Storage like Azure Blobs or Data Lake preferred
+Experience with ETL and Web Services based integrations with expert level knowledge of developing APIs using SOAP and REST architecture styles and data interchange formats like XML, JSON, etc. required
+Experience working in an Agile environment preferred
+Preferred Certifications 
+   
+Active MuleSoft, Salesforce or Azure
+MuleSoft Certified Developer and MuleSoft Certified Integration Architect
+
+
+
+
+Supervisory Responsibilities:
+ This position directs and manages the positions within assigned division. Responsibilities include, but are not limited to interviewing, hiring, and training employees; planning, assigning, and directing work; coaching and development; appraising performance; rewarding and educating employees; resolving conflicts.
+
+
+ Travel:
+
+Up to 20% with occasionally overnight stay
+
+
+
+ Physical Requirements:
+
+This position involves extended periods in a stationary position; additionally, occasional movement inside the office to access office machinery, file cabinets,
+This role routinely uses standard office equipment such as computers, phones, photocopiers, filing cabinets and fax machines
+
+
+
+ Work Environment
+
+This job is generally performed in a professional office environment
+Frequently works at fast pace with unscheduled interruptions
+
+
+
+ Disclaimer:
+ Please note that the above statements are intended to describe the general nature and level of work being performed by employees assigned to this classification. They are not to be interpreted as an exhaustive list of all responsibilities, duties, and skills required of the incumbents so classified. All incumbents may be required to perform duties outside of their normal responsibilities, as needed.
+
+ Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+ The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)"
+Cyber Data Engineer,"SMS Data Products Group, Inc.","San Antonio, TX",EmployerActive 17 days ago,Full-time,https://www.indeed.com/rc/clk?jk=72252778d2d36d9a&fccid=da83a07f8157891b&vjs=3,"Overview:SMS is seeking a Cyber Data Engineer working at Lackland Air Force base in San Antonio, TX. The candidate will support our AFCERT customer in conducting its mission of Air Force (AF) Defensive Cyberspace Operations (DCO) for the AF and supported unified commands and their combatant commanders.
+As a dynamic systems integrator, SMS offers proven solutions in engineering, operations, cybersecurity, and digital transformation. With expertise in modernizing and optimizing legacy infrastructure and systems, ensuring operational efficiency, and designing, implementing, and managing secure environments, SMS supports business and mission goals with proficiency, quality, and integrity.
+SMS has been serving the advanced information technology needs of the federal government since 1976, delivering talented teams and innovative, cost-effective solutions and services to support our customers’ missions for more than 40 years. SMS is headquartered in McLean, Virginia, with offices and on-site operations at customer locations throughout the United States. For additional information on SMS, visit www.sms.com.
+Submit your resume today!Responsibilities:A Cyber Data Engineer conducts software and systems engineering to develop new capabilities, ensuring cybersecurity is fully integrated across the enterprise. The enigneer shall conduct comprehensive technology research to evaluate potential vulnerabilities in cyberspace systems. The engineer shall install, configure, troubleshoot, and maintain hardware and software, and administers system accounts. The engineer shall research and analyze the latest information security vulnerabilities, threats, exploits, trends and intelligence. Engineers shall be in close collaboration with DO and DM leadership to ensure tasks align with squadron requirements, priorities, and future initiatives.
+
+Proficient w/ Splunk Processing Language (SPL), ELK Lucene Query Syntax or other search/analytics tool.
+Proficient with programming/scripting fundamentals – including regex, C++, Python, RHEL, Unix Scripting, and Windows PowerShell is required. Linux+/Red Hat; RHEL 7.
+More than three (3) years of relevant work experience, including experience in responding to security problems in target-rich environments, looking at security alerts, front-line analysis, and response.
+Understanding of SIEM ""Search"" Language & Lucene Query Syntax.
+Understanding of SIEM Dashboard, Reports, Lookup Tables, and Summary Indexes.
+Knowledge of knowing how to customize Dashboards via the XML source.
+Experience with SIEM Apps and ELK.
+Experience with Python Scripting. Programming experience in Python, C/C++, Java, or Go.
+Demonstrated expertise with malware analysis, including investigations of botnet and root-kit behavior.
+Familiarity with information security concepts (OWASP Top 10, CVEs, IoCs, TTPs, Cryptography). Network Security Devices (IDS/IPS, NGFW, WAF, NGAV). OSSEC, Snort, Suricata Experience.
+Experience with at least one SIEM i.e Alienvault, Logrhythm, Splunk, Qradar , ELK and Firewalls such as Fortinet, Sonicwall, and Palo Alto. Scanning technologies, Log collection and analysis tools (SIEM).
+Experience with Scripting/Programming Languages (BASH, Python, Java, etc). Extensive knowledge of MITRE ATT&CK framework, and its uses within the cybersecurity community (e.g., Open Source projects).
+
+Qualifications:
+
+At least three years of Gov't IT experience.
+Individual must have high degree of skills with the MS Office toolsets.
+Applicant must possess refined critical thinking skills, should be a self-starter, may direct the activities of other team members, diplomatic, multi-task capable, adaptive to a dynamic environment, dependable and reliable. Prior experience in a government consulting services environment is required.
+
+*Certifications*GCFA and C++ or GCFA + Python & all required IAT Level III requirements met
+*Clearance*Must have and maintain an active DoD TS/SCI security clearance.
+*SMS is an Equal Opportunity Employer.*
+*SMS* is a veteran-owned network integrator established in 1976. With an employee retention rate averaging over 5 years, our ability to hire quality people and retain them in a rapidly evolving IT market proves why we are a world-class information technology company. At SMS, we place a high value on quality of service, customer satisfaction, and best-of-breed policies and practices. As a result, SMS is proud to be ISO 9001:2008 Registered and a CMMI Level 3 certified company, ensuring that we continue to meet and exceed the expectations of our customers, partners and employees.
+Job Type: Full-time"

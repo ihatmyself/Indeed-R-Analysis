@@ -1,0 +1,1866 @@
+job_title,company,job_location,post_date,salary,job_url,job_description
+Data Engineer,Rockstar Games,"San Diego, CA",Posted 30+ days ago,"$89,500 - $119,400 a year",https://www.indeed.com/rc/clk?jk=5d07a721a60a96e9&fccid=5549c6b9723b4956&vjs=3,"At Rockstar Games, we create world-class entertainment experiences.
+ A career at Rockstar Games is about being part of a team working on some of the most creatively rewarding and ambitious projects to be found in any entertainment medium. You would be welcomed to a dedicated and inclusive environment where you can learn, and collaborate with some of the most talented people in the industry.
+ Rockstar San Diego is seeking a Data Engineer to join a team focused on building a cutting-edge game analytics platform and tools to better understand our players and enhance their experience in our games. This is a full-time permanent position based out of Rockstar's unique game development studio in Carlsbad, CA.
+ The ideal candidate will be skilled in developing complex ingestion and transformation processes with an emphasis on reliability and performance. In collaboration with other data engineers, machine learning engineers, and software engineers, the candidate will empower the team of analysts and data scientists to deliver data driven insights and applications to company stakeholders.
+ WHAT WE DO
+
+The Rockstar Analytics team provide insights and actionable results to a wide variety of stakeholders across the organization in support of their decision making.
+We are currently adding team members to multiple verticals including; Machine Learning and Game Data Pipeline.
+
+RESPONSIBILITIES
+
+Implement and maintain real-time and batch Data Models.
+Deliver real-time and non-real-time data models to analysts and data scientists who create insights and analytics applications for our stakeholders.
+Implement and support streaming technologies such as Kafka, Spark, Cassandra & AzureML.
+Assist in the development of deployment automation and operational support strategies.
+Assist in the development of a big data platform in Hadoop using pipeline technologies such as Spark, Airflow, and more to support a variety of requirements and applications.
+Set the standards for warehouse and schema design in massively parallel processing engines such as Hadoop and Snowflake while collaborating with analysts and data scientist in the creation of efficient data models.
+Maintain and extend our CI/CD processes and documentation.
+
+QUALIFICATIONS
+
+3+ years of work experience with data modeling, business intelligence and machine learning on big data architectures.
+2+ years of experience with the Hadoop ecosystem (HDFS, Spark, Oozie, Impala, etc.) and big data ecosystems (Kafka, Cassandra, etc.).
+2+ years of experience with the Azure ecosystem (Azure ML, Azure Data Factory)
+Expert in at least one SQL language such as T-SQL or PL/SQL.
+Experience developing and managing data warehouses on a terabyte or petabyte scale.
+Strong experience in massively parallel processing & columnar databases.
+Experience building Real-Time and/or Near-Real-Time ML pipelines.
+Experience with Python, Scala, or Java.
+Experience with shell scripting.
+Experience working in a Linux environment.
+
+SKILLS
+
+Deep understanding of advanced data warehousing concepts and track record of applying these concepts on the job.
+Ability to manage numerous projects concurrently and strategically, prioritizing when necessary.
+Good communication skills.
+Dynamic team player.
+A passion for technology.
+
+PLUSES
+ Please note that these are desirable skills and are not required to apply for the position.
+
+Experience with Python based libraries such as Scikit-Learn
+Experience with Databricks
+Experience with Spark-ML, Jupyter Notebook, AzureML.
+Experience in Lambda architecture.
+Experience with CI/CD.
+Familiar with Restful APIs.
+Experience with Artifact Repositories.
+Knowledge of the video game industry.
+
+HOW TO APPLY
+ Please apply with a resume and cover letter demonstrating how you meet the skills above. If we would like to move forward with your application, a Rockstar recruiter will reach out to you to explain next steps and guide you through the process.
+ Rockstar is proud to be an equal opportunity employer, and we are committed to hiring, promoting, and compensating employees based on their qualifications and demonstrated ability to perform job responsibilities.
+ If you've got the right skills for the job, we want to hear from you. We encourage applications from all suitable candidates regardless of age, disability, gender identity, sexual orientation, religion, belief, or race.
+
+
+ The pay range for this position in San Diego at the start of employment is expected to be between the range below* per year. However, base pay offered is based on market location, and may vary further depending on individualized factors for job candidates, such as job-related knowledge, skills, experience, and other objective business considerations. Subject to those same considerations, the total compensation package for this position may also include other elements, including a bonus and/or equity awards, in addition to a full range of medical, financial, and/or other benefits. Details of participation in these benefit plans will be provided if an employee receives an offer of employment. If hired, employee will be in an ""at-will position"" and the company reserves the right to modify base salary (as well as any other discretionary payment or compensation or benefit program) at any time, including for reasons related to individual performance, company or individual department/team performance, and market factors.
+
+
+
+ San Diego Pay Range
+
+
+    $89,500—$119,400 USD"
+Cloud Data Engineer,EDF Renewables,"San Diego, CA 92128 (Carmel Mountain area)",Posted 30+ days ago,Full-time,https://www.indeed.com/rc/clk?jk=4e88766c42311841&fccid=0103fd28b454bd4a&vjs=3,"EDF Renewables North America, a subsidiary of EDF Renewables, is a leading North American independent power producer boasting over 30 years of experience across a broad spectrum of services. Our mission is to deliver renewable solutions to lead the transition to a sustainable energy future. 
+
+ The Global Solar Optimization Platform is focused on building end-to-end solutions for our solar sites around the world and transforms the data into meaningful metrics for our customers. 
+
+ Our team ingests massive volumes of data and generates a series of KPIs that help us and our customers understand how our sites are performing, where and why they are under-performing, what the most common problems are, etc. 
+
+ The number of sites and the volume of data is growing fast. We'll need your help building smart, reliable, and performant solutions to make the most of the data. 
+
+ Our current stack includes Redshift, RDS, Glue, Lambdas, S3, the AWS developer tools, and other AWS technologies. If you have good ideas for alternative solutions, we want to hear about it! 
+
+ Near-future opportunities (as in later this year!) include being a part of solving and building solutions for our revolutionary state-of-the-art energy storage solutions. 
+
+
+Responsibilities:
+
+
+25% - Translate complex business use-cases into detailed technical implementations
+25% - Define and craft our data models and database structures
+15% - Create, improve, and maintain automated, highly-reliable data pipelines
+10% - Build data integrations within our data platform and between partners
+10% - Define, design, and build data testing and quality frameworks
+10% - Help mentor and educate your teammates (and vice versa) to expand everyone's skillsets
+5% - Other duties as assigned
+
+Qualifications: (Degree/Certifications/License/Experience/Specialized Knowledge/Skills) 
+Education/Experience – 
+
+
+BS or MS in Computer Science or relevant experience
+5+ years of experience working in software engineering
+2+ years working with Big Data in a cloud environment
+Strong experience with RDBMS (MySQL, PostgreSQL, MSSQL) and SQL
+Strong experience with database design, specifically geared towards Big Data
+Experience with at least one data processing tool such as Spark
+Experience working in a cloud technology environment, preferably AWS, with services such as RDS, Redshift, Glue, EMR, as well as basics such as IAM, S3, EC2, and Lambda
+Experience building and maintaining critical, reliable ETL pipelines
+Experience writing high-quality, production-ready code, preferably in Python (C#, Scala, Java, or Go are also acceptable)
+Comfortable with Git and navigating the command line
+ Skills/Knowledge/Abilities – 
+
+
+Proactive communicator who can translate between technical and non-technical stakeholders
+Team player who is interested in sharing knowledge and mentoring others
+Someone who stays up-to-date with high-potential new technologies, and can evaluate and present to the team
+
+Working Conditions:
+ 95% of time is spent in the office environment, utilizing computers (frequent use of various Microsoft software/programs), phones, and general office equipment. 5% of time is spent outside of the office visiting vendors’ and/or internal customers’ sites in additional to attending various conferences and meetings. 
+
+ We are proud to be an EEO/AA employer M/F/D/V. We maintain a drug-free workplace and perform pre-employment substance abuse testing. 
+
+
+NOTICE TO ALL APPLICANTS: In alignment with our core values and placing safety first, EDF Renewables will implement a mandatory COVID-19 vaccination policy for all US hires. Proof of full vaccination will be required to accept an offer with a hire date on or after January 3, 2022. 
+
+
+Notice to Staffing Agencies: EDF Renewables and its subsidiaries (""EDF-R"") will not accept unsolicited resumes/CVs from any source other than directly from a candidate. Any unsolicited resumes sent to EDF-R, including unsolicited resumes sent to a EDF-R mailing address, fax machine or email address, directly to EDF-R employees outside of EDF-R’s Recruiting department, or to EDF-R’s resume database will be considered as submitted directly by a candidate and therefore EDF-R will NOT pay any fee for any placement resulting from the receipt of such unsolicited resume. EDF-R will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees. Agencies must obtain advance written approval from EDF-R’s Recruiting department to submit resumes, and then only in conjunction with a valid fully executed contract for service. EDF-R will not pay a fee to any Agency that does not have such agreement in place. Agency agreements will only be valid if in writing and signed by EDF-R’s Vice President - Human Resources or his/ her designee. No other EDF-R employee is authorized to bind EDF-R to any agreement regarding the placement of candidates by Agencies.”"
+KPBS Data Engineer,San Diego State University Research Foundation,"Hybrid remote in San Diego, CA 92182",Posted 30+ days ago,"$85,000 - $130,000 a year",https://www.indeed.com/rc/clk?jk=efcc691a8cd93483&fccid=000e54dbddfb88f5&vjs=3,"Overview: 
+ 
+ Salary range is $7,083.33/mo - $10,833.33/mo ($85,000 - $130,000/yr).
+
+
+
+ Under the general direction of the Director of Digital, the Data Engineer is primarily responsible for integrating data from various CRM applications (iMIS (CRM), Eventbrite, Google Ads, Google Analytics, PBS, NPR) and other data sources into the software data warehouse (Snowflake) and customer data platform (Lytics).
+  
+
+
+
+This position will assist the Data Analyst in maintaining databases that house marketing and analysis data; working with subject matter experts in various departments at KPBS, working with staff on data creation policies and procedures and performing data quality checks, as needed. The position will be the lead on problem-solving technical issues within the Snowflake Data Warehouse and will work across departments to ensure the effectiveness of Key Performance Indicators within the organization.
+ The Data Engineer will provide program implementation and policy creation guidance and support. This includes responsibility for the monitoring of data quality, data governance, data access, data cleaning, data validity and timely consumption and delivery of the data to and from various endpoints. 
+
+Perks you'll enjoy as a member of #teamKPBS
+
+
+Working on a college campus & in public media (access to campus facilities and staff discounts, farmer's market Tuesday's, tons of eateries, community events, entertainment)
+Hybrid schedule, remote work flexibility & casual work attire
+Paid time off on your birthday (can take on any day)
+10 vacation days and 13 holidays off (enjoy 4+ days off over winter break)
+Enjoy a 'beautiful day in the neighborhood' with local employee discounts
+Opportunity drawings to attend SDSU basketball games, local concerts, and events
+Free wellness classes & programs
+Monthly pop-up events for staff & KPBS swag
+
+
+
+ Full benefits packages that are unmatched (medical, dental, vision, life)
+Sick leave accruals and paid leave options
+On-site childcare at a discounted rate
+Opportunities for continued learning and professional development
+Flexible spending account(s)
+Employee assistance program
+Matching and voluntary retirement savings plan
+
+
+ Responsibilities: 
+ 
+ The following information is intended to be representative of the work performed by incumbents in this position and is not all-inclusive. The omission of a specific duty or responsibility will not preclude it from the position if the work is similar, related, or a logical extension of position responsibilities. Job descriptions may be changed at any time based on the needs of the department.
+
+
+
+ Data Management & Development (35%)
+
+
+ Build, manage and maintain data pipelines for data integration (ELT/ ETL)
+ Perform data quality checks and clean ups at various data collection and storage touchpoints
+ Ensure security of data during transit and at rest
+ Transform data for use in marketing and analytics applications
+
+
+ Data Administration (35%)
+
+
+ Perform as the lead administrator role for the Snowflake Data Warehouse
+ Act as the lead for problem-solving technical issues within or related to the Data Warehouse
+ Work across departments to ensure effective data usage in the organization
+ Create and maintain data policies that will ensure accuracy of reports and usage of data for marketing
+
+ Project Implementation (15%)
+
+ Work across departments to gather requirements, implement various projects as they arise
+
+
+ Support and Staff Training (10%)
+
+
+ Support Data Analyst by providing data for use in analysis, managing connections to BI applications, dashboard creation, etc.
+ Lead periodic trainings for Snowflake users
+ Train support staff on data creation policies and procedures, business process creation and other activities that impact the quality and usefulness of data collected
+ Convene and lead workgroups, create/implement policies and monitor and oversee the data quality across multiple systems
+
+
+ Other Duties as Assigned (5%)
+ Qualifications: 
+ 
+ MINIMUM EDUCATION
+
+
+ Bachelor’s degree in computer science, information systems, business administration or similar field. Additional or equivalent years’ of work experience may be substituted for the required education on a year for year basis.
+
+
+ MINIMUM EXPERIENCE
+
+
+ Four-years of related work experience in data engineering; developing data pipelines
+
+
+ PREFERRED EXPERIENCE
+
+
+ 2-3 years of which involve SQL database administration;
+ 3-4 years of which include experience developing, maintaining and administering software applications on the linux operating system
+
+
+ KNOWLEDGE & ABILITIES
+
+
+ Demonstrated experience with data integration toolsets (i.e Airflow)
+ Demonstrated experience with writing and maintaining Data Pipelines
+ Demonstrated ability of good scripting, including Bash scripting and Python
+ Demonstrated experience with cloud technologies such as AWS, GCP, Azure
+ Demonstrated experience designing and working on complex data systems from design to delivery
+ Knowledge of and familiarity with Data Modeling techniques such as dimensional modeling and Data Warehousing standard methodologies and practices
+ Knowledge of SQL and ability to create queries to extract data and build performant datasets
+ Demonstrated expertise in using Snowflake cloud data warehouse including administration of roles, security, stages, etc. 
+Ability to integrate with 3rd party APIs
+ Ability to problem solve with strong attention to detail; excellent analytical and communication skills
+ Ability to work individually and as a part of a team
+ Ability to interact effectively with co-workers, vendors and consultants
+ Ability to understand and follow posted work rules and procedures
+ Ability to relate well to others within the project environment.
+ Ability to display motivation and strong interpersonal skills
+ Ability to communicate effectively, both orally and in writing
+ Ability to display organization, meet deadlines, display detail orientation, possess good judgment and common sense
+ Ability to demonstrate a high level of cross-cultural sensitivity
+
+
+ ADDITIONAL APPLICANT INFORMATION:
+
+
+ A background check (including a criminal records check) and Livescan (fingerprint) must be completed satisfactorily before any candidate can be offered a position with SDSU Research Foundation/KPBS
+ San Diego State University Research Foundation is an EEO/AA/Disability/Vets Employer"
+Snowflake Data Engineer,National Funding,"San Diego, CA 92121 (University City area)",EmployerActive 12 days ago,"$101,000 - $151,000 a year",https://www.indeed.com/rc/clk?jk=eef27c70e463ed6f&fccid=a7df22ccaa125132&vjs=3,"Snowflake Data Engineer - San Diego, CA (La Jolla/UTC area)
+Hybrid 2 days/week, Full time M-F 8am-5pm PST
+Being authorized to work in the U.S. is a precondition of employment.
+National Funding does not consider candidates requiring 1099 or C2C.
+Exempt/Salary: $101,000-$151,000 + Bonus
+National Funding is continuing to grow its Data Analytics Department and has an exciting opportunity for a Snowflake Data Engineer. Reporting to the Director, the Snowflake Data Engineer will help implement a new Snowflake Data Warehouse initiative.
+
+
+Responsibilities:
+
+
+The data engineer will participate in the data warehouse implementation and work closely with the DW team including analysts, BI developers, and SME experts. This includes the full DW lifecycle of requirements gathering, data modeling, data mapping, ETL, reporting and QA.
+
+
+
+They primary responsibility will be creating physical data models in Snowflake based on data mapping and business transformations provided or ETL work.
+They will be creating various ETL frameworks in Snowflake to semi-automate data transformation. This includes the full life cycle of ETL: applying business rules, data aggregation, data cleansing, and QA.
+The data engineer will schedule and manage the ETL process (job scheduling, notifications, others).
+
+
+
+Knowledge, Skills and Abilities Required:
+
+
+3+ years' experience working as a snowflake data Engineer and 7+ years in Data warehouse, ETL, BI projects.
+Must have experience in dbt and related ETL products.
+
+
+
+Expertise in Snowflake – data modeling, ELT using Snowflake SQL, implementing complex stored Procedures and standard DWH and ETL concepts.
+Expertise in Snowflake advanced concepts like setting up resource monitors, RBAC controls, virtual warehouse sizing, query performance tuning, Zero copy clone, time travel and understanding how to use these features.
+Hands-on experience with Snowflake utilities, SnowSQL, SnowPipe, techniques using UDFs.
+Deep understanding of relational data stores, methods, and approaches (star and snowflake, dimensional modeling).
+Experience with Snowflake data security and data access controls and design.
+Preferably having experience with aws data storage and management technologies such as S3.
+Snowflake certification a plus.
+Experience in creating frameworks in Snowflake:
+SCD framework
+Business Rules Engine
+Jobs Scheduling
+Capture Data Errors
+Data Transformations
+Snapshot data capture
+
+
+Physical Demands:
+
+
+Working in a temperature-controlled office environment
+Sitting at a desk for prolonged periods of time while viewing multiple computer screen monitors
+Potential lifting of boxes around 5-10lbs
+
+Why National Funding?
+
+Positive, energetic, passionate, business casual environment with management who commits to your success
+
+
+Fantastic benefits package: Our current benefit package includes medical, dental, vision, life, LTD and AD&D insurance as well as a 401(k) Retirement Savings plan with an employer match. Eligibility for all benefits will start at the first of the month following 60 days of employment.
+ Numerous employee events throughout the year, including our annual traditions such as a Day at the Del Mar Racetrack, Del Mar Mud Run, Bring Your Kid to Work Day, Holiday Party, Employee and Family Picnic, sporting events and more.
+
+National Funding is one of the leading providers of short-term loans and equipment leasing for small businesses across the United States. In both 2013 and 2014, we were ranked by the San Diego Business Journal as one of the 100 Fastest Growing Private Companies in San Diego and listed on the Inc. 5000 List of America's Fastest Growing Private Companies. We serve the small business community nationwide by offering a range of financial services and products. Since 1999, we have been in the forefront of the equipment leasing business, working with businesses in hundreds of communities and industries to expand and upgrade their business equipment. As we have grown, so too has our product line, and now we are one of the country's largest private lenders of small business loans. Our customers call on us to get working capital, merchant cash advances, credit card processing, and of course, equipment leasing.
+National Funding is an Equal Opportunity Employer."
+Senior Data Engineer,Tendo,"Hybrid remote in San Diego, CA",Posted 13 days ago,"$117,300 - $158,700 a year",https://www.indeed.com/rc/clk?jk=05aec4c841d19fa5&fccid=a6ecc86d2f1e539c&vjs=3,"As a Senior Data Engineer, you will work within the Engineering team and contribute to Tendo’s strategic data engineering solutions by ingesting, transforming, and warehousing healthcare related data from various sources.
+ 
+
+
+ You will collaborate with Tendo’s Data Scientists, Product Managers, and Machine Learning Engineers to produce quality data flows and transformations. You will develop tools and solutions to facilitate data integration, data warehousing, and modeling. Your work will enable Data Engineers and Data Scientists to experiment and train machine learning models to produce useful insights for Tendo’s customers.
+ 
+
+
+ The ideal candidate should have a strong background in software engineering, data modeling, data warehousing, ETL pipelines, and database design. The candidate should also have a desire to learn and enrich their knowledge in data science, machine learning, and other related fields.
+ 
+
+
+ About Tendo
+
+
+   Make an impact—join our team!
+ 
+
+
+ We’re a fast-growing, mission-driven company building a culture that enables teams and individuals to thrive. Led by an experienced and proven team, we live by our values and are always on the hunt for motivated people with diverse experiences and backgrounds to help us improve the care journey for patients, clinicians, and caregivers by creating software that provides seamless, intuitive, and user-friendly experiences.
+ 
+
+
+ If you like working with innovative technologies and want to be part of a growing team that will help transform the healthcare experience, we encourage you to apply today!
+ 
+
+
+ Job Location
+
+
+   Tendo has hubs in San Francisco, CA; San Diego, CA; Salt Lake City, UT; and Philadelphia, PA. Candidates may be located in any one of our four hub locations.
+ 
+Responsibilities
+
+ Collaborate with Data Scientists and Business Intelligence Analysts to ensure efficient and effective data processing and analysis.
+ Optimize data infrastructure and processes to ensure optimal performance and scalability.
+ Develop and maintain data documentation and data lineage.
+ Stay current with emerging technologies and industry trends related to data engineering.
+
+ Requirements
+
+ 5+ years of experience in data engineering.
+ Extensive experience in the design, build, and maintenance of data ETL pipelines.
+ Extensive knowledge of coding in Python or Scala with focus on data processing.
+ Experience using Apache Spark (PySpark or Scala).
+ Experience with AWS technology stack (S3, Glue, Athena, EMR, etc.).
+ Experience with data and entity relationship modeling to support data warehouses and analytics solutions.
+ Deep understanding of relational and non-relational databases (SQL/NOSQL).
+ Comfortable working with unstructured and semi-structured data (Web scraping).
+ Experience working in a professional software environment using source control (git), an issue tracker (JIRA, Confluence, etc.), continuous integration, code reviews, and agile development process (Scrum/Lean).
+ Basic data privacy and security principles.
+
+ Nice to Have
+
+ Knowledge of, or experience with, healthcare data standards such as HL7, FHIR, ICD, SNOMED, LOINC.
+ Experience with Delta Lake and/or Databricks.
+ Experience with machine learning workflows and data requirements for use with ML frameworks.
+ Experience validating data quality, preferably with test automation.
+ Experience with containerization using Docker.
+
+
+
+ Base Salary Range
+
+
+   $117,300-$158,700
+ 
+
+
+ This salary range is offered with the understanding that final compensation is based on a number of factors including geography and experience. Tendo also offers an equity package, annual bonuses, and benefits.
+
+
+
+ Benefits
+
+
+   For full time employees, Tendo also offers full health benefits (medical, dental, and vision), flexible spending and health savings accounts, company paid life insurance, company paid short-term and long-term disability, company equity, voluntary benefits, 401(k), company paid holidays, flexible time off, and an employee wellness program (“Breathe”).
+ 
+
+   Tendo is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances."
+Senior Data Engineer,SysIntelli,"San Diego, CA 92126 (Miramar area)",Posted 30+ days ago,,https://www.indeed.com/rc/clk?jk=5f5138d546969574&fccid=1495302d18fe02c6&vjs=3,"Senior Data Engineer (San Diego, CA): Dsgn & dvlp data mgmt & data persistence solns for app use cases leveraging relational, non-relational DBs & enhancing data processing capabilities. Dsgn & dvlp distributed data solns using Python, Java, Spark in Hadoop & AWS EMR. Code using advanced SQL. Dvlp w/ legacy & modern integration methods using Informatica, Teradata, Oracle & Relational data systems. Build data pipelines in Cloud. Dimensional data modelling & governance using Erwin. Req. BS (or equiv) in CompSci, Engg (Elec/Comp) or rltd fld & 5 yrs of exp in designing & developing data pipelines & developing data solutions on distributed systems. Must have knowledge of Python, Spark, SQL, Hadoop, AWS Services, Unix shell, ERWin, Informatica PowerCenter, Teradata, Java, Oracle, Jira, git, CVS, XML & JSON. Must be willing to travel and/or relocate to work in various unanticipated locations throughout the US. Relocation benefits offered. No telecommuting. Drug testing required. Submit cover letter & resume to P. Baghani, Sysintelli, Inc., at Panny@sysintelli.com."
+"Wireless Data Path Development Engineer, Pixel",Google,"San Diego, CA (Sorrento Valley area)",Posted 30+ days ago,Full-time,https://www.indeed.com/rc/clk?jk=530991845f205f1e&fccid=a5b4499d9e91a5c6&vjs=3,"Note: By applying to this position you will have an opportunity to share your preferred working location from the following: 
+ San Diego, CA, USA; Mountain View, CA, USA.
+  Minimum qualifications:
+
+Bachelor’s degree or equivalent practical experience. 
+5 years of experience with software development in C/C++ and embedded real-time operating system (RTOS). 
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture. 
+Experience in 3rd Generation Partnership Project (3GPP) AS protocols.
+
+
+ Preferred qualifications:
+
+Master's degree or PhD in Computer Science or a related technical field. 
+ 10 years of experience with 3G, LTE, or 5G NR protocol development. 
+ Experience with the modem development process. 
+ Experience in 3GPP LTE/NR PDCP/RLC/MAC protocol and its development. 
+ Ability to manage multiple changes and priorities during the development phase.
+
+
+About the job
+
+ In this role, you'll focus on development, integration, customization, and performance enhancement of modem Autonomous System (AS) features on Android devices, working with Pixel software teams, original equipment manufacturers (OEM), and vendors. You will develop and enhance the modem protocol stack at certain modules, validate the enhancement through unit test and module tests, and resolve the issues from certification, field testing, and customers. 
+Making the world's information universally accessible and useful doesn't stop at the desktop. The Mobile team builds tools to get you the information you need no matter where you are. Android has become the world's most popular mobile ecosystem, powering billions of devices, from smartphones to tablets, watches to TVs and everything in between. Whether adding to the core Android experience, forging new markets for digital content, creating immersive and portable versions of our products or managing relationships with a global community of developers, the Mobile team is giving you Google on the go.
+ The US base salary range for this full-time position is $139,000-$208,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+
+
+ Responsibilities
+
+Develop Modem data-path enhancement features to improve user experience.
+Analyze, debug, and fix Modem protocol issues from the testing team, certification lab, and customers.
+Work and design with the Global Carriers Engineering team to meet customer’s performance and feature requirements.
+Collaborate with cross-layer teams.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
+"Customer Engineer, Data Management, Google Cloud",Google,"San Diego, CA (Sorrento Valley area)",Posted 20 days ago,Full-time,https://www.indeed.com/rc/clk?jk=efd5a4a706590d35&fccid=a5b4499d9e91a5c6&vjs=3,"Minimum qualifications:
+
+Bachelor's degree in Computer Science, a related technical field, or equivalent practical experience. 
+5 years of experience with data migration strategies and moving production systems in on-premise/data center environments to the cloud. 
+5 years of experience with database technologies and database administration techniques.
+
+
+
+Preferred qualifications:
+
+Master's degree in Computer Science or a related technical field. 
+5 years of experience with optimizing database performance with respect to transactional and/or analytic workloads.
+4 years of experience in technical sales or professional consulting in the fields of systems integration, data transfer/management, and enterprise database performance. 
+Knowledge of Disaster Recovery (DR) and data backup strategies. 
+Ability to learn, understand, and work with new emerging technologies, methodologies, and solutions in the Cloud/IT Technology space.
+
+
+About the job
+ When leading companies choose Google Cloud it's a huge win for spreading the power of cloud computing globally. Once educational institutions, government agencies, and other businesses sign on to use Google Cloud products, you come in to facilitate making their work more productive, mobile, and collaborative. You listen and deliver what is most helpful for the customer. You assist fellow sales Googlers by problem-solving key technical issues for our customers. You liaise with the product marketing management and engineering teams to stay on top of industry trends and devise enhancements to Google Cloud products.
+ As an Enterprise Customer Engineer, you will work directly with the Technical Sales teams as an enterprise database subject matter expert to differentiate and portray the goal of Google Cloud to our customers. You will help prospective customers and partners understand Google Cloud, explain technical features, help customers design architectures, engage in proof- of-concepts, and troubleshoot potential roadblocks related to database migration and data back ends for new app development. 
+ Google Cloud accelerates organizations’ ability to digitally transform their business with the best infrastructure, platform, industry solutions and expertise. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology – all on the cleanest cloud in the industry. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+ The US base salary range for this full-time position is $118,000-$177,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.   Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+
+
+ Responsibilities
+
+Work with the team to identify and qualify business opportunities, identify key customer technical objections, and develop a strategy to resolve technical blockers. 
+Support the technical relationship with Google customers, including product and solution briefings, proof-of-concept work, coordination and prioritization of solutions impacting customer adoption of Google Cloud. 
+Work with customers to demonstrate and prototype Google Cloud product integrations in customer/partner environments. 
+Recommend integration strategies, enterprise architectures, platforms and application infrastructure required to implement a complete solution using best practices on Google Cloud. 
+Travel to customer sites, conferences, and other related events as needed. 
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
+"Data Engineer, Mid",Booz Allen Hamilton,"Hybrid remote in San Diego, CA 92108",Posted 14 days ago,"$58,300 - $133,000 a year",https://www.indeed.com/rc/clk?jk=5474333581fdf273&fccid=4e041af1d0af1bc8&vjs=3,"The Challenge:
+
+
+
+
+
+ Do you want to work at the forefront of advanced technology and solve complex data challenges? You know that data yields pivotal insights when it’s gathered from disparate sources and organized. As a data engineer, you have the chance to develop and deploy the pipelines and platforms that make this data meaningful. What’s more, you’ll have the chance to help grow Booz Allen’s DataOps capabilities while working with a multi-disciplinary team of analysts, data scientists, developers, and data consumers in a fast-paced, Agile environment. We’re looking for someone like you to work with our clients and meet their mission by developing the next generation of IT Infrastructure.
+
+ This is an opportunity to implement data engineering activities on some of the most mission-driven projects in the industry. Supporting tactical and strategic data infrastructure, you’ll have the chance to architect data systems, stand up data platforms, build out extract, transform, and load pipelines, write custom code, interface with data stores, perform ingestion, and deploy models. From sharing your skills in analytical exploration and examination of data to supporting the assessment, design, building, and maintenance of scalable platforms, you’ll work with our clients to solve their most pressing challenges.
+
+ Ready to help drive innovation using cutting-edge data tools and techniques?
+
+ Join us. The world can’t wait.
+
+ You Have:
+
+ 3+ years of experience with writing software in programming languages, including Python
+ 3+ years of experience with source control and collaboration software, including Git or Atlassian tools
+ 3+ years of experience with ETL operations, including on-premises or Cloud infrastructure
+ Knowledge of relational and non-relational database technologies, including SQL or GraphQL
+ Knowledge of automation and scripting on Linux or Windows operating systems
+ Ability to obtain a security clearance
+ Bachelor's degree
+
+
+ Nice If You Have:
+
+ Experience with deploying analytics workloads on platform as a service (PaaS) and software as a service (SaaS), including AWS EMR, Redshift, SageMaker, Azure Databricks, SQL Data Warehouse, or Machine Learning service
+ Experience with distributed or parallel programming frameworks, including Apache Spark or NVIDIA CUDA
+ Experience with infrastructure as code frameworks and services, including Terraform or CloudFormation
+ Experience with developing and presenting complex technical information for technical and non-technical audiences and senior leaders
+ Experience with developing and deploying large-scale batch and stream analytics pipelines
+ Experience working with integrated groups comprised of customer success managers, infrastructure engineers, data scientists, and software engineers
+ Experience with DoD information systems
+ Master’s degree in Mathematics
+ Cloud Development certification, including AWS Solutions Architect or Azure certification
+ Information Security certification, including Security+ or CISSP certification
+
+
+ Clearance:
+ Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information.
+
+ Build Your Career:
+ At Booz Allen, we know the power of analytics and we’re dedicated to helping you grow as a data analysis professional. When you join Booz Allen, you’ll have the chance to:
+
+ access online and onsite training in data analysis and presentation methodologies, and tools like Hortonworks, Docker, Tableau, and Splunk
+ change the world with the Data Science Bowl—the world’s premier data science for social good competition
+ participate in partnerships with data science leaders, like our partnership with NVIDIA to deliver Deep Learning Institute (DLI) training to the federal government
+
+ You’ll have access to a wealth of training resources through our Analytics University, an online learning portal specifically geared towards data science and analytics skills, where you can access more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and state-of-the-art tech from our in-house experts. Pursuing certifications that directly impact your role? You may be able to take advantage of our tuition assistance, on-site bootcamps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want as you chart your own course for success.
+
+
+
+
+
+ Compensation
+ At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
+ Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $58,300.00 to $133,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees.
+ 
+ Work Model Our people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.
+
+ If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.
+ If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.
+
+
+ EEO Commitment
+ We’re an equal employment opportunity/affirmative action employer that empowers our people to fearlessly drive change – no matter their race, color, ethnicity, religion, sex (including pregnancy, childbirth, lactation, or related medical conditions), national origin, ancestry, age, marital status, sexual orientation, gender identity and expression, disability, veteran status, military or uniformed service member status, genetic information, or any other status protected by applicable federal, state, local, or international law."
+Data Engineer,MedWatchers,"San Diego, CA",Posted 30+ days ago,Full-time,https://www.indeed.com/rc/clk?jk=ee48d87690b6b18b&fccid=f76a374a18699d3d&vjs=3,"Job Description
+ The Data Engineer / Experienced Python programmer is a full-time permanent hire position. Successful applicants will work on data and applications to support pharmacists in automating systems to optimize medication therapy services.
+ You will have an opportunity to experience working with highly experienced pharmacists as you delve into projects and services that help improve lives. Along the way, you will interact with and leverage multiple technologies, develop secure data pipelines, and help patients that our clients entrust us to support. The main goal is that solutions we put into action improve the outcome of the care, and our measurement of the effectiveness of the efforts is whether the patient was able to get the support they needed.
+ Future projects include developing secure applications to support the pharmacist to provide context-based assistance for pharmacist and patient interactions, building secure infrastructure, optimizing outreach efforts. and improving predictions or finding indicators in the historical data that will facilitate better healthcare services.
+ Required Qualifications
+
+Degree in Computer Science, Data Science and Engineering, Business Analytics, Information Systems or related fields
+Programming proficiency: Python required
+Solid knowledge of Linux, Comfortable working in a hybrid Linux / Windows environment
+SQL / Database Knowledge
+Statistical Analysis / Machine learning
+Ability to manage and work with data that involves some complex transformations
+Ability to effectively communicate data insights to stakeholders, coordinate with management, and prioritize your efforts
+
+Other Education, Skills, or Experience
+
+Understanding of secure programming and computing practices
+Formal education/courses/certificates in computer security related topics highly preferred
+Understanding of AWS Cloud Services
+
+Job Type
+
+Full time, Full benefits
+Mon-Fri, 8-hour workdays
+
+To Apply
+ Complete the following position interest form. We’ll reach out to you if we think you might be a good fit for our team."
+Data Engineer,CoStar Group,"Hybrid remote in San Diego, CA 92122",Posted 30+ days ago,Full-time,https://www.indeed.com/rc/clk?jk=85fafe0135a45d8c&fccid=644000bf52ae09d4&vjs=3,"Data Engineer
+  <br>
+ Job Description
+ <br>
+ Overview
+ CoStar Group (NASDAQ: CSGP) is a leading global provider of commercial and residential real estate information, analytics, and online marketplaces. Included in the S&P 500 Index and the NASDAQ 100, CoStar Group is on a mission to digitize the world’s real estate, empowering all people to discover properties, insights and connections that improve their businesses and lives.
+
+ We have been living and breathing the world of real estate information and online marketplaces for over 35 years, giving us the perspective to create truly unique and valuable offerings to our customers. We’ve continually refined, transformed, and perfected our approach to our business, creating a language that has become standard in our industry, for our customers, and even our competitors. We continue that effort today and are always working to improve and drive innovation. This is how we deliver for our customers, our employees, and investors. By equipping the brightest minds with the best resources available, we provide an invaluable edge in real estate.
+
+ The Product Data Services team is seeking a Data Engineer to join us in building the Enterprise applications that power all of CoStar's products. Come be an integral part of brands across the organization such as Apartments.com, Homes.com, CoStar and more to solve problems of scale, consistency, and performance. Working primarily on Amazon Web Services components you can have a tangible impact on thousands of end users that use our products.
+
+ This position is located in La Jolla and offers 2 days remote per week.
+
+ Responsibilities
+
+ Know: Deeply understand what drives the business for which you are building software. We firmly believe that what separates a good developer from a great one is a deep understanding of the business that they are supporting.
+ Architect: Use your experience to drive the design of highly performant and highly available data solutions.
+ Build: Build solutions that operate on massive amounts of data in high transaction volume applications.
+ Test: Work with your QA resources to ensure that the software you deliver is of the highest quality. (Our customers are not beta testers.)
+ Launch: Act as a key member of the product launch team and work closely to DevOps to resolve operational issues.
+ Grow: Take an active role in mentoring other developers.
+
+
+ Basic Qualifications
+
+ Bachelor’s Degree required from an accredited, not-for-profit university or college.
+ A track record of commitment to prior employers.
+ A demonstrable track record of building and launching successful products that leverage terabytes of data
+ 3+ years of SQL Server engineering experience as well as ETL/data pipeline (SSIS) engineering experience
+ Ability to analyze technical requirements and design new architectures, data models, and ETL strategies
+ Expertise in database design, complex T-SQL programming, performance tuning, and index analysis
+ Deliver work products that meet specifications, are free of defects, and have optimal performance
+ Define Database Architecture and Development best practices
+
+
+ Preferred Qualifications And Skills
+
+ Facilitate discussions among database developers to exchange ideas and introduce new database technologies. Ability to build consensus among other technologists
+ Evaluate emerging technologies to identify opportunities, trends, and best practices that can be leveraged to strengthen CoStar’s technology platform and development practices.
+ Experience with AWS SQL and NoSQL databases is a plus
+ Experience with integration products like Glue, Lambda, AWS Data Pipeline, and/or Database migration services is a plus
+
+
+ What’s in it for You
+ When you join CoStar Group, you’ll experience a collaborative and innovative culture working alongside the best and brightest to empower our people and customers to succeed.
+
+ We offer you generous compensation and performance-based incentives. CoStar Group also invests in your professional and academic growth with internal training, tuition reimbursement, and an inter-office exchange program.
+
+ Our benefits package includes (but is not limited to):
+
+ Comprehensive healthcare coverage: Medical / Vision / Dental / Prescription Drug
+ Life, legal, and supplementary insurance
+ Virtual and in person mental health counseling services for individuals and family
+ Commuter and parking benefits
+ 401(K) retirement plan with matching contributions
+ Employee stock purchase plan
+ Paid time off
+ Tuition reimbursement
+ On-site fitness center and/or reimbursed fitness center membership costs (location dependent), with yoga studio, Pelotons, personal training, group exercise classes
+ Access to CoStar Group’s Diversity, Equity, & Inclusion Employee Resource Groups
+ Complimentary gourmet coffee, tea, hot chocolate, fresh fruit, and other healthy snacks
+
+
+ We welcome all qualified candidates who are currently eligible to work full-time in the United States to apply. However, please note that CoStar Group is not able to provide visa sponsorship for this position.
+
+ This position offers a base salary range of $104,000 – $154,000, based on relevant skills and experience and includes a generous benefits plan.
+
+ #LI-Hybrid
+ #LI-CT5
+ <br>
+ CoStar Group is an Equal Employment Opportunity Employer; we maintain a drug-free workplace and perform pre-employment substance abuse testing"
+Data Engineer II/Senior Data Engineer III,Ascent Funding,"San Diego, CA 92101",Posted 29 days ago,"$120,000 - $140,000 a year",https://www.indeed.com/rc/clk?jk=3dd4779296e2ca03&fccid=9d76863adc32a239&vjs=3,"Ascent is an award-winning, rapidly growing, pre-IPO FinTech company that is on a mission to revolutionize the way people pay for college. We aim to improve learner’s access to the higher education system by being transparent and offering products that support a diverse population of students through our Ascent College and Bootcamp Loans. We believe education is an investment in the future, and we want to empower students of all economic backgrounds and disciplines, to maximize their return on that investment. 
+We are looking for candidates that drive meaningful insights from a wide array of data and can share these findings with business stakeholders. The Ascent Data Engineer II/Senior Data Engineer III is responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection across the organization. This role supports the critical data needs of multiple teams, and systems. They will also be responsible for the delivery of new initiatives extend Ascent’s product offerings.
+ We hope you:
+
+ Find data thrilling and have the drive to be self-directed, flexible, and responsive to business needs. 
+Enjoy leveraging data to tell a story that helps direct team efforts for maximum impact. 
+Are comfortable working in a fast-paced, analytics-driven environment with a team that is looking to grow.
+
+ In this role you will:
+
+ Work with stakeholders including Executive, Product, Data and Marketing teams to assist with data-related technical issues and support their data infrastructure needs.
+ Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, Python and AWS ‘big data’ technologies.
+ Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency, and other key business performance metrics.
+ Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+ Be proactive to identify systems and processes the improve efficiencies and support greater access to meaningful data that empowers key stakeholders throughout the organization. 
+Find ways to ensure clean data and reduce risk of fraud.
+
+ Desired Skills & Expertise:
+
+ Bachelor’s Degree required in Computer Science, Engineering, Statistics, Applied Mathematics, Informatics, Information Systems, or another quantitative field. 
+5+ years of experience in a data engineering role. 
+Enjoy working in cross-functional teams and providing feedback to senior management. 
+Exceptional analytic and strategic thinking skills related to working with structured and unstructured data sets. 
+Experience and proficiency with… 
+   
+Advanced SQL and procedural practices.
+ Building and optimizing data pipelines, architectures, and data sets. 
+Performing root cause analysis on internal/external data, identifying improvement opportunities. 
+Relational databases (MS SQL Server, Postgres, MySQL) and NoSQL databases.
+ AWS cloud services (EC2, EMR, RDS, Redshift) and AWS Data Pipeline.
+ Big data pipeline tools like pySpark, Glue and SSIS
+ Sourcing and modeling data from REST APIs.
+ Data visualization systems like Tableau, Looker or Power BI. 
+Object-oriented scripting languages (Python, Scala). 
+
+
+
+Development operations in the data engineering space (git, ci/cd pipelines).
+ Must be able to think outside of the box, enjoy being challenged to grow your skills, and not be afraid to step outside of your comfort zone.
+
+ Bonus points if you have:
+
+ Past consumer finance experience and / or experience in a highly regulated environment.
+ MBA or master’s degree in computer science, Engineering, Statistics, Applied Mathematics, Informatics, Information Systems or another quantitative field.
+
+ Competitive pay with bonus, and comprehensive benefits package that includes, but not limited to:
+
+ Company Stock Options
+ 401(k) + Company Match
+ Medical, dental, and vision coverage
+ Annual HSA contribution of $1,500
+ Life insurance, disability, and critical illness
+ Birthday Holiday
+ Unlimited snacks and drinks in the office
+ Tuition reimbursement program
+ Generous paid leave policies 
+$2,000 Vacation Incentive Plan after 3 years + $1,000 Sabbatical Day
+ Community, Wellness funds and more!
+
+
+ The Job Description is intended to be a general representation of the responsibilities and requirements of the job. However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.
+ Equal Employment Opportunity
+ It is the policy of the Company to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or mental disability, marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination. Reasonable accommodation is available for qualified individuals with disabilities, upon request.
+ 
+M1S27o3rUH"
+Senior Data Engineer,Ivy Energy,"San Diego, CA",PostedToday,"$130,000 - $160,000 a year",https://www.indeed.com/rc/clk?jk=a874542b29fd7ae3&fccid=e0b68b648a55b3f7&vjs=3,"About Ivy
+ We are an early-stage, startup based out of San Diego, CA, incubated out of the Southern California Energy Innovation Network. Our team is on a mission to evolve the way that shared real estate properties create, use, and think about energy.
+ Ivy’s platform is providing the missing intelligence, enabling a turnkey shared solar system that provides equitable benefits to tenants and predictable returns to real estate owners. The platform uses innovative software design that includes proprietary load algorithms and community solar cost averaging logic to make onsite shared solar a win-win-win for owners, residents, and grid operators.
+ Role
+ We're seeking an experienced and dedicated Senior Data Engineer to join our growing team. This role will be critical in tackling the data challenges that come with being a rapidly evolving, data-centric organization. As a Senior Data Engineer, you will be responsible for planning, implementing, maintaining, and improving our data architecture and infrastructure to meet the needs of multiple stakeholders.
+ In this position, you will play a critical role in shaping how our platform evolves, ensuring it continues to deliver accurate, real-time insights that drive our mission of revolutionizing shared solar systems. You will work closely with various product teams to design and build out the data infrastructure that supports our large enterprise clients who are key to our continued growth. Lastly, as we continue to scale and evolve, you will spearhead the efforts to expand our data engineering team, playing a pivotal role in both recruitment and mentorship.
+ The Senior Data Engineer will report directly to the Chief Technology Officer (CTO) and will be an integral part of the Engineering team. This position will involve cross-functional collaboration across various roles and projects, requiring a unique blend of technical expertise and interpersonal skills.
+
+ Primary Responsibilities:
+
+Design, develop, and maintain our data architecture, including databases, data pipelines, data warehouses, data lakes, and other data storage systems.
+Optimize data systems for performance, reliability, and scalability.
+Develop and maintain ETL workflows.
+Monitor and troubleshoot data systems to ensure data quality and integrity.
+Build tools to automate, streamline, and improve data engineering processes.
+
+Team Collaboration:
+
+Collaborate with our data scientists and analysts to ensure our data architecture meets business requirements.
+Work with security engineers to meet security compliance requirements.
+Support hiring efforts for future data engineers.
+Provide mentorship and coaching to junior data engineers and other data-related roles.
+
+Requirements
+
+Passionate about working in a startup environment and applying technology to solve environmental problems.
+Bachelor's degree or higher in Computer Science, Engineering, or a related field.
+Strong experience in data engineering, with a focus on data architecture and infrastructure.
+Great experience with AWS for data ingestion, storage, and processing.
+Strong experience in SQL, ETL workflows, and data warehousing.
+Proven ability to write clean, efficient, and maintainable code in a team environment.
+Expertise in data modeling, ETL development, and data warehousing.
+Proficiency in SQL and Python.
+Demonstrated problem-solving skills, with a track record of identifying, analyzing, and resolving complex problems in a fast-paced environment.
+Adaptable and flexible, with the ability to thrive in a startup setting where rapid iteration, continuous learning, and pivoting is common.
+Strong communication skills and ability to work collaboratively with cross-functional teams.
+
+Benefits
+
+Stock Option Plan
+Fringe benefits (Car, electric vehicle stipend)
+Health insurance
+Great office environment
+Sick pay
+PTO
+Salary: $130K-160K"
+Lead Data Pipeline Engineer,Motionworks International,"San Diego, CA",Posted 23 days ago,"$175,000 - $225,000 a year",https://www.indeed.com/rc/clk?jk=a23ce04774b2663a&fccid=dd616958bd9ddc12&vjs=3,"Lead Data Pipeline Engineer
+ On-Site – SAN DIEGO, CALIFORNIA (Little Italy)
+ About Us
+ Motionworks is the trusted population intelligence expert that empowers customers with privacy-compliant, innovative data solutions to help them make smarter, more confident decisions. Motionworks uses observations from the real-world to develop travel, population, and customer insights. Our client portfolio spans advertising, government planning, tourism, transportation engineering, and retail. Powered by geospatial technology and exceptional data scientists, engineers, and UX experts, Motionworks delivers a wide range of high-value mobility insights that provide historical, real-time, normative, and predictive intelligence about how people move around the globe.
+ Job Summary
+ As a fast-growing startup, Motionworks is looking for strong candidates at the intersection of data engineering and data science with demonstrated interest. We want people with a passion for data modeling, software development, and applying your trade to make the world a better place. You will be tasked with:
+
+Oversee data pipelines built in Apache Airflow on the Google Cloud Platform (Google Composer)
+Improve data processes to reduce pipeline processing costs and increase efficiency of existing workflows
+Improve data structures, storage, and indexing to optimize existing pipelines and/or reduce pipeline processing costs
+Coordinate with product leads to operationalize research and development concepts into repeatable and efficient data pipelines
+Implement quality control checks in the data pipeline with the Data Quality Control Engineer
+Assist monitoring costs associated with Google Cloud Platform usage
+Researching and recommending new, innovative processes and tools to reduce costs or processing time associated with current data pipelines
+Provide direction to data engineers who support and implement components within the pipeline
+
+
+Required Qualifications and Skills
+ MS/BS in Computer Science, Computer Engineering, or Mathematics (or equivalent degree) with 5+ years of experience in quality control, quantitative analytics, data science, or data engineering. Master’s degree could be substituted for 2 years of experience.
+
+Superior, demonstrable communication skills. The position will be tasked with understanding and communicating complex data interactions. The ability to clearly articulate these relationships both written and orally will be key to success in this position.
+Strong SQL experience developing, debugging, and collaborating on ETL and data pipelines
+Data Pipelining and automation experience with tools such as Python and Airflow.
+Experience implementing code and scripts using defined styling templates shared across teams.
+Understanding and experience using cloud-based services from any of Google GCP, Amazon AWS, or Microsoft Azure.
+Experience with version control (preferably Git/GitHub)
+Experience with Linux/Unix command line
+
+
+Salary Range
+ $175k-$225k
+ Location
+ San Diego, California (Little Italy)
+ Our Offering
+
+Medical, dental, and vision coverage for you and your dependents
+First year of employment gives two weeks of PTO, four weeks thereafter
+14 holidays and flex holidays
+401(k) plan
+Employee equity
+
+Motionworks does not discriminate in employment on the basis of race, color, religion, sex, pregnancy, gender identity, national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, parental status, military service, or other non-merit factor."
+Cloud Data Engineer,"GovX, Inc.","Remote in San Diego, CA",Posted 1 day ago,"$95,000 - $140,000 a year",https://www.indeed.com/rc/clk?jk=2e4ea848d2ebf0cd&fccid=2bbcbfee2094dd88&vjs=3,"The Cloud Data Engineer is part of a Data Management team that is responsible for modernizing and transforming our data and reporting capabilities across our products by implementing a new modernized data architecture. The position will be responsible for day-to-day data collection, transportation, maintenance/curation, and access to the GovX corporate data asset. The Cloud Data Engineer will work cross-functionally across the enterprise to centralize data and standardize it for use by business reporting, machine learning, data science or other stakeholders. This position plays a critical role in increasing the awareness about available data and democratizing access to it across GovX and our data partners.
+This position will be under the supervision of the Chief Technology Officer.
+ RESPONSIBILITIES
+
+Crafting and maintaining efficient data pipeline architecture.
+Assembling large, complex data sets that meet functional / non-functional business requirements.
+Design and maintain schemas.
+Create and maintain optimal data pipeline/flow architecture.
+Identifying, crafting, and implementing internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Working with technical and non-technical stakeholders to assist with data-related technical issues and support their data infrastructure needs.
+Working with the team to strive for clean and meaningful data, and greater functionality and flexibility within the team’s data systems.
+Design processes supporting data transformation, data structures, metadata, dependency, and workload management.
+
+Requirements
+
+Advanced working knowledge of SQL and NoSQL query authoring.
+Experience working with streams such as Event Hubs and Event Driven Architectures.
+Experience with Microsoft Fabric, Power Platform including Power BI and Power Apps.
+Proficiency with object-oriented/object function scripting languages: Python, C#, etc.
+Experience with big data tools: Spark, etc.
+Experience building, maintaining, and optimizing ‘big data’ data pipelines, architectures, and data sets.
+Experience cleaning, testing, and evaluating data quality from a wide variety of ingestible data sources.
+Strong project management, communication, and organizational skills.
+
+
+ Supervisory Responsibilities This position has no supervisory responsibilities. This position provides oversight and mentoring.
+ Work Environment This job operates in a professional office environment. This role routinely uses standard office equipment such as computers, phones, photocopiers, filing cabinets and fax machines. This role occasionally must lift and carry the office equipment.
+ Work Location Due to state law and tax implications, remote work candidates must live and work in one of the following states: California, Oregon, Washington, Texas, Tennessee, Florida, or New York. 
+
+Physical/Mental Demands
+
+Physical - This is largely a sedentary role. 
+Mental – Problem solving, making decisions, interpret data, organize, read/write.
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+
+ Travel No travel is expected for this position.
+ Preferred Education and Experience
+
+Bachelor’s degree or equivalent experience.
+4+ years of proven experience deploying and maintaining always-on data services.
+2+ years in building data engineering pipelines in Azure (ADF, Databricks, or Synapse).
+2+ years in cloud data engineering experience in Azure.
+2+ years of experience with SQL Server.
+
+
+ Other Duties
+ Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.
+ Benefits
+
+Work for a company with a greater social mission. We work to serve those who serve our country and communities every day.
+No boring days. This is a fast-paced environment where you will learn a lot and have the direct ability to leave your mark on a growing e-commerce company.
+Remote-first work environment with modern San Diego HQ office that is available as needed.
+Flexible paid time off, paid holidays and sick leave.
+Competitive insurance benefits to include: Medical, Dental, Vision, and Life
+Flexible Spend Account (FSA) and Health Savings Account (HSA) also available.
+401(k) plan with discretionary match available.
+Employee discounts on the GovX website.
+You won't find a better team of people to work with! 
+
+ Salary Range $95,000.00 - $140,000.00 annually
+ AAP/EEO Statement EOE. Veterans/Disabled
+ Position will require successful completion of a background check and drug testing prior to starting employment.
+ About GovX, Inc.  Savings for Those Who Serve
+ GovX was founded in 2011 to offer exclusive benefits to those who serve our country. The GovX membership is comprised of current and former members of the American military, law enforcement, firefighting, medical services, and government personnel. We are dedicated to supporting these communities and to offering unique value to our members, while delivering an authentic platform for brands to reach our growing customer base. As the largest and fastest growing digital platform serving this deserving audience, we are committed to stretching the limits of ecommerce to deliver the best assortment for our members’ on-duty and off-duty needs.
+
+ 0123"
+Software Engineer - Big Data Technologies,Apple,"San Diego, CA",Posted 11 days ago,,https://www.indeed.com/rc/clk?jk=d73f8a2c87ae259a&fccid=c1099851e9794854&vjs=3,"Summary
+
+
+      Posted: May 15, 2023
+     
+
+      Weekly Hours: 
+      40
+
+
+      Role Number:
+      200478771
+
+
+
+     Meaningful insights require a solid infrastructure that is able to scale with the large amount of data coming in. Our team is responsible for discovering such great insights from a sea of data, and our infrastructure needs innovative ideas to improve its performance and ease-of-use. Would you like to help understand the challenges of building and maintaining a large-scale analytics infrastructure? Are you excited about identifying areas for improvement and creating out-of-the-box solutions? If this describes you, we would love to hear from you!
+    
+
+
+
+
+
+
+
+
+Key Qualifications
+
+
+
+
+Great programming skills in C, C++, Python or Java
+Strong analytical thinking
+Self-motivated and able to work independently
+Excellent spoken and written communication skills
+
+
+
+
+
+
+
+
+
+
+Description
+
+
+
+       We're looking for a motivated engineer with excellent programming, problem solving and communication skills. In this role, you will be responsible for effective provisioning, installation/configuration, operation, and maintenance of our team’s analytics infrastructure. You will enable continued innovation and progress within the infrastructure through research and development. You will help and support the execution, test and roll-out of solutions. To be successful in this role, you must have a solid software engineering background and be able to write production level code. As a member of this team, you will have the opportunity to solve challenging engineering problems across a broad range of Apple products.
+      
+
+
+
+
+
+
+
+
+Education & Experience
+
+
+
+       B.S., M.S. or Ph.D. in Computer Science, Electrical Engineering or equivalent
+      
+
+
+
+
+
+
+
+
+Additional Requirements
+
+
+
+
+
+
+
+
+
+Pay & Benefits
+
+
+
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $110,200 and $198,100 annualized, and your base pay will depend on your skills, qualifications, experience, and location.  Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.  Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program."
+Senior Data Engineer (Databricks),Apixio,"Hybrid remote in San Diego, CA",Posted 30+ days ago,"$140,000 - $175,000 a year",https://www.indeed.com/rc/clk?jk=5f1347cf3c802d23&fccid=d709010bf50f2482&vjs=3,"Who We Are:
+ Apixio is advancing healthcare with data-driven intelligence and analytics. Our Artificial Intelligence platform gives organizations across the healthcare spectrum the power to mine clinical information at scale, creating novel insights that will change the way healthcare is measured, care is delivered, and discoveries are made.
+
+
+
+Who you are:
+
+ Experience designing and developing data engineering solutions.
+
+
+ Support analytics, data science and data platform teams and understand their unique needs and challenges.
+
+
+ Design, implement and manage data flows that integrate information from various sources into a common pool implementing data pipelines based on ELT and ETL models.
+
+
+ Build dashboards and query tools for cross-functional teams in the organization. 
+
+
+ Develop datasets and models to meet the requirements of analysts and key stakeholders; optimizing query compute and data storage patterns for cost and performance
+
+
+ Work closely with the engineering teams to troubleshoot issues with API's and data exchanges between multiple systems.
+
+ What Knowledge, Skills & Abilities you bring to the table::
+
+ 5+ years Data Engineering experience including 
+
+
+ 3+ years hands-on experience working with large, structured/unstructured datasets using partitioned cloud storage architecture using query engines such as Spark, Delta Lake.
+
+
+ 3+ yearsExperience designing, developing, deploying and testing in Databricks. 
+
+
+ 3+ years of hands-on experience in Python/Pyspark/SparkSQL.
+
+
+ 2+ years experience on Big data pipelines/DAG tools like Airflow, dbt is required.
+
+
+ 2+ years of SQL experience, specifically to write complex, highly optimized queries across large volumes of data.
+
+
+ Experience in the AWS computing environment and storage services such as s3/glacier is required.
+
+
+ Experience with conceptual, logical and/or physical database designs is required.
+
+
+ Good knowledge in Linux and shell scripting is highly desired.
+
+
+ Past experience in healthcare data extraction, transformation and normalization is highly desired.
+
+
+ Hands-on experience with Kafka or other live streaming technology is highly desired.
+
+
+ Experience with Data Visualization tools like Looker, Tableau is desired.
+
+
+ Strong communication skills to relay complex data integration requirements to team members.
+
+ After 3 months you will have accomplished: 
+
+ Develop a very good understanding of Apixio's products and existing DI tools and processes.
+
+
+ Work closely with the R&D team to implement the building blocks of the next generation data integration platform.
+
+ After 1 year you will have accomplished: 
+
+ Instill excellence into the processes, methodologies, standards, and technology choices embraced by the team.
+
+
+ Serve as a SME in migrating the legacy data Integration pipelines to the next generation Integration platform.
+
+
+
+    The salary range below is for Base Salary. Total compensation also includes benefits and variable compensation. Compensation will be determined based on several factors including, but not limited to, skill set, years of experience, and the employee’s geographic location.
+  
+ Base Compensation
+
+    $140,000—$175,000 USD
+  
+
+
+ We recognize that people come with experience and talent beyond just the technical requirements of a job. If your experience is close to what you see listed here, please consider applying. Diversity of experience and skills combined with passion is a key to innovation and excellence. Therefore, we encourage people from all backgrounds to apply to our positions. Your skills and background may be more translatable to this role than you initially thought. Allow us the opportunity to get to know you. Please let us know if you require accommodations during the interview process.
+ What Apixio can offer you:
+
+Meaningful work to improve healthcare
+Competitive compensation
+Exceptional benefits, including medical, dental and vision, FSA
+401k with company matching
+Generous vacation policy
+A hybrid work schedule (2 days in office & 3 days work from home) (Note: If the position is designated as REMOTE it will stay REMOTE)
+Modern open office in beautiful San Mateo, CA; Los Angeles, CA; San Diego, CA; Austin, TX and Dallas, TX
+Subsidized gym membership
+Catered, free lunches
+Parties, picnics, and wine-downs
+Free parking
+
+We take your privacy very seriously. Please review our privacy policy to see exactly how we protect your information here
+ We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.
+ Apixio will consider for employment qualified applicants with criminal histories pursuant to the San Francisco Fair Chance Ordinance subject to the requirements of all state and federal laws and regulations.
+ If you are a recruiter or placement agency, please do not submit resumes to any person or email address at Apixio prior to having a signed agreement from Talent Acquisition. Apixio is not liable for and will not pay placement fees for candidates submitted by any agency other than its approved recruitment partners. Furthermore, any resumes sent to us without an agreement in place will be considered your company's gift to Apixio and may be forwarded to our recruiters for their attention and no fee will be paid.
+
+
+ LI-RB1"
+Sr. Data Engineer,Experfy Inc,"San Diego, CA",Posted 30+ days ago,,https://www.indeed.com/rc/clk?jk=17de5496bf8fdf1b&fccid=19327ae379f6e1a2&vjs=3,"A Sr. Data Engineer is proficient in the development of all aspects of data processing including data warehouse architecture/modeling and ETL processing. The position focuses research on development and delivery of analytical solutions using various tools including Confluent Kafka, Kinesis, Glue, Lambda, Snowflake and SQL Server. A Sr. Data Engineer must be able to work autonomously with little guidance or instruction to deliver business value.
+ Responsibilities
+ Position Responsibilities
+
+Partner with business stakeholders to gather requirements and translate them into technical specifications and process documentation for IT counterparts (on-prem and offshore)
+Highly proficient in the architecture and development of an event driven data warehouse; streaming, batch, data modeling, and storage
+Advanced database knowledge; creating/optimizing SQL queries, stored procedures, functions, partitioning data, indexing, and reading execution plans
+Skilled experience in writing and troubleshooting Python/PySpark scripts to generate extracts, cleanse, conform and deliver data for consumption
+Expert level of understanding and implementing ETL architecture; data profiling, process flow, metric logging and error handling
+Support continuous improvement by investigating and presenting alternatives to processes and technologies to an architectural review board
+Develop and ensure adherence to published system architectural decisions and development standards
+Multi-task across several ongoing projects and daily duties of varying priorities as required
+Interact with global technical teams to communicate business requirements and collaboratively build data solutions
+
+ Requirements
+
+8+ years of development experience
+Expert level in data warehouse design/architecture, dimensional data modeling and ETL process development
+Advanced level development in SQL/NoSQL scripting and complex stored procedures (Snowflake, SQL Server, DynomoDB, NEO4J a plus)
+Extremely proficient in Python, PySpark, and Java
+AWS Expertise – Kinesis, Glue (Spark), EMR, S3, Lambda, and Athena
+Streaming Services – Confluent Kafka and Kinesis (or equivalent)
+Hands on experience in designing and developing applications using Java Spring Framework (Spring Boot, Spring Cloud, Spring Data etc)"
+Sr Software Engineer - Data Platform,ServiceNow,"San Diego, CA 92121 (University City area)",Posted 1 day ago,"$131,310 - $223,290 a year",https://www.indeed.com/rc/clk?jk=8f314cb3fc89b735&fccid=7442885bc0fa7c14&vjs=3,"Company Description
+ At ServiceNow, our technology makes the world work for everyone, and our people make it possible. We move fast because the world can’t wait, and we innovate in ways no one else can for our customers and communities. By joining ServiceNow, you are part of an ambitious team of change makers who have a restless curiosity and a drive for ingenuity. We know that your best work happens when you live your best life and share your unique talents, so we do everything we can to make that possible. We dream big together, supporting each other to make our individual and collective dreams come true. The future is ours, and it starts with you.
+With more than 7,700+ customers, we serve approximately 85% of the Fortune 500®, and we're proud to be one of FORTUNE 100 Best Companies to Work For® and World's Most Admired Companies™.
+Learn more on Life at Now blog and hear from our employees about their experiences working at ServiceNow.
+Unsure if you meet all the qualifications of a job description but are deeply excited about the role? We still encourage you to apply! At ServiceNow, we are committed to creating an inclusive environment where all voices are heard, valued, and respected. We welcome all candidates, including individuals from non-traditional, varied backgrounds, that might not come from a typical path connected to this role. We believe skills and experience are transferrable, and the desire to dream big makes for great candidates.
+ Job Description
+ *Flexible in-office*
+ Team
+ Platform persistence group provides storage API for higher layer applications. Depending on the nature of the data, the storage systems include relational database, non-relational database such as columnar database, time series database, or message queue system. Our largest customers are always pushing the limits of the backend storage in terms of size of the data, speed of IO, as well as number of concurrent transactions. Performance, reliability, and scalability is always at the core of our work.
+ As a Senior Data Platform Software Engineer, you will have the opportunity to become a key member of the Platform Persistence group. Team members will be mentored in the necessary skills to become successful contributors to the team.
+ What you'll do and need to know:
+
+ You'll create the features exposing and leveraging capabilities on our underlying database engines.
+ Experience in Core Java development, object-oriented and modularized software.
+ Provide platform API to manage large data volume and record life cycles while keeping the database healthy and performing.
+ Demonstrated success completing complex projects.
+ Demonstrated aptitude for learning new technologies.
+
+ Nice to have:
+
+ Experience with concurrency issues
+ Good knowledge of java internals
+ Good knowledge of database internals
+ Experience programmatically handling large data volume on relational database.
+ Good understanding of a DevOps environment
+ Solid background in java backend programming solving problems at scale.
+
+
+ Qualifications
+
+
+4+ years of software development experience with a bachelor’s degree in computer science OR equivalent experience
+Experienced in writing Java code.
+Experience developing a platform.
+Experience in unit and integration test automation
+Experience with relational databases: MySQL/MariaDB, PostgreSQL, Oracle, MS SQLServer
+Familiarity with Unix shell
+For positions in California (outside of the Bay Area), we offer a base pay of $131,310 - $223,290, plus equity (when applicable), variable/incentive compensation and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the base pay shown is a guideline, and individual total compensation will vary based on factors such as qualifications, skill level, competencies and work location. We also offer health plans, including flexible spending accounts, a 401(k) Plan with company match, ESPP, matching donations, a flexible time away plan and family leave programs (subject to eligibility requirements). Compensation is based on the geographic location in which the role is located, and is subject to change based on work location. For individuals who will be working in the Bay Area, there is a pay enhancement for positions located in that geographical area; please contact your recruiter for additional information.
+ 
+Additional Information
+ ServiceNow is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.
+ At ServiceNow, we lead with flexibility and trust in our distributed world of work. Click here to learn about our work personas: flexible, remote and required-in-office.
+ If you require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at talent.acquisition@servicenow.com for assistance.
+ For positions requiring access to technical data subject to export control regulations, including Export Administration Regulations (EAR), ServiceNow may have to obtain export licensing approval from the U.S. Government for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by the U.S. Government.
+ Please Note: Fraudulent job postings/job scams are increasingly common. Click here to learn what to watch out for and how to protect yourself. All genuine ServiceNow job postings can be found through the ServiceNow Careers site.
+ From Fortune. © 2022 Fortune Media IP Limited All rights reserved. Used under license.
+ Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of, ServiceNow."
+Cellular 4G/5G Firmware Data and Automation Engineer,Apple,"San Diego, CA",Posted 10 days ago,,https://www.indeed.com/rc/clk?jk=01f7020b53838ae4&fccid=c1099851e9794854&vjs=3,"Summary
+
+
+      Posted: Dec 12, 2022
+     
+
+
+       Role Number:
+       200448923
+
+
+
+      Do you have a passion for invention and self-challenge? As part of a world class modem team, you’ll craft sophisticated groundbreaking embedded firmware that deliver more performance in our products than ever before! We'll work across disciplines to transform improved hardware elements into a single, coordinated design. Join us, and you’ll help us innovate new wireless systems technologies that continually outperform the previous iterations. By collaborating with other product development groups across Apple, you’ll push the industry boundaries of what wireless systems can do and improve the product experience for our customers across the world. As a Cellular 4G/5G Firmware Data and Automation Engineer, you will be at the center of the embedded 5G/4G/multimode cellular firmware effort within a silicon design group responsible crafting and productizing powerful cellular SoCs.
+     
+
+
+
+
+
+
+
+
+
+Key Qualifications
+
+
+
+
+Minimum BS and 3+ years of relevant industry experience
+Ability to think creatively and identify, build, and support solutions and roadmaps focused on automation and reduction of manual processes
+Strong critical thinking and communication skills with the ability and desire to learn and evaluate new technologies
+Experience in utilizing analytics and statistical methods to transform data into useful insights and actionable results
+Proficient Python developer with 3+ years of experience in developing data processing & test automation pipeline or similar projects
+Good understanding of AWS components including S3, Kinesis firehose, Kibana, Elasticsearch, Redshift
+Experience in creating data processing & visualization pipeline over AWS.
+Proven knowledge and experience with relational database (e.g Postgres), SQL and non-relational database (e.g.Mango DB) is required
+Experience with Testrail is a plus
+Experience with popular data visualization tools is a plus
+
+
+
+
+
+
+
+
+
+
+Description
+
+
+
+       Design and develop robust and modular data processing & automation systems across hardware and software that enable engineers to be more efficient produce quality work Develop scripts for implementing firmware verification test cases Use external tools and internal tools/services from other teams within Apple We are looking for someone with a passion for technology, automation, data and an ability to iterate quickly.
+      
+
+
+
+
+
+
+
+
+Education & Experience
+
+
+
+       Minimum BS and 3+ years of relevant industry experience
+      
+
+
+
+
+
+
+
+
+Additional Requirements
+
+
+
+
+
+
+
+
+
+Pay & Benefits
+
+
+
+
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $131,500 and $243,300, and your base pay will depend on your skills, qualifications, experience, and location.  Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.  Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program."
+Senior Data Engineer - SFL Scientific,Deloitte,"San Diego, CA",Posted 30+ days ago,,https://www.indeed.com/rc/clk?jk=a6ca3c7811dcb5d2&fccid=9e215d88a6b33622&vjs=3,"Senior Data Engineer, Specialist Senior - SFL Scientific
+
+ The SFL Scientific, a Deloitte Business practice brings together several key capabilities to architect integrated programs that transform our clients' businesses, including Strategic Growth Transformation, Transformation Strategy & Design, Technology Strategy & Business Transformation, and AI & Data Strategy.
+ 
+ Professionals will serve as trusted advisors to our clients, working with them to make clear data-driven choices about where to play and how to win - ultimately driving growth and enterprise value.
+ 
+ We are hiring a Senior Data Engineer to support the design and develop solutions for various organizations looking to implement tools, software, and processes that support machine learning and AI initiatives across healthcare, life sciences, manufacturing, energy, and other sectors.
+ 
+
+Work you'll Do:
+
+ As a Senior Data Engineer, you'll work cross-functionally with data scientists, machine learning engineers, project managers, and industry experts to develop robust AI infrastructure and deployment services for our novel machine learning applications. Key to this role is the ability to demonstrate both traditional data engineering expertise, leveraging cloud/enterprise/open-source solutions, and constructing IT infrastructure for organizations across a wide variety of industries.
+ 
+ In our consultative approach, we are committed to providing the best technical solutions for each client and solution. Our engineering team leverages emerging technologies and best practices across data security, documentation, cloud services and engineering architecture to create solutions and products that address complex issues and business problems faced by global organizations. Some of our novel use cases include cancer detection, drug discovery, optimizing population health and clinical trials, autonomous systems and edge AI, and renewable energy.
+ 
+ Join us to expand your technical career through the lens of consulting and work on many novel projects and use cases to expand your data engineering & AI skills!
+ 
+
+ Work with clients to design, develop, and deploy new architectures for machine learning applications such as ELT pipelines, database & data warehouse solutions, compute infrastructure, cloud services, and containerized solutions 
+Leverage skills in modern data architecture, cloud engineering, data transformation, and management of structured and unstructured data sources 
+Support and enhance data architecture, and data pipelines, and define database schemas (Graph DB, SQL, NoSQL) to support algorithm scalability and deployment based on agile business priorities and technology initiatives 
+Participate in architectural discussions to ensure solutions are designed for successful deployment, security, and high availability in the cloud or on-prem 
+Adopt and maintain engineering best practices in data security, retention, and sensitivity 
+Present to key stakeholders, including architecture findings and design of infrastructure, hardware, software, cloud, and deployment, etc. 
+Mentor, motivate and coach junior members on technical best practices and inspire professional development 
+
+
+
+The Team 
+
+ SFL Scientific, a Deloitte Business, is a data science professional services practice focused on strategy, technology, and solving business challenges with Artificial Intelligence (AI). The team has a proven track record serving large, market-leading organizations in the private and public sectors, successfully delivering high-quality, novel, and complex projects, and offering deep domain and scientific capabilities. Made up of experienced AI strategists, data scientists, and AI engineers, they serve as trusted advisors to executives, helping them understand and evaluate new and essential areas for AI investment and identify unique opportunities to transform their businesses.
+ 
+
+Basic Qualifications: 
+
+
+
+Bachelor's degree in a STEM field or equivalent experience (Computer Science, Engineering, Physics etc.); Master's degree preferred 
+2+ years in data engineering, data architecting or cloud engineering, while building highly scalable and secure solutions 
+1+ years leading project/ client engagement teams in the execution of data engineering solutions 
+Expert in languages such as Python, SQL, Shell scripting, Bash, & Linux commands 
+Expert in logging, monitoring, and data documentation best practices 
+Extensive hands-on experience with source version control (e.g., Git), containerization (e.g., Docker), container orchestration (e.g., Kubernetes), and supporting libraries 
+Experience with distributed computing frameworks (e.g., Spark, Dask), cloud platforms (e.g. AWS, Azure), multi-cloud service providers (e.g., Snowflake, Dataricks) & on-prem alternatives (e.g. MinIO) 
+Experience with workflow and data management solutions such as Fivetran, Airflow, Kafka, Glue, etc. 
+Experience designing data architectures and SQL, NoSQL & Graph databases 
+Strong analytical and problem-solving skills with the ability to develop novel and efficient solutions 
+Ability to travel 10%, on average, based on the work you do and the clients and industries/sectors you serve 
+Live within commuting distance to one of Deloitte's consulting offices 
+Limited immigration sponsorship may be available. 
+
+
+
+Preferred Qualifications: 
+
+
+
+Master's or Ph.D. degree in Computer Science, Information Technology, or related STEM field 
+AWS/Azure Certifications (AWS/Azure Certified: SysOps Administrator, DevOps Engineer, Solutions Architect) 
+Demonstrated experience launching AI/ML solutions into production environments, such as into cloud or HPC/GPU environments 
+
+
+ The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $108,000 to $220,000.
+ 
+ You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.
+ 
+ #MonitorDeloitte
+ 
+ #DeloitteJobs
+ 
+ #StrategyConsulting
+ 
+ #DeloitteStrategy
+ 
+ #Strategy24
+ 
+ #SFL24
+ 
+ #LI-WW1"
+TDL (Tactical Data Link) Systems Engineer,Deloitte,"San Diego, CA",Posted 30+ days ago,,https://www.indeed.com/rc/clk?jk=6b210d367408a5d5&fccid=9e215d88a6b33622&vjs=3,"Deloitte's Government and Public Services (GPS) practice - our people, ideas, technology and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of over 15,000+ professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.
+ 
+ Are you looking to make an immediate impact where you can help our clients solve their business challenges? Deloitte's Core Business Operations (CBO) portfolio operates at the center of our client's business. By joining our team, you could help C-suite and program leaders transform their organization and accelerate mission execution through emerging and disruptive technologies, innovative business models, retooled program operations and industry-driven solutions.
+ 
+
+Work you'll do 
+
+
+
+Assist USG in capturing and analyzing customers' C4I requirements to include conducting site inspections and surveys.
+ Recommend strategic approaches and end-to-end C4I capabilities to meet customer needs; develop accurate and justifiable cost estimates for recommended solutions.
+ Participate in Systems Engineering Technical Reviews (SETR) events including but not limited to: Preliminary Design Reviews (PDRs), Critical Design Reviews (CDRs), Factory Acceptance Tests (FAT), Systems Operational Verification Tests (SOVT), and other events as required.
+ Provide engineering and technical SME support for SETRs and other events such as system training and technical assistance visits.
+ Trace requirements from customers' need statements, requirements documentation, specifications and test. Manage requirements for capability, suitability, and testability.
+ Provide configuration management, including guiding versioning and change processes.
+ Maintain expertise in current and emerging Commercial Off-the-Shelf (COTS) and Government Off-the-Shelf (GOTS) equipment/technologies in the C4I domain.
+
+
+ The team 
+
+ Deloitte's Government and Public Services (GPS) practice - our people, ideas, technology, and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of over 15,000+ professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.
+ 
+ The Application Modernization and Innovation offering is comprised of experienced professionals who help guide clients through their most complex technology challenges. This can include the delivery of large-scale software applications & integrated systems, the development of service-oriented architecture (SOA) & other integrations solutions, and the delivery of technology enablement to support CIO services transformation. Our Application Modernization and Innovation offering focuses on key client issues that impact the core business. We provide operational value, modernized mission solutions, and enhanced technology innovation.
+ 
+
+Qualifications 
+
+ Required: 
+ 
+
+An active secret clearance is required to be considered for this role, with ability to obtain Top Secret level security clearance with access to Sensitive Compartmented Information (SCI) if needed 
+Bachelor of Science degree from an accredited college or university in applied science, computing, engineering, mathematics, physics, management information systems, or other related engineering or computer science discipline 
+Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future. 
+Five (5) or more years of direct experience as a systems engineer supporting C4I systems.
+ Five (5) or more years of direct experience supporting requirements development and cost estimation for engineering capabilities.
+ Five (5) or more years of direct experience participating in engineering events, including SETRs, PDRs, CDRs, SOVTs, FATs, GATs and other relevant events.
+ Proficiency with MS Office (to include Word, Excel, & PowerPoint) and SharePoint.
+
+ For individuals assigned and/or hired to work in California, Colorado, Jersey City, Nevada, New York City, and Washington State, Deloitte is required by law to include a reasonable estimate of the compensation range for this role. This compensation range is specific to California and takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $89,000 to $155,000.
+ 
+ You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance."
+Senior Electrical Engineer - Data Center Team,Harley Ellis Devereaux,"San Diego, CA 92101",Posted 30+ days ago,,https://www.indeed.com/rc/clk?jk=a0f3e3cc3e835a2b&fccid=b8b7adf11cdd6e15&vjs=3,"PRIMARY FUNCTION
+ Primary responsibilities include providing for the design and technical systems for large, complex projects from schematics through construction administration.  TYPICAL DUTIES
+
+ Responsible for building system concepts and documentation process from schematics through construction administration phases within the discipline.
+ It is expected that the Electrical Engineer in regular coordination with Supervisor in project development and performance.
+ Electrical Engineer shall have a proficient knowledge of primary sectors of design including:
+      
+ Power Distribution
+ Lighting and Controls
+ Fire Alarm
+ Specification writing and editing.
+ Energy conservation and sustainability/report technical writing.
+
+ Function as Project Discipline Team Leader on large, complex projects when assigned.
+ Responsible for directing and overseeing project team members within their own discipline. Level 4 is responsible for monitoring and executing team compliance with project budget.
+ Prepare and monitor project status reports.
+ Coordinate with Electrical Engineering Discipline Leader in preparing project Man-hour Estimates.
+ Prepare and document required code research for project.
+ Participate in the development of the project cost model and design to it.
+ Develop and maintain Electrical Basis of Design Journal throughout the life of the project.
+ Conduct material and product research as required for project development.
+ Attend project meetings as necessary.
+ Interface with other Project Discipline Team Leaders.
+ Respond to client questions/requests within 24 hours.
+ Document interpretation and submittal reviews during bidding and construction administration.
+ Monitor and mentor staff to produce quality architectural and engineering services within a project team concept.
+ Perform other duties as assigned by the supervisor.
+
+ TYPICAL DUTIES - NON-PROJECT RELATED
+
+ Mentor support engineers to help prepare them for greater project responsibilities.
+ Provide regular feedback to the Electrical Engineering Discipline Leader on performance of support engineers.
+ Identify opportunities to improve quality and services, and participate in the implementation.
+ Participate in in-house training activities.
+ Participate in related professional organizations and activities.
+ Contribute to department discussions on field feedback, lessons learned, new technology or developments encountered.
+ Offer recognition to those staff members observed doing excellent work and/or things beyond their job expectations.
+
+ SKILL, KNOWLEDGE, EDUCATION AND EXPERIENCE
+
+ Proven experience working on mission critical/data center projects.
+ Bachelor's degree in Electrical Engineering and PE licensure required.
+ LEED Accredited preferred.
+ Minimum six years' experience in A/E industry preferred.
+ Extensive knowledge of all aspects of professional services from schematic design through project close-out, including design and technical expertise.
+ A comprehensive understanding of the coordination aspects and related requirements of all design disciplines.
+ Proficiency in short circuit and selective coordination calculation. Utilization of EDSA, SKM or other analytical modeling software preferred.
+ Excellent written/ verbal communication and strong organizational skills.
+ Possess the ability to motivate and mentor staff, and delegate work assignments.
+ Computer and CADD/Revit literate.
+ Very detail-oriented, self-motivated, enthusiastic and flexible.
+ Ability to work well with others under deadline situations.
+
+ PHYSICAL REQUIREMENTS
+
+ Capable of traveling to and from project sites for attending client, project and construction meetings.
+ Ability to access existing and new project sites for observation, investigation and evaluation purposes.
+ Ability to use equipment for communication and documentation purposes.
+ Visual acuity to perform responsibilities.
+
+ #LI-JK1"
+Sr TDL (Tactical Data Link) Systems Engineer,Deloitte,"San Diego, CA",Posted 19 days ago,,https://www.indeed.com/rc/clk?jk=2a13ed3b572e4847&fccid=9e215d88a6b33622&vjs=3,"Deloitte's Government and Public Services (GPS) practice - our people, ideas, technology and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of over 15,000+ professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.
+ 
+ Are you looking to make an immediate impact where you can help our clients solve their business challenges? Deloitte's Core Business Operations (CBO) portfolio operates at the center of our client's business. By joining our team, you could help C-suite and program leaders transform their organization and accelerate mission execution through emerging and disruptive technologies, innovative business models, retooled program operations and industry-driven solutions.
+ 
+
+Work you'll do 
+
+
+
+Assist USG in capturing and analyzing customers' C4I requirements to include conducting site inspections and surveys.
+ Recommend strategic approaches and end-to-end C4I capabilities to meet customer needs; develop accurate and justifiable cost estimates for recommended solutions.
+ Participate in Systems Engineering Technical Reviews (SETR) events including but not limited to: Preliminary Design Reviews (PDRs), Critical Design Reviews (CDRs), Factory Acceptance Tests (FAT), Systems Operational Verification Tests (SOVT), and other events as required.
+ Provide engineering and technical SME support for SETRs and other events such as system training and technical assistance visits.
+ Trace requirements from customers' need statements, requirements documentation, specifications and test. Manage requirements for capability, suitability, and testability.
+ Provide configuration management, including guiding versioning and change processes.
+ Maintain expertise in current and emerging Commercial Off-the-Shelf (COTS) and Government Off-the-Shelf (GOTS) equipment/technologies in the C4I domain.
+
+
+ The team 
+
+ Deloitte's Government and Public Services (GPS) practice - our people, ideas, technology, and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of over 15,000+ professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.
+ 
+ The Application Modernization and Innovation offering is comprised of experienced professionals who help guide clients through their most complex technology challenges. This can include the delivery of large-scale software applications & integrated systems, the development of service-oriented architecture (SOA) & other integrations solutions, and the delivery of technology enablement to support CIO services transformation. Our Application Modernization and Innovation offering focuses on key client issues that impact the core business. We provide operational value, modernized mission solutions, and enhanced technology innovation.
+ 
+
+Qualifications 
+
+ Required: 
+ 
+
+An active secret clearance is required to be considered for this role, with ability to obtain Top Secret level security clearance with access to Sensitive Compartmented Information (SCI) if needed 
+Master of Science degree from an accredited college or university in applied science, computing, engineering, mathematics, physics, management information systems, or other related engineering or computer science discipline
+ Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future. 
+Ten (10) or more years of direct experience as a systems engineer supporting C4I systems.
+ Ten (10) or more years of direct experience supporting requirements development and cost estimation for engineering capabilities.
+ Ten (10) or more years of direct experience participating in engineering events, including SETRs, PDRs, CDRs, SOVTs, FATs, GATs and other relevant events.
+ Proficiency with MS Office (to include Word, Excel, & PowerPoint) and SharePoint.
+
+ For individuals assigned and/or hired to work in California, Colorado, Jersey City, Nevada, New York City, and Washington State, Deloitte is required by law to include a reasonable estimate of the compensation range for this role. This compensation range is specific to California and takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $102,750 to $188,875.
+ 
+ You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance."
+Data Recovery Engineer & Software Developer,Platinum Data Recovery,"San Diego, CA",Posted 30+ days ago,,https://www.indeed.com/rc/clk?jk=6063bfede6c73fdb&fccid=41f049d61650ae2f&vjs=3,"Platinum Data Recovery is seeking employees for its new locations in San Diego, CA and San Francisco, CA. New employees will have the opportunity to grow with the company, which offers a great, challenging career and advancement opportunities. Our company offers a comprehensive employee benefits program such as medical and dental insurance, 401 (K), and life insurance. You can apply for a position via e-mail only platinumdatarecovery@gmail.com, please no phone calls
+
+
+
+
+      Toll free: 
+    
+
+     +1 800 313 0044
+    
+
+
+
+
+      Fax: 
+    
+
+     +1 800 313 0044
+    
+
+
+
+
+      Email: 
+    
+
+     platinumdatarecovery@gmail.com
+    
+
+
+
+
+
+We are seeking an experienced data recovery engineer who is very knowledgeable of: industry standard data recovery logic, software and hardware tools used for system diagnosis and hard drive repair, and logical data structures modules, electronics, C++, other assembly programming languages, and diagnostics of electronic components with millimeters, oscilloscopes, and related tools. Potential employees must be familiar with electronics programming principles, the workings of ATA and SCSI storage devices, and circuit board design and diagnostics. Also, potential employees must be experienced with tools and complexes used for service area (SA) access diagnostics and programming.  This individual will use electronic communication to give timely and accurate project statuses. In addition, he or she will use oral communication to explain situations to coworkers and sales staff. The engineer will be proactive in seeking all information necessary for the successful completion of the recovery process.  He or she must be a self-motivated, independent thinker with good analytical and critical thinking skills along with ability to work independently to resolve problems on his or her own while prioritizing time sensitive projects.  Expected tasks & responsibilities: Diagnose and repair mechanical and electronic failures on customer storage devices as necessary. Properly use and understand software and hardware tool complexes needed for data recovery. Communicate status of projects to sales representatives and record work that is performed and needed both textually and verbally. Keep work area neat and orderly. Some training will be provided, but the right candidate is a uniquely motivated self-starter with the ability to study, research, and learn quickly on their own.  Requirements: A successful candidate will have 5+ years of advanced data recovery experience OR a Bachelor’s of Science degree in Engineering (BSEE, BSCSC), preferably with a GPA of 3.0 or above. Strong electronics diagnostics, C++ programming experience, and a high level of analytical ability to resolve unusual and difficult problems.  Candidates for this position: 1. Must have strong work ethic, be customer focused, and possess a high energy level. Must possess a strong desire to be part of creating a world-class team. A high degree of integrity, professionalism, and discretion is required. 2. Must be self-directed and work independently toward objectives with a sense of urgency. Must be organized and detail oriented with a genuine commitment to help us exceed client expectations. 3. Assume front line responsibility for team project problem resolution. 4. Must be able to work independently and research problems and questions as required. 5. Take responsibility and ensure all scheduled work is completed by agreed deadlines. 6. Consistently arrives at work on time and stays focused on business throughout the day in addition to knowing how to dress and act professionally. 7. Good verbal and written communication skills, good judgment, strong organizational skills, and the ability to work independently.  Education: BS in Electrical Engineering/Computer Science or equivalent preferred."
+Senior Staff Data Engineer / Principal Data Engineer,Altos Labs,"San Diego, CA",Posted 26 days ago,,https://www.indeed.com/rc/clk?jk=71403a6e616d99f7&fccid=b040d20ffb4836da&vjs=3,"Our Mission
+ To restore cell health and resilience through cellular rejuvenation programming to reverse disease, injury, and the disabilities that can occur throughout life.
+ For more information, see our website at altoslabs.com.
+ Diversity at Altos
+ We believe that diverse perspectives are foundational to scientific innovation and inquiry.
+ We are building a company where exceptional scientists and industry leaders from around the world work side by side to advance a shared mission.
+ Our intentional focus is on Belonging, so that all employees know that they are valued for their unique perspectives.
+ At Altos, we are all accountable for sustaining a diverse and inclusive environment.
+
+ Senior Staff Data Engineer / Principal Data Engineer, Multi-Modal Data Integration
+Who You Are
+ The Altos Labs™ Scientific Computing & Data (SciCODE) group consists of software, data, and machine learning engineers implementing scalable data engineering solutions enabling Altos Labs™ scientific mission.
+ We are seeking a highly motivated and experienced Principal Data Engineer to lead the development of data and insights products for multi-omics datasets, including but not limited to bulk and single cell RNA-Seq, DNA methylation, Spatial Transcriptomics, Human Genetics, Microscopy, Imaging and Mass spectrometry. Altos Labs™ is generating large amounts of multi-omics and imaging datasets and also tapping into large public datasets from academic and industry consortiums to better understand cellular rejuvenation and aging. We are looking for someone to lead data efforts across global research institutes in order to bring these valuable datasets together, and make these amenable for use within machine and deep learning projects, accelerating cutting edge research at Altos Labs™.
+ As a Principal Data Engineer, you will partner closely with research teams across global research institutes to identify internal and external multi-modal data sets which need to be processed and integrated. In addition, you will shape both the technology and culture of the Scientific Computing & Data (SciCODE) team and broader organization.
+ What You Will Contribute to Altos Labs™
+Responsibilities
+
+Global leadership to build large, high quality multi-modal datasets for to understand cellular rejuvenation and programming, accelerating machine learning research at Altos Labs
+Work closely with bench and computational scientists to create data representations suitable for machine learning research
+Lead data integration projects for multi-omics datasets leveraging modern machine learning, deep learning techniques and tools
+Leverage and extend algorithms being developed by scientific community for multi-omics data integration, and benchmark these for use cases of relevance to Altos Labs™
+Partner closely with the Scientists and Researchers to identify, design and implement scientific software solutions to accelerate research focusing on integration of multi-modal datasets including genomics, microscopy, imaging and spatial transcriptomics.
+Architect and implement cloud, on-premises, and hybrid data systems and solutions that scale and adapt to changing demands
+Own relationships across engineering, scientific, and vendor teams, streamlining and unblocking critical technical decisions
+Mentor software engineers and computational scientists, evangelizing best practices around development tools, CI/CD, and other methods to improve code quality and efficiency
+Set the direction and culture of the software engineering organization, including guiding decisions around software platforms, coding standards, deployment policies, and other best practices
+Engage extensively with major consortiums for medical R&D, large genomics research institutes, and leading startups to extend Altos's data footprint
+
+Minimum Qualifications
+
+Masters or Ph.D. in Computer Science, Bioinformatics, Statistics or related quantitative field
+Proven experience in building large biological datasets supporting medical and AI research
+Applied research experience with integration of multi-omics datasets with preference for single cell and spatial transcriptomics data
+8+ years software development experience with deep focus on data engineering and integration
+Demonstrated track record of hand-on technical leadership, including owning and delegating technical design decisions
+Experience architecting and implementing cloud, on-premises, and hybrid technical solutions
+Experience working cross-functionally with stakeholders and partners to manage risks and create short and long-term plans
+Excited to design, implement, and evangelize technical and cultural standards across scientific and technical functions
+
+Preferred Qualifications
+
+Experience with scientific research and/or early stage software development organizations
+Experience or familiarity with biology, bioinformatics, or common biological data analysis methods and experience working with biologists or bioinformaticians
+
+The salary ranges for this position are: Senior Staff Data Engineer $205,700 to $278,300; Principal Data Engineer $231,200 to 312,800
+ #LI-LY1
+
+ What We Want You To Know 
+We are a culture of collaboration and scientific freedom, and we believe in the values of diversity, inclusion and belonging to inspire innovation.
+ Altos Labs provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+ This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+ Altos currently requires all employees to be fully vaccinated against COVID-19, subject to legally required exemptions (e.g., due to a medical condition or sincerely-held religious belief).
+ Thank you for your interest in Altos Labs where we strive for a culture of scientific freedom, learning, and belonging.
+ Note: Altos Labs will not ask you to download a messaging app for an interview or outlay your own money to get started as an employee. If this sounds like your interaction with people claiming to be with Altos, it is not legitimate and has nothing to do with Altos. Learn more about a common job scam at https://www.linkedin.com/pulse/how-spot-avoid-online-job-scams-biron-clark/"
+Lead Data Quality Control Engineer,Motionworks International,"San Diego, CA",Posted 23 days ago,"$125,000 - $175,000 a year",https://www.indeed.com/rc/clk?jk=7ae57c61104b4dbf&fccid=dd616958bd9ddc12&vjs=3,"Lead Data Quality Control Engineer
+ On-Site – SAN DIEGO, CALIFORNIA (Little Italy)
+ About Us
+
+
+Motionworks is the trusted population intelligence expert that empowers customers with privacy-compliant, innovative data solutions to help them make smarter, more confident decisions. Motionworks uses observations from the real-world to develop travel, population, and customer insights. Our client portfolio spans advertising, government planning, tourism, transportation engineering, and retail. Powered by geospatial technology and exceptional data scientists, engineers, and UX experts, Motionworks delivers a wide range of high-value mobility insights that provide historical, real-time, normative, and predictive intelligence about how people move around the globe.
+ Job Summary
+ As a fast-growing startup, Motionworks is looking for strong candidates at the intersection of data engineering and data science with demonstrated experience understanding and making products better. We want someone that will stand-up and demand more from our data and products. We want people with a passion for data modeling, software development, and applying your trade to make the world a better place. You will be tasked with:
+
+Developing structured testing plans to validate intermediate and final data products for consistency over time and reasonableness.
+Implementing and overseeing Deploy / Not Ready framework for when intermediate and final data products are cleared for delivery.
+Identifying trends in data quality and work with lead data scientists and engineers to implement process improvement plans that lead to quantifiable improvements in data quality.
+Creating, implementing, and monitoring Black Box testing plans from the perspective of clients interacting with data feeds and API endpoints.
+Creating, implementing, and monitoring White Box testing plans in collaboration with internal product and team leads.
+Collaborating with sales engineers and client delivery team to identify and monitor new “unknown unknowns” data integrity issues.
+Researching and identifying potential third-party data for quality control testing purposes.
+Documenting Data Governance plans and guidelines for data products.
+
+
+Required Qualifications and Skills
+
+
+MS/BS in Mathematics, Statistics, Physics, Computer Science, analytical City Planning, or Geography (or equivalent degree) with 5+ years of experience in quality control, quantitative analytics, data science, or data engineering. Master’s degree could be substituted for 2 years of experience.
+
+Superior, demonstrable communication skills. The position will be tasked with understanding and communicating complex data interactions. The ability to clearly articulate trends and findings both written and orally will be key to success in this position.
+Solid critical thinking and problem-solving skills and ability to confidently and clearly articulate quality control results to team members
+Strong SQL experience debugging and collaborating on ETL and data pipelines
+Data Pipelining and automation experience with tools such as Python and Airflow.
+Understanding and experience using cloud-based services from any of Google GCP, Amazon AWS, or Microsoft Azure.
+Experience with version control (preferably Git/GitHub)
+Experience with Linux/Unix command line
+Ability to build/test statistical models
+
+
+Salary Range
+ $125k-$175k
+ Location
+ San Diego, California (Little Italy)
+ Our Offering
+
+Medical, dental, and vision coverage for you and your dependents
+First year of employment gives two weeks of PTO, four weeks thereafter
+14 holidays and flex holidays
+401(k) plan
+Employee equity
+
+Motionworks does not discriminate in employment on the basis of race, color, religion, sex, pregnancy, gender identity, national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, parental status, military service, or other non-merit factor."
+Big Data Engineer Senior,SAIC,"Hybrid remote in San Diego, CA 92110",Posted 30+ days ago,"$95,001 - $105,000 a year",https://www.indeed.com/rc/clk?jk=3ea561b581b60d40&fccid=f3b836e645f9b36d&vjs=3,"Job ID: 2306193
+ Location: SAN DIEGO, CA, US
+ Date Posted: 2023-05-02
+ Category: Information Technology
+ Subcategory: Big Data Engineer
+ Schedule: Full-time
+ Shift: Day Job
+ Travel: No
+ Minimum Clearance Required: Secret
+ Clearance Level Must Be Able to Obtain: None
+ Potential for Remote Work: No
+ Description 
+SAIC is seeking a Big Data Engineer Senior to support the US Navy in San Diego, CA. 
+Note: This position is a hybrid remote position with approx. 1-2 days a week onsite at the SAIC office in San Diego, CA. 
+JOB DESCRIPTION: 
+The Data Engineer position will be in support of a NAVWAR system’s network health telemetry and reporting initiative. Integration/MDM/Data Warehousing, defining and building the data pipelines, data quality check and cleansing solutions, including capturing throughput/error statistics. Works in on-premises or public cloud environments to build scalable systems and solutions. Determines the appropriate database given the data and analytics needs, whether file structures, such as, relational databases including NewSQL, non-relational NoSQL databases including in-memory databases. While being responsible for the maintenance, configuration, and reliable operation of computer systems, network servers, and virtualization environment. Optimizes the distribution of data across our systems and the performance of repositories. Identifies performance bottle-necks and evaluates scaling benchmarks.
+JOB DUTIES:
+
+Responsible for the maintenance, configuration, and reliable operation of computer systems, network servers, and virtualization.
+Develop and maintain ETL packages for network reporting data.
+Monitor and maintain synchronization between data system and network parameters.
+Perform ad-hoc queries in SQL Server to gather instruments data for investigation or analysis.
+Monitor usage and influence service offering process to encourage data reliability and system uptake.
+Contribute to data visualizations for engineers and production personnel using interactive data visualization software or custom web design.
+Contribute to SQL Server database design to improve efficiency and effectiveness of manufacturing data systems.
+Develop applications to collect information from users, perform post-hoc analysis of test data, or integrate additional data streams.
+Contribute to user interface (UI) design.
+
+
+ 
+Qualifications 
+REQUIRED EXPERIENCE AND CLEARANCE:
+
+Bachelors and five (5) years or more experience; Masters and three (3) years or more experience; PhD and 0 years related experience.
+Expertise in Full Stack Python Development.
+Experience in Microsoft stack - .NET 4.0/C#, JavaScript, SQL/SQL Server.
+Strong understanding of TCP/IP, AS2, SMTP, SSL, SSH, HTTPS, OpenSSL, LDAP, SFTP, DNS protocols.
+Experience with Linux and Microsoft Windows Server Administration. 
+Experience working with scientific, engineering, or manufacturing data is required.
+Demonstrated ability to navigate large, complex datasets to extract useful data is required.
+Demonstrated ability to design and implement ETL processes is required.
+Candidate must be a US citizen.
+Candidate must be able to obtain a Full DoD Secret Clearance. Interim Secret clearance required to start. SAIC will sponsor qualified candidates for a security clearance. 
+
+DESIRED EXPERIENCE: 
+
+Knowledgeable of NAVWAR - NIWC (Previously known as SPAWAR) PMWs and system business processes to understand customer needs and support content management.
+Experience in the Risk Management Framework (RMF) process in support of acquiring a website ATO.
+Knowledge in SCRUM methodologies.
+Comfortable with engaging with site customers under minimal supervision.
+Creative problem solving skills and ability to work within areas that have no set guidance or processes.
+Strong written and verbal communication skills.
+Experience working with UI design team to build and implement new designs.
+Strong written and verbal communication skills.
+Broad knowledge of website development and agile development methodologies.
+Comfortable with engaging with site customers under minimal supervision.
+Creative problem solving skills and ability to work within areas that have no set guidance or processes.
+Experience with Microsoft Azure and Azure DevOps Server.
+Experience with applying security updates and patches to virtual machines.
+Experience with Machine Learning. 
+
+ Target salary range: $95,001 - $105,000. The estimate displayed represents the typical salary range for this position based on experience and other factors.
+  Covid Policy: SAIC does not require COVID-19 vaccinations or boosters. Customer site vaccination requirements must be followed when work is performed at a customer site."
+"Electrical Engineer, Command and Data Handling Architect",General Atomics and Affiliated Companies,"San Diego, CA",Posted 30+ days ago,"$128,130 - $229,358 a year",https://www.indeed.com/rc/clk?jk=cdb9e1bb0ad0562a&fccid=59867e5a232c7b5c&vjs=3,"General Atomics (GA), and its affiliated companies, is one of the world’s leading resources for high-technology systems development ranging from the nuclear fuel cycle to remotely piloted aircraft, airborne sensors, and advanced electric, electronic, wireless and laser technologies.
+ 
+ General Atomics Electromagnetic Systems (GA-EMS) designs and manufactures first-of-a-kind electromagnetic and electric power generation systems. GA-EMS' expanding portfolio of specialized products and integrated system solutions support critical fleet, space systems and satellites, missile defense, power and energy, and process and monitoring applications for defense, industrial, and commercial customers worldwide.
+ 
+ We have an exciting opportunity for a Senior Electrical Engineer (EE) to join our Electrical Technologies team located in Rancho Bernardo. We are looking for someone with drive, talent, and experience in Electrical System Command and Data Handling architectures and Mixed-Signal/High-Speed Digital circuit design who also thrives in a fast-paced, product development environment. The successful candidate will report to an Electrical Technologies Design Team Manager and, alongside high-caliber staff, will be engaged in the engineering support and new development of satellites and space systems, high-energy laser systems, advanced aerospace and electro-optic sensors, space-based optical communications, nuclear thermal propulsion, cutting-edge technology ventures into Defense and “NewSpace,” and a variety of disruptive technologies in the expanding product portfolio of GA-EMS.
+ 
+
+DUTIES AND RESPONSIBILITIES:
+
+ Work with GA-EMS Engineering staff and chief engineers in the concept development and prototype design, integration, and test of high-power processing and controls solutions for all product lines and technology areas. These encompass high-power motor drives, power conditioning systems, high-energy laser systems, battery systems, advanced aerospace and electro-optic sensors, space-based optical communications, small satellites and space systems, nuclear thermal propulsion, optical beam pointing and control, and signal/image processing.
+ With consultative direction, exercise considerable latitude in determining technical objectives for the review, research, design, development, and/or solutions for designated engineering systems, projects, and programs.
+ Demonstrate prior experience in the improvement of legacy systems and development of new systems.
+ Generate electrical architecture solutions for new project needs, perform electrical engineering analyses for systems and circuits, document findings, communicate results to engineering and program management staff, give technical presentations, and manage technical effort schedules.
+ Function in an advisory or leadership role for a project/program and provide planning, direction and oversight to less experienced professional staff or team of professional staff in technical efforts.
+ Formulate plans, typically multi-year, and coordinate solutions development and deployment including documentation, reporting, publishing, and making technical and other presentations to ensure viability of the solutions in an evolving environment.
+ Evaluate the integration of the engineering solutions within the overall engineering environment and ensure that appropriate documentation, testing, maintenance, and engineering updates are completed.
+ Plan for future applications of solutions based on new developments in engineering technology.
+ Develops new and expands existing business opportunities.
+ Communicate with colleagues and management throughout solution development and deployment cycles.
+ Represent the company as a prime technical contact on contracts and/or projects and interact with senior external personnel on technical matters requiring coordination between the organizations.
+ Perform other duties as assigned or required.
+ We recognize and appreciate the value and contributions of individuals with diverse backgrounds and experiences and welcome all qualified individuals to apply.
+ 
+ 41478
+ 
+Job Qualifications:
+
+ Typically requires a bachelors degree, masters degree or PhD in engineering or a related technical discipline from an accredited institution and progressive engineering experience as follows; fifteen or more years of experience with a bachelors degree, thirteen or more years of experience with a masters degree, or ten or more years with a PhD. May substitute equivalent engineering experience in lieu of education. 
+Active DoD Security Clearance is required.
+ Required Experience: Electrical system command and data-handling architecture; high-speed digital circuit design; embedded processing and controls; analysis, design, and implementation of hardware systems to include digital, analog, and RF is required; guiding a design through development and into production; familiarity with DoD technical review process (at a minimum: SRR, PDR, CDR, TRR).
+ Desired Experience: High-reliability aerospace electronics and electrical systems; unmanned space-systems and satellites, including micro-satellites, cube-satellites, or small-satellites (>500 kg); Space-VPX electronics architecture and standards.
+ Desired Skills (ranked high to low): Experience with Altium PCB Design Software, PADS PCB Design Software, SPICE circuit simulation tools, HyperLynx Signal/Power Integrity tools, ANSYS Signal Integrity tools, Atlassian Tools, Microsoft Project.
+ Demonstrate technical expertise and application of engineering principles, concepts, theory, and practice with the ability to organize, plan, schedule, conduct, and coordinate workloads to meet established deadlines or milestones with some experience in project leadership.
+ Must possess the ability to understand new concepts quickly and apply them accurately throughout an evolving project environment.
+ Strong communication, presentation, and interpersonal skills to effectively interface with other departments, customers, government representatives, and/or professionals.
+ Capable of representing the organization as a prime technical contact.
+ Customer-focused and able to formulate plans based on the development of innovative new designs in resolving advanced technical engineering problems.
+ Must be able to work on a self-initiated basis or in a team environment.
+ Must be able to prepare and conduct detailed technical presentations and reviews for all levels of management, professional and support staff, customers, potential customers, and government representatives.
+ The submission of a cover letter with resume is desired.
+
+
+ Salary:$128,130 - $229,358
+ Travel Percentage Required 0 - 25
+ Relocation Assistance Provided Provided 
+ US Citizenship Required? Yes
+ Clearance Required? Yes 
+ Clearance LevelSecret 
+ WorkstyleOnsite"
+Data and Analytics Engineer - Senior Associate,PRICE WATERHOUSE COOPERS,"San Diego, CA 92121 (Sorrento Valley area)",Posted 15 days ago,,https://www.indeed.com/rc/clk?jk=5237232d92376931&fccid=5e964c4afc56b180&vjs=3,"A career in our Managed Services team will provide you an opportunity to collaborate with a wide array of teams to help our clients implement and operate new capabilities, achieve operational efficiencies, and harness the power of technology. Our Managed Data, Analytics & Insights team will provide you with the opportunity to help organizations harness the power of their enterprise data/analytics solutions by optimizing the technology while driving innovation to increase business outcomes and through data insights. We assist our clients in capitalizing on technology improvements, implementing new capabilities and achieving operational insights by managing, maintaining and evolving their analytics platforms and ecosystems. We help our clients maximize the value of their investment focusing on continuous improvement of their analytics solutions such as Microsoft, Amazon Web Services and Google Cloud.
+  To really stand out and make us fit for the future in a constantly changing world, each and every one of us at PwC needs to be a purpose-led and values-driven leader at every level. To help us achieve this we have the PwC Professional; our global leadership development framework. It gives us a single set of expectations across our lines, geographies and career paths, and provides transparency on the skills we need as individuals to be successful and progress in our careers, now and in the future.
+
+ As a Senior Associate, you'll work as part of a team of problem solvers, helping to solve complex business issues from strategy to execution. PwC Professional skills and responsibilities for this management level include but are not limited to:
+
+
+ Use feedback and reflection to develop self awareness, personal strengths and address development areas.
+ Delegate to others to provide stretch opportunities, coaching them to deliver results.
+ Demonstrate critical thinking and the ability to bring order to unstructured problems.
+ Use a broad range of tools and techniques to extract insights from current industry or sector trends.
+ Review your work and that of others for quality, accuracy and relevance.
+ Know how and when to use tools available for a given situation and can explain the reasons for this choice.
+ Seek and embrace opportunities which give exposure to different situations, environments and perspectives.
+ Use straightforward communication, in a structured way, when influencing and connecting with others.
+ Able to read situations and modify behavior to build quality relationships.
+ Uphold the firm's code of ethics and business conduct.
+
+
+ Additional Responsibilities: 
+Our Data and Analytics Managed services team is focused to build, enhance, and scale the modern, connected data ecosystem that accelerates the use of data, analytics, and advanced AI. We are in search of passionate, motivated, and creative Senior Associates in role of Data Technology Engineer, Data Governance SME to join our Managed services team. The senior associate will be responsible for designing and implementing innovative solutions to build and manage the advanced Data ecosystem.
+
+ Basic Qualifications:   Minimum Degree Required:  Bachelor Degree  Minimum Years of Experience:  10 year(s)   Preferred Qualifications:   Preferred Fields of Study:  Computer and Information Science, Information Technology  Certification(s) Preferred: 
+Certification in any industry leading tools or technology for Data and Analytics
+ Preferred Knowledge/Skills: 
+Demonstrates thorough abilities and/or a proven record of success as a team leader by:
+
+ Demonstrating minimum 5 years’ experience of leading data architecture and design implementations and discussions;
+ Demonstrating minimum 3 years hand on experience building advanced Data warehousing solutions on leading cloud platforms;
+ Demonstrating minimum 3 years’ hands on Experience of delivering Managed Data and Analytics programs (Managed services and Managed assets);
+ Designing, implementation and maintaining data technology solutions that meet business requirements;
+ Developing scalable, repeatable, and secure data structures and pipelines to ingest, store, collect, standardize, and integrate data that for downstream consumption like Business Intelligence systems, Analytics modelling, Data scientists etc.;
+ Building efficient, ETL/ELT processes using industry leading tools like Informatica, Talend, Spark etc.
+ Building and maintaining Data Governance solutions (Data Quality, Metadata management, Lineage, Master Data Management and Data security) using industry leading tools;
+ Demonstrating experience with Data analytics tools like Informatica, Collibra, Hadoop, Spark, Snowflake etc.;
+ Understanding of data consumption patterns and BI tools like tableau, Qlik sense, PowerBI etc.;
+ Demonstrating experience of ITIL processes like Incident management, Problem Management, Knowledge management, Release management, Data DevOps etc.;
+ Demonstrating communication, problem solving, quantitative and analytical abilities;
+ Working with a managed services organization with a passion for building new service offerings in the Data and Analytics space and demonstrate proven experience in following key areas/activities;
+ Designing, implementing, and maintaining data technology solutions that meet business requirements;
+ Implementing Data processing functions like Data Cleansing, profiling, wrangling standardization and make data available to be ingested the Data ecosystem using advanced concepts like Data lakes, Data fabric, Data Vault, Data Mesh etc.;
+ Driving large transformation initiatives like Cloud migration etc.;
+ Working closely with cross functional teams to develop and maintain scalable, robust, and efficient data architectures to support business Intelligence, analytics, and reporting needs;
+ Evaluating and selecting best fit tools and technologies by conducting PoCs and Pilot solutions;
+ Conducting performance tuning, troubleshooting and optimization of Data solutions to improve system performance and stability; and,
+ Providing guidance and mentorship to junior associates and engineers in the team.
+
+ Learn more about how we work: https://pwc.to/how-we-work
+ 
+ PwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.
+ 
+ All qualified applicants will receive consideration for employment at PwC without regard to race; creed; color; religion; national origin; sex; age; disability; sexual orientation; gender identity or expression; genetic predisposition or carrier status; veteran, marital, or citizenship status; or any other status protected by law. PwC is proud to be an affirmative action and equal opportunity employer.
+ 
+ For positions based in San Francisco, consideration of qualified candidates with arrest and conviction records will be in a manner consistent with the San Francisco Fair Chance Ordinance.
+ 
+ For positions in Albany (NY), California, Colorado, Nevada, New York City, Washington State, or Westchester County (NY), please visit the following link for pay range information: https://pwc.to/payrange-v1-mgdsrvcsseniorassociate"
+Senior Data Platform Engineer (Hybrid),Apixio,"Hybrid remote in San Diego, CA",Posted 14 days ago,"$120,000 - $185,000 a year",https://www.indeed.com/rc/clk?jk=722db5270a25a8d8&fccid=d709010bf50f2482&vjs=3,"Who We Are:
+ Apixio is advancing healthcare with data-driven intelligence and analytics. Our Artificial Intelligence platform gives organizations across the healthcare spectrum the power to mine clinical information at scale, creating novel insights that will change the way healthcare is measured, care is delivered, and discoveries are made.
+
+
+
+The Opportunity at Apixio:
+
+
+ Apixio is a healthcare analytics company that leverages artificial intelligence and big data to improve healthcare outcomes. We are seeking a talented Senior Data Platform Engineer to join our team and help build and maintain our data platform. As a Senior Data Platform Engineer at Apixio, you will work on a fast-paced team of talented individuals who are dedicated to improving healthcare. You will have the opportunity to lead and mentor other data platform engineers and work closely with data analysts and data scientists to enable both analytics and AI models.
+
+
+ Who You Are:
+
+
+ You are an experienced data platform engineer with multiple years of ETL experience and coding expertise in Scala, Java, and Python. You have experience working with one or more of Spark, Airflow, Kafka, MySQL, Cassandra, Delta Lake, and Data Bricks. You are familiar with distributed systems, messaging queues, NoSQL and SQL databases, API design, microservice architecture, and streaming architecture. You are a problem solver who enjoys collaborating with others to build innovative solutions. You have excellent communication and collaboration skills.
+
+
+ What You Will Own:
+
+
+ As a Senior Data Platform Engineer at Apixio, you will own the maintenance, design, and implementation of our data platform. This will include data pipelines, ETL workflows, OCR, developing and optimizing our internal data lakehouse, and ensuring data security and compliance with regulatory requirements. You will work closely with the application teams, data analysts, and data scientists to provide data access and enable analytics. You will automate processes and develop tools to improve the efficiency of the data platform. You will lead and mentor other data platform engineers, stay current with emerging trends and technologies in data engineering, and work to incorporate them into the Apixio data platform.
+ In addition to the above, you will also be responsible for:
+
+Maintaining, designing, and implementing scalable, reliable, and high-performance data architectures
+Developing and implementing best practices for data integration, data quality, and data governance
+Ensuring the scalability, reliability, and security of the data platform
+Collaborating with other teams at Apixio to understand their data needs and develop solutions to meet those needs
+Managing and optimizing cloud-based infrastructure for the data platform
+Keeping up-to-date with emerging technologies and trends in data engineering and healthcare tech
+
+
+
+ What You Bring to the Table:
+
+
+
+Bachelor's or Master's degree in Computer Science, Information Systems, or a related field
+5+ years of experience in data platform engineering with coding expertise in Scala, Java, and Python
+Experience with technologies such as Spark, Airflow, Kafka, MySQL, Cassandra, Delta Lake, and Data Bricks
+Experience with distributed systems, messaging queues, NoSQL and SQL databases, API design, microservice architecture, and streaming architecture
+Experience leading and mentoring other engineers
+Strong problem-solving and analytical skills
+Excellent communication and collaboration skills
+Nice to have: healthcare experience and familiarity with healthcare tech standards like x12 EDI, HL7 FHIR, CCDA, and V2 messaging
+
+
+
+
+ The salary range below is for Base Salary. Total compensation also includes benefits and variable compensation. Compensation will be determined based on several factors including, but not limited to, skill set, years of experience, and the employee’s geographic location.
+  
+ Base Compensation
+
+    $120,000—$185,000 USD
+  
+
+
+ We recognize that people come with experience and talent beyond just the technical requirements of a job. If your experience is close to what you see listed here, please consider applying. Diversity of experience and skills combined with passion is a key to innovation and excellence. Therefore, we encourage people from all backgrounds to apply to our positions. Your skills and background may be more translatable to this role than you initially thought. Allow us the opportunity to get to know you. Please let us know if you require accommodations during the interview process.
+ What Apixio can offer you:
+
+Meaningful work to improve healthcare
+Competitive compensation
+Exceptional benefits, including medical, dental and vision, FSA
+401k with company matching
+Generous vacation policy
+A hybrid work schedule (2 days in office & 3 days work from home) (Note: If the position is designated as REMOTE it will stay REMOTE)
+Modern open office in beautiful San Mateo, CA; Los Angeles, CA; San Diego, CA; Austin, TX and Dallas, TX
+Subsidized gym membership
+Catered, free lunches
+Parties, picnics, and wine-downs
+Free parking
+
+We take your privacy very seriously. Please review our privacy policy to see exactly how we protect your information here
+ We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.
+ Apixio will consider for employment qualified applicants with criminal histories pursuant to the San Francisco Fair Chance Ordinance subject to the requirements of all state and federal laws and regulations.
+ If you are a recruiter or placement agency, please do not submit resumes to any person or email address at Apixio prior to having a signed agreement from Talent Acquisition. Apixio is not liable for and will not pay placement fees for candidates submitted by any agency other than its approved recruitment partners. Furthermore, any resumes sent to us without an agreement in place will be considered your company's gift to Apixio and may be forwarded to our recruiters for their attention and no fee will be paid.
+
+
+ LI-RB1"
+Data Engineer Cleared,Koverse,"Hybrid remote in San Diego, CA 92106",Posted 30+ days ago,"$120,000 - $170,000 a year",https://www.indeed.com/rc/clk?jk=2b9907298863bd13&fccid=d4558acf651055d6&vjs=3,"Koverse, Inc., an SAIC company, empowers customers to use data to gain understanding and drive mission-impacting decisions and actions. Our technology powers game-changing solutions with unprecedented scale, security, and performance. Our team has contributed to some of the biggest, most strategic data initiatives sponsored by government organizations and global industry leaders.
+ Everyone is a key contributor at Koverse. Our culture is focused on promoting an inclusive, respectful, fun, and productive work environment. We support transparency, accountability, meritocracy, and candid discussion whether working remotely or in the office.
+ We’re looking for tech savvy, curious, problem-solvers who enjoy tackling complex issues. Team players with proven expertise and enthusiasm for innovation. Go-getters who strive to exceed expectations and delight our customers in a fast-paced, evolving industry. Join us!
+ Data Engineer
+ Koverse is looking for a Cleared Data Engineer who will be part of a world-class team working to help customers realize the promise of big data. Candidates must have an active Secret or Top Secret Security Clearance. This role, preferably (but not required) is based in the Washington, D.C.-Baltimore metro region, San Diego or Denver metro regions. Flexibility to travel occasionally (but not too frequently) to customer sites or Koverse locations, both domestically and internationally, is required.
+ As a Data Engineer you will:
+
+ Work directly with customers in a technical role to help ensure smooth adoption of the Koverse platform and develop cutting-edge solutions using the Koverse platform
+ Spec, build, test and deploy customized machine learning and/or other mission-focused applications based on customer requirements
+ Participate in deployment and implementation planning with customers
+ Directly assist with installation and setup of the Koverse platform
+ Produce customer documentation to support custom applications
+ Contribute technical content and tutorials to product documentation
+ Deliver customer training
+
+ We are looking for the following technical experience:
+
+ Familiarity with distributed systems like Hadoop, HBase/Accumulo, Spark and Kafka
+ Experience architecting ETL and data pipelines in support of data-driven applications
+ Familiarity with systems for data routing and transformation such as NiFi
+ Systems-level understanding of Machine Learning concepts and technology
+ Experience writing scripts using Linux shell, Python, or similar scripting language
+ Experience working with Cloud technologies such as Azure, AWS, or GCP
+ Experience working with Linux to install and maintain a distributed computing infrastructure
+
+ In addition, you should have the following:
+
+ Professional experience as a full-stack developer, systems engineer, solutions architect, or similar role
+ Excellent written communication skills, including technical documentation
+ Proven exceptional oral communication skills
+ Ability to build strong, lasting relationships with customers
+ Self-starter who can work as part of a virtual team and remain motivated in a dynamic environment
+ Ability to quickly learn new technologies
+ Flexibility to take on a wide variety of technical tasks
+ BA or BS in a technical field of study, though an additional 4 years of experience may be substituted for a degree
+ Flexibility to travel as required (approximately 25-50% of time)
+ This position will have to be clearable - meaning you should be able to and are willing to obtain a government clearance if you do not already have a government clearance
+
+ Our Benefits
+ Aside from our supportive culture, Koverse employees enjoy some of the best benefits in tech:
+
+ Hybrid model - work-from-home + in-office hybrid options
+ Team lunch during on-site days
+ Flexible schedule to support work-life balance
+ Occasional travel for company-wide meetings and social events
+ Medical, dental and vision insurance: Low employee premiums with multiple levels of coverage available
+ Company-paid life insurance
+ Parental leave
+ Employee Assistance Program (EAP)
+ Flexible Spending Account (FSA)
+ 401(k) retirement plan
+ Unlimited personal time off
+ Referral program
+
+ About Koverse
+ Koverse, Inc., an SAIC company, empowers customers to use data to gain understanding and drive mission-impacting decisions and actions. Our technology is trusted by government organizations and highly regulated commercial industries such as healthcare, financial services, and more.
+ Founded by former NSA data architects, Koverse offers a security-first platform with unprecedented scale, performance, and flexibility.
+ Koverse provides Zero Trust for data by enforcing attribute-based access controls (ABAC), allowing customers to safely work with their complex and sensitive data to power the most demanding analytics, data science, and AI use cases.
+ Koverse is headquartered in Seattle with hubs in Denver and the Washington, D.C. metro area. For more information, please visit www.koverse.com
+ Koverse is an equal opportunity employer. Koverse does not currently sponsor H1B visas and therefore candidates must be legally authorized to work for any employer in the United States on a full-time basis and not require current or future visa sponsorship for employment.
+ Salary: $90,000 - $160,000.00 per year depending on experience
+ 
+JmS6ZTzse4"

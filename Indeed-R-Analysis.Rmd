@@ -44,7 +44,7 @@ use_git_config(user.name='ihatmyself',user.email='ihatmyselflol@gmail.com')
 
 
 # 1. List of CSV files
-csv_files <- list.files(path = "~/Indeed-R-Analysis/Job_lists", pattern = "\\.csv$", full.names = TRUE)
+csv_files <- list.files(pattern = "\\.csv$", full.names = TRUE)
 
 # 2. Read CSV files and add a new column with the file name
 combined_data <- NULL
@@ -61,6 +61,9 @@ for (csv_file in csv_files) {
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 ```{r, echo=TRUE}
-
+combined_data <- transform(combined_data, 
+                           Job_title = gsub("@.*", "", source_file),
+                           city = gsub(".*@|\\#.*", "", source_file),
+                           date = gsub(".*\\#", "", source_file))
 
 ```
