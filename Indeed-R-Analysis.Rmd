@@ -4,7 +4,6 @@ output: html_document
 date: "2024-01-23"
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, echo = FALSE, warning = FALSE)
 ```
@@ -41,12 +40,11 @@ use_git_config(user.name='ihatmyself',user.email='ihatmyselflol@gmail.com')
 
 ## Read Files
 
-
 ```{r, echo=TRUE}
 
 
 # 1. List of CSV files
-csv_files <- list.files(path = "~/Documents/Indeed-R-Analysis/Job_lists", pattern = "\\.csv$", full.names = TRUE)
+csv_files <- list.files(path = "~/Indeed-R-Analysis/Job_lists", pattern = "\\.csv$", full.names = TRUE)
 
 # 2. Read CSV files and add a new column with the file name
 combined_data <- NULL
@@ -61,3 +59,8 @@ for (csv_file in csv_files) {
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```{r, echo=TRUE}
+
+
+```
