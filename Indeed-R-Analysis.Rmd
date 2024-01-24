@@ -33,6 +33,8 @@ library(patchwork)
 #install.packages("readr")
 library(readr)  
 
+library(stringr)
+
 library(usethis)
 
 use_git_config(user.name='ihatmyself',user.email='ihatmyselflol@gmail.com')
@@ -58,12 +60,31 @@ for (csv_file in csv_files) {
 
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Delimiting @ and \# to create job_title, city and date
 
 ```{r, echo=TRUE}
 combined_data <- transform(combined_data, 
                            Job_title = gsub("@.*", "", source_file),
                            city = gsub(".*@|\\#.*", "", source_file),
                            date = gsub(".*\\#", "", source_file))
+```
+
+```{r, echo=TRUE}
+
+combined_data$Lower_Salary <- NA
+combined_data$Upper_Salary <- NA
+
+# Use an if statement to separate salary values when 'year' is present
+for (i in 1:nrow(combined_data)) {
+  if (str_detect(combined_data$salary[i], "year")) {
+    salary_values <- as.numeric(str_extract_all(combined_data$salary[i], "\\d+,?\\d+")[[1]])
+    
+
+
+    combined_data$Lower_Salary[i] <- salary_values[1]
+    combined_data$Upper_Salary[i] <- salary_values[2]
+  }
+}
+
 
 ```
