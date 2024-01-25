@@ -104,5 +104,42 @@ for (i in 1:nrow(combined_data)) {
   combined_data$Upper_Salary[is.na(combined_data$Upper_Salary)] <- combined_data$Lower_Salary[is.na(combined_data$Upper_Salary)]
 }
 
+#create an average salary column
+combined_data <- combined_data %>%
+  mutate(Average_Salary = (Lower_Salary + Upper_Salary) / 2)
 
+```
+
+### Salary analysis comparing cities
+
+Mean Salary by City
+
+```{r, echo=TRUE}
+
+summary_by_city <- combined_data %>%
+  group_by(city) %>%
+  summarize(
+    Mean_Salary = mean(Average_Salary, na.rm = TRUE),
+    Median_Salary = median(Average_Salary, na.rm = TRUE),
+    Min_Salary = min(Average_Salary, na.rm = TRUE),
+    Max_Salary = max(Average_Salary, na.rm = TRUE),
+    Count = n()
+  )
+
+ggplot(summary_by_city, aes(x = city, y = Mean_Salary/1000)) +
+  geom_bar(stat = "identity", fill = "skyblue") +
+  labs(title = "Mean Salary by City", x = "City", y = "Mean Salary (thousands)")+ 
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
+Boxplots of Salary by City
+
+```{r, echo=TRUE}
+
+ggplot(combined_data, aes(x = city, y = Average_Salary/1000)) +
+  geom_boxplot(fill = "orange", color = "black", outlier.shape = NA) +
+  labs(title = "Boxplot of Salary by City", x = "City", y = "Mean Average Salary (thousands)")+ 
+  coord_cartesian(ylim = c(0, 300))+ 
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
