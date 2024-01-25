@@ -60,7 +60,9 @@ for (csv_file in csv_files) {
 
 ```
 
-Delimiting @ and \# to create job_title, city and date
+### Data Cleaning
+
+Delimiting \@ and \# to create job_title, city and date
 
 ```{r, echo=TRUE}
 combined_data <- transform(combined_data, 
@@ -69,21 +71,37 @@ combined_data <- transform(combined_data,
                            date = gsub(".*\\#", "", source_file))
 ```
 
+Salary calculation
+
 ```{r, echo=TRUE}
 
 combined_data$Lower_Salary <- NA
 combined_data$Upper_Salary <- NA
 
-# Use an if statement to separate salary values when 'year' is present
 for (i in 1:nrow(combined_data)) {
   if (str_detect(combined_data$salary[i], "year")) {
-    salary_values <- as.numeric(str_extract_all(combined_data$salary[i], "\\d+,?\\d+")[[1]])
+  
+    split <- as.numeric(gsub(",","",gsub("[^0-9,]", "", unlist(strsplit(combined_data$salary[i], " - ")))))
     
-
-
-    combined_data$Lower_Salary[i] <- salary_values[1]
-    combined_data$Upper_Salary[i] <- salary_values[2]
+    combined_data$Lower_Salary[i] <- split[1]
+    combined_data$Upper_Salary[i] <- split[2]
   }
+  if (str_detect(combined_data$salary[i], "month")) {
+  
+    split <- as.numeric(gsub(",","",gsub("[^0-9,]", "", unlist(strsplit(combined_data$salary[i], " - ")))))
+    
+    combined_data$Lower_Salary[i] <- split[1]*12
+    combined_data$Upper_Salary[i] <- split[2]*12
+  }
+  if (str_detect(combined_data$salary[i], "hour")) {
+  
+    split <- as.numeric(gsub(",","",gsub("[^0-9,]", "", unlist(strsplit(combined_data$salary[i], " - ")))))
+    
+    combined_data$Lower_Salary[i] <- split[1]*260*8
+    combined_data$Upper_Salary[i] <- split[2]*260*8
+  }
+  
+  combined_data$Upper_Salary[is.na(combined_data$Upper_Salary)] <- combined_data$Lower_Salary[is.na(combined_data$Upper_Salary)]
 }
 
 
