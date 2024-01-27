@@ -139,9 +139,16 @@ Boxplots of Salary by City
 
 ggplot(combined_data, aes(x = city, y = Average_Salary/1000)) +
   geom_boxplot(fill = "orange", color = "black", outlier.shape = NA) +
-  labs(title = "Boxplot of Salary by City", x = "City", y = "Mean Average Salary (thousands)")+ 
+  labs(title = "Boxplot of Salary by City", x = "City", y = "Salary (thousands)")+ 
   coord_cartesian(ylim = c(0, 300))+ 
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+```{r, echo=TRUE}
+
+mapdata <- map_data("usa")
+view(mapdata)
+
 ```
 
 ### Job titles and Salary
@@ -151,7 +158,7 @@ ggplot(combined_data, aes(x = city, y = Average_Salary/1000)) +
 
 ggplot(combined_data, aes(x = Job_title, y = Average_Salary/1000)) +
   geom_boxplot(fill = "darkgreen", color = "black", outlier.shape = NA) +
-  labs(title = "Boxplot of Salary by Job Title", x = "Title", y = "Mean Average Salary (thousands)")+ 
+  labs(title = "Boxplot of Salary by Job Title", x = "Job Title", y = "Mean Average Salary (thousands)")+ 
   coord_cartesian(ylim = c(0, 300))+ 
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
