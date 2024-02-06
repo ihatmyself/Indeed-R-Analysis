@@ -146,20 +146,28 @@ ggplot(combined_data, aes(x = city, y = Average_Salary/1000)) +
 
 ```{r, echo=TRUE}
 
-us_map <- map_data("usa")
-
-# Sample dataset of US cities
+# Sample dataset of US cities with salary information
 us_cities <- data.frame(
   city = c("austin", "chicago", "houston", "los_angeles", "new_york","dallas", "philadelphia", "phoenix", "san_antonio", "san_diego"),
   lon = c(-97.7431, -87.6298, -95.3698, -118.2437, -74.006,-96.797,-75.1652, -112.0740, -98.4946, -117.1611),
-  lat = c(30.2672, 41.8781, 29.7604, 34.0522, 40.7128,32.7767, 39.9626, 33.4484, 29.4252,32.7157)
-)
+  lat = c(30.2672, 41.8781, 29.7604, 34.0522, 40.7128,32.7767, 39.9626, 33.4484, 29.4252,32.7157))
 
-# Create a map of US cities
+us_cities <- left_join(us_cities, summary_by_city, by = "city")
+
+# Define color gradient
+color_gradient <- scale_color_gradient(low = "green", high = "red")
+
+
+# Create a map of US cities with color gradient based on salary income
 ggplot() +
-  geom_polygon(data = us_map, aes(x = long, y = lat, group = group), fill = "white", color = "black") +
-  geom_point(data = us_cities, aes(x = lon, y = lat), size = 3, color = "green") +
-  labs(title = "US Cities Map") +
+
+  geom_polygon(data = map_data("state"), aes(x = long, y = lat, group = group), fill = "lightgrey", color = "grey") +  
+  geom_polygon(data = map_data("usa"), aes(x = long, y = lat, group = group), fill = NA, color = "darkred") +
+
+  geom_point(data = us_cities, aes(x = lon, y = lat, color = Median_Salary), size = 3) +
+  geom_text(data = us_cities, aes(x = lon, y = lat, label = city), hjust = 0.7, vjust = 0, size = 2, color="black",family = "Arial") + # Add city labels
+  labs(title = "US Cities Map with Salary Income") +
+  color_gradient +
   theme_void()
 
 ```
