@@ -155,14 +155,14 @@ us_cities <- data.frame(
 us_cities <- left_join(us_cities, summary_by_city, by = "city")
 
 # Define color gradient
-color_gradient <- scale_color_gradient(low = "green", high = "red")
+color_gradient <- scale_color_gradient(low = "red", high = "green")
 
 
 # Create a map of US cities with color gradient based on salary income
 ggplot() +
 
   geom_polygon(data = map_data("state"), aes(x = long, y = lat, group = group), fill = "lightgrey", color = "grey") +  
-  geom_polygon(data = map_data("usa"), aes(x = long, y = lat, group = group), fill = NA, color = "darkred") +
+  geom_polygon(data = map_data("usa"), aes(x = long, y = lat, group = group), fill = NA, color = "black") +
 
   geom_point(data = us_cities, aes(x = lon, y = lat, color = Median_Salary), size = 3) +
   geom_text(data = us_cities, aes(x = lon, y = lat, label = city), hjust = 0.7, vjust = 0, size = 2, color="black",family = "Arial") + # Add city labels
@@ -172,10 +172,9 @@ ggplot() +
 
 ```
 
-### Job titles and Salary
+### Job Titles and Salary
 
 ```{r,echo=TRUE}
-
 
 ggplot(combined_data, aes(x = Job_title, y = Average_Salary/1000)) +
   geom_boxplot(fill = "darkgreen", color = "black", outlier.shape = NA) +
@@ -183,3 +182,25 @@ ggplot(combined_data, aes(x = Job_title, y = Average_Salary/1000)) +
   coord_cartesian(ylim = c(0, 300))+ 
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
+
+### Remote Work and Corelation to Salary
+
+```{r, echo=TRUE}
+# Search for "remote" and "hybrid" in job_description column
+combined_data$work_type <- ifelse(grepl("remote", combined_data$job_description, ignore.case = TRUE), "Remote",ifelse(grepl("hybrid", combined_data$job_description, ignore.case = TRUE), "Hybrid", "In-Person"))
+
+# Count the frequency of each work type
+work_type_counts <- table(combined_data$work_type,combined_data$Job_title)
+
+# Convert to data frame
+work_type_df <- as.data.frame(work_type_counts)
+
+# Create pie chart
+ggplot(work_type_df, aes(x = "", y = Freq, fill = Var1)) +
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar("y", start = 0) +
+  labs(title = "Proportion of Job Types", fill = "Job Type", y = NULL) +
+  theme_void() +
+  scale_fill_manual(values = c("Remote" = "blue", "Hybrid" = "green", "In-Person" = "red"))
+```
+
