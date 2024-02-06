@@ -183,7 +183,7 @@ ggplot(combined_data, aes(x = Job_title, y = Average_Salary/1000)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
-### Remote Work and Corelation to Salary
+### Remote, Hybrid and In-person Work
 
 ```{r, echo=TRUE}
 # Search for "remote" and "hybrid" in job_description column
@@ -195,12 +195,27 @@ work_type_counts <- table(combined_data$work_type,combined_data$Job_title)
 # Convert to data frame
 work_type_df <- as.data.frame(work_type_counts)
 
-# Create pie chart
-ggplot(work_type_df, aes(x = "", y = Freq, fill = Var1)) +
-  geom_bar(stat = "identity", width = 1) +
-  coord_polar("y", start = 0) +
-  labs(title = "Proportion of Job Types", fill = "Job Type", y = NULL) +
-  theme_void() +
-  scale_fill_manual(values = c("Remote" = "blue", "Hybrid" = "green", "In-Person" = "red"))
+data_analyst <- subset(work_type_df, Var2 == "data_analyst")
+data_engineer <- subset(work_type_df, Var2 == "data_engineer")
+data_scientist <- subset(work_type_df, Var2 == "data_scientist")
+
+# Function to create pie chart
+create_pie_chart <- function(data, title) {
+  pie_chart <- ggplot(data, aes(x = "", y = Freq, fill = Var1)) +
+    geom_bar(stat = "identity", width = 1) +
+    coord_polar("y", start = 0) +
+    labs(title = paste("Proportion of Job Types for", title), fill = "Job Type", y = NULL) +
+    theme_void() +
+    scale_fill_manual(values = c("Remote" = "aquamarine2", "Hybrid" = "cyan", "In-Person" = "blue"))
+  print(pie_chart)
+}
+
+# Create pie charts for each job title
+create_pie_chart(data_analyst, "Data Analyst")
+create_pie_chart(data_engineer, "Data Engineer")
+create_pie_chart(data_scientist, "Data Scientist")
 ```
+
+### Work Type and Salary
+
 
