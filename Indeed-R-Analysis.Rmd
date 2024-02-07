@@ -225,7 +225,8 @@ combined_data_omit <- na.omit(combined_data)
 
 # Create box plots
 box_plot <- ggplot(combined_data_omit, aes(x = work_type, y = Average_Salary/1000, fill = work_type)) +
-  geom_boxplot(outlier.shape = NA) +
+  geom_violin() +
+  geom_boxplot(outlier.shape = NA, width=0.1) +
   labs(title = "Median Salary by Job Title and Work Type", x = "Job Title", y = "Median Salary in thousands", fill = "Work Type") +
   scale_fill_manual(values = c("Remote" = "aquamarine2", "Hybrid" = "cyan", "In-Person" = "blue")) +
   coord_cartesian(ylim = c(0, 300))+ 
