@@ -33,11 +33,24 @@ library(patchwork)
 #install.packages("readr")
 library(readr)  
 
+#install.package("stringr")
 library(stringr)
 
+#install.package("usethis")
 library(usethis)
 
-use_git_config(user.name='ihatmyself',user.email='ihatmyselflol@gmail.com')
+#install.packages("tm")
+library(tm)
+
+#install.packages("SnowballC")
+library(SnowballC)
+
+#install.packages("wordcloud")
+library(wordcloud)
+
+#install.packages("RColorBrewer")
+library(RColorBrewer)
+
 ```
 
 ## Read Files
@@ -235,6 +248,13 @@ box_plot <- ggplot(combined_data_omit, aes(x = work_type, y = Average_Salary/100
 
 # Print the box plots
 print(box_plot)
+
+```
+### Job Description
+
+```{r, echo=TRUE}
+combined_description <- paste(combined_data$job_description, collapse = " ")
+docs <- Corpus(VectorSource(combined_description))
 
 ```
 
