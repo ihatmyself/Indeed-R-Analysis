@@ -75,11 +75,11 @@ for (csv_file in csv_files) {
 
 ### Data Cleaning
 
-Delimiting \@ and \# to create job_title, city and date
+Delimiting \@ and \# to create category, city and date
 
 ```{r, echo=TRUE}
 combined_data <- transform(combined_data, 
-                           Job_title = gsub("@.*", "", source_file),
+                           category = gsub("@.*", "", source_file),
                            city = gsub(".*@|\\#.*", "", source_file),
                            date = gsub(".*\\#", "", source_file))
 ```
@@ -189,7 +189,7 @@ ggplot() +
 
 ```{r,echo=TRUE}
 
-ggplot(combined_data, aes(x = Job_title, y = Average_Salary/1000)) +
+ggplot(combined_data, aes(x = category, y = Average_Salary/1000)) +
   geom_boxplot(fill = "darkgreen", color = "black", outlier.shape = NA) +
   labs(title = "Boxplot of Salary by Job Title", x = "Job Title", y = "Mean Average Salary (thousands)")+ 
   coord_cartesian(ylim = c(0, 300))+ 
@@ -203,7 +203,7 @@ ggplot(combined_data, aes(x = Job_title, y = Average_Salary/1000)) +
 combined_data$work_type <- ifelse(grepl("remote", combined_data$job_description, ignore.case = TRUE), "Remote",ifelse(grepl("hybrid", combined_data$job_description, ignore.case = TRUE), "Hybrid", "In-Person"))
 
 # Count the frequency of each work type
-work_type_counts <- table(combined_data$work_type,combined_data$Job_title)
+work_type_counts <- table(combined_data$work_type,combined_data$category)
 
 # Convert to data frame
 work_type_df <- as.data.frame(work_type_counts)
@@ -244,7 +244,7 @@ box_plot <- ggplot(combined_data_omit, aes(x = work_type, y = Average_Salary/100
   scale_fill_manual(values = c("Remote" = "aquamarine", "Hybrid" = "cyan", "In-Person" = "blue")) +
   coord_cartesian(ylim = c(0, 300))+ 
   theme_minimal() +
-  facet_wrap(~Job_title)
+  facet_wrap(~category)
 
 # Print the box plots
 print(box_plot)
@@ -253,8 +253,23 @@ print(box_plot)
 ### Job Description
 
 ```{r, echo=TRUE}
-combined_description <- paste(combined_data$job_description, collapse = " ")
-docs <- corpus(VectorSource(combined_description))
+# Filter for rows where category contains "data_analyst"
+analyst_text <- combined_data %>%
+  filter(str_detect(category, "data_analyst"))
 
+# Filter for rows where category contains "data_scientist"
+scientist_text <- combined_data %>%
+  filter(str_detect(category, "data_scientist"))
+
+# Filter for rows where category contains "data_engineer"
+engineer_text <- combined_data %>%
+  filter(str_detect(category, "data_engineer"))
+
+# Combine job descriptions into a single string
+analyst_docs <- paste(analyst_text$job_description, collapse = " ")
+
+scientist_docs <- paste(scientist_text$job_description, collapse = " ")
+
+engineer_docs <- paste(engineer_text$job_description, collapse = " ")
 ```
 
