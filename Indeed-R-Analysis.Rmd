@@ -254,22 +254,39 @@ print(box_plot)
 
 ```{r, echo=TRUE}
 # Filter for rows where category contains "data_analyst"
-analyst_text <- combined_data %>%
+analyst_df <- combined_data %>%
   filter(str_detect(category, "data_analyst"))
 
+analyst_text <- paste(analyst_df$job_description, collapse = " ")
+
+
 # Filter for rows where category contains "data_scientist"
-scientist_text <- combined_data %>%
+scientist_df <- combined_data %>%
   filter(str_detect(category, "data_scientist"))
 
+scientist_text <- paste(scientist_df$job_description, collapse = " ")
+
+
 # Filter for rows where category contains "data_engineer"
-engineer_text <- combined_data %>%
+engineer_df <- combined_data %>%
   filter(str_detect(category, "data_engineer"))
 
-# Combine job descriptions into a single string
-analyst_docs <- paste(analyst_text$job_description, collapse = " ")
+engineer_text <- paste(engineer_df$job_description, collapse = " ")
 
-scientist_docs <- paste(scientist_text$job_description, collapse = " ")
 
-engineer_docs <- paste(engineer_text$job_description, collapse = " ")
+# Create corpra for each category
+```
+
+
+```{r, echo=TRUE}
+
+analyst_docs <- Corpus(VectorSource(analyst_text))
+
+toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
+
+analyst_docs <- tm_map(analyst_docs, toSpace, "/")
+analyst_docs <- tm_map(analyst_docs, toSpace, "@")
+analyst_docs <- tm_map(analyst_docs, toSpace, "\\|")
+analyst_docs <- tm_map(analyst_docs, toSpace, "\n")
 ```
 
