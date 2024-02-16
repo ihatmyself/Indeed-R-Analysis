@@ -297,12 +297,29 @@ analyst_docs <- tm_map(analyst_docs, removeNumbers)
 analyst_docs <- tm_map(analyst_docs, removeWords, stopwords("english"))
 # Remove your own stop word
 # specify your stopwords as a character vector
-analyst_docs <- tm_map(analyst_docs, removeWords, c("blabla1", "blabla2")) 
+analyst_docs <- tm_map(analyst_docs, removeWords, c("will", "job", "years", "working", "related")) 
 # Remove punctuations
 analyst_docs <- tm_map(analyst_docs, removePunctuation)
 # Eliminate extra white spaces
 analyst_docs <- tm_map(analyst_docs, stripWhitespace)
 # Text stemming
-docs <- tm_map(analyst_docs, stemDocument)
+#analyst_docs <- tm_map(analyst_docs, stemDocument)
+```
+```{r,echo=TRUE}
+
+dtm <- TermDocumentMatrix(analyst_docs)
+m <- as.matrix(dtm)
+v <- sort(rowSums(m),decreasing=TRUE)
+d <- data.frame(word = names(v),freq=v)
+head(d, 30)
+
+```
+```{r,echo=TRUE}
+
+set.seed(1234)
+wordcloud(words = d$word, freq = d$freq, min.freq = 1000,
+          max.words=200, random.order=FALSE, rot.per=0.35, 
+          colors=brewer.pal(5, "Dark2"))
 ```
 
+http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
