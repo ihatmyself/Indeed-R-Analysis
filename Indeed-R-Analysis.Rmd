@@ -277,7 +277,7 @@ engineer_text <- paste(engineer_df$job_description, collapse = " ")
 # Create corpra for each category
 ```
 
-
+### Cleaning 
 ```{r, echo=TRUE}
 
 analyst_docs <- Corpus(VectorSource(analyst_text))
@@ -288,5 +288,21 @@ analyst_docs <- tm_map(analyst_docs, toSpace, "/")
 analyst_docs <- tm_map(analyst_docs, toSpace, "@")
 analyst_docs <- tm_map(analyst_docs, toSpace, "\\|")
 analyst_docs <- tm_map(analyst_docs, toSpace, "\n")
+
+# Convert the text to lower case
+analyst_docs <- tm_map(analyst_docs, content_transformer(tolower))
+# Remove numbers
+analyst_docs <- tm_map(analyst_docs, removeNumbers)
+# Remove english common stopwords
+analyst_docs <- tm_map(analyst_docs, removeWords, stopwords("english"))
+# Remove your own stop word
+# specify your stopwords as a character vector
+analyst_docs <- tm_map(analyst_docs, removeWords, c("blabla1", "blabla2")) 
+# Remove punctuations
+analyst_docs <- tm_map(analyst_docs, removePunctuation)
+# Eliminate extra white spaces
+analyst_docs <- tm_map(analyst_docs, stripWhitespace)
+# Text stemming
+docs <- tm_map(analyst_docs, stemDocument)
 ```
 
