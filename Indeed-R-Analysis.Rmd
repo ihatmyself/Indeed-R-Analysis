@@ -8,7 +8,7 @@ date: "2024-01-23"
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, echo = FALSE, warning = FALSE)
 ```
 
-## Libraries
+### Libraries
 
 ```{r, echo=TRUE}
 library(tidyverse)
@@ -53,7 +53,7 @@ library(RColorBrewer)
 
 ```
 
-## Read Files
+### Read Files
 
 ```{r, echo=TRUE}
 
@@ -274,12 +274,12 @@ engineer_df <- combined_data %>%
 engineer_text <- paste(engineer_df$job_description, collapse = " ")
 
 
-# Create corpra for each category
 ```
 
-### Cleaning 
+### Cleaning for data analyst
 ```{r, echo=TRUE}
 
+#create corprus for text
 analyst_docs <- Corpus(VectorSource(analyst_text))
 
 toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
@@ -305,6 +305,7 @@ analyst_docs <- tm_map(analyst_docs, stripWhitespace)
 # Text stemming
 #analyst_docs <- tm_map(analyst_docs, stemDocument)
 ```
+###  Create a matrix
 ```{r,echo=TRUE}
 
 dtm <- TermDocumentMatrix(analyst_docs)
@@ -314,6 +315,8 @@ d <- data.frame(word = names(v),freq=v)
 head(d, 30)
 
 ```
+
+### Create a wordcloud
 ```{r,echo=TRUE}
 
 set.seed(1234)
@@ -326,12 +329,124 @@ wordcloud(words = d$word, freq = d$freq, min.freq = 1000,
 ```{r,echo=TRUE}
 
 barplot(d[1:10,]$freq, las = 2, names.arg = d[1:10,]$word,
-        col ="lightblue", main ="Most frequent words",
+        col ="lightblue", main ="Most frequent words for data analyst",
+        ylab = "Word frequencies")
+
+```
+### Cleaning for data scientist
+
+```{r, echo=TRUE}
+#create corprus for text
+scientist_docs <- Corpus(VectorSource(scientist_text))
+
+toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
+
+scientist_docs <- tm_map(scientist_docs, toSpace, "/")
+scientist_docs <- tm_map(scientist_docs, toSpace, "@")
+scientist_docs <- tm_map(scientist_docs, toSpace, "\\|")
+scientist_docs <- tm_map(scientist_docs, toSpace, "\n")
+
+# Convert the text to lower case
+scientist_docs <- tm_map(scientist_docs, content_transformer(tolower))
+# Remove numbers
+scientist_docs <- tm_map(scientist_docs, removeNumbers)
+# Remove english common stopwords
+scientist_docs <- tm_map(scientist_docs, removeWords, stopwords("english"))
+# Remove your own stop word
+# specify your stopwords as a character vector
+scientist_docs <- tm_map(scientist_docs, removeWords, c("will", "job", "years", "working", "related")) 
+# Remove punctuations
+scientist_docs <- tm_map(scientist_docs, removePunctuation)
+# Eliminate extra white spaces
+scientist_docs <- tm_map(scientist_docs, stripWhitespace)
+# Text stemming
+#scientist_docs <- tm_map(scientist_docs, stemDocument)
+```
+### Create a matrix
+
+```{r,echo=TRUE}
+
+s_dtm <- TermDocumentMatrix(scientist_docs)
+s_m <- as.matrix(s_dtm)
+s_v <- sort(rowSums(s_m),decreasing=TRUE)
+s_d <- data.frame(word = names(s_v),freq=s_v)
+head(s_d, 30)
+
+```
+### Create a wordcloud
+```{r,echo=TRUE}
+
+set.seed(1234)
+wordcloud(words = s_d$word, freq = s_d$freq, min.freq = 1000,
+          max.words=200, random.order=FALSE, rot.per=0.35, 
+          colors=brewer.pal(6, "Dark2"))
+```
+### Frequent words
+```{r,echo=TRUE}
+
+barplot(s_d[1:10,]$freq, las = 2, names.arg = s_d[1:10,]$word,
+        col ="lightgreen", main ="Most frequent words for data scientist",
         ylab = "Word frequencies")
 
 ```
 
+### Cleaning for data engineer
+```{r, echo=TRUE}
+
+#create corprus for text
+engineer_docs <- Corpus(VectorSource(engineer_text))
+
+toSpace <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
+
+engineer_docs <- tm_map(engineer_docs, toSpace, "/")
+engineer_docs <- tm_map(engineer_docs, toSpace, "@")
+engineer_docs <- tm_map(engineer_docs, toSpace, "\\|")
+engineer_docs <- tm_map(engineer_docs, toSpace, "\n")
+
+# Convert the text to lower case
+engineer_docs <- tm_map(engineer_docs, content_transformer(tolower))
+# Remove numbers
+engineer_docs <- tm_map(engineer_docs, removeNumbers)
+# Remove english common stopwords
+engineer_docs <- tm_map(engineer_docs, removeWords, stopwords("english"))
+# Remove your own stop word
+# specify your stopwords as a character vector
+engineer_docs <- tm_map(engineer_docs, removeWords, c("will", "job", "years", "working", "related", "work","including")) 
+# Remove punctuations
+engineer_docs <- tm_map(engineer_docs, removePunctuation)
+# Eliminate extra white spaces
+engineer_docs <- tm_map(engineer_docs, stripWhitespace)
+# Text stemming
+#engineer_docs <- tm_map(engineer_docs, stemDocument)
+```
+
+### Create a matrix
+```{r,echo=TRUE}
+
+e_dtm <- TermDocumentMatrix(engineer_docs)
+e_m <- as.matrix(e_dtm)
+e_v <- sort(rowSums(e_m),decreasing=TRUE)
+e_d <- data.frame(word = names(e_v),freq=e_v)
+head(e_d, 30)
+
+```
+
+### Create a wordcloud
+```{r,echo=TRUE}
+
+set.seed(1234)
+wordcloud(words = e_d$word, freq = e_d$freq, min.freq = 700,
+          max.words=200, random.order=FALSE, rot.per=0.35, 
+          colors=brewer.pal(8, "Dark2"))
+```
+### Frequent words
+```{r,echo=TRUE}
+
+barplot(s_d[1:10,]$freq, las = 2, names.arg = s_d[1:10,]$word,
+        col ="grey", main ="Most frequent words for data scientist",
+        ylab = "Word frequencies")
+
+```
 
 ### References
-
 http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know
